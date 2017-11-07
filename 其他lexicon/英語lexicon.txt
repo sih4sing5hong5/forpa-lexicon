@@ -1,0 +1,93 @@
+<NOISE> SIL
+!SIL SIL
+<SPOKEN_NOISE> SIL
+<unk> SIL
+Three-C	s an s i
+Three-G	s an z i
+Four-G	s ii z i
+Seven-Eleven	100 s e bh ern
+Seven-Eleven	s e bh un
+Seven-Eleven	s e bh ern it l e bh ern
+Seven-Eleven	s e bh un it l e bh un
+ACER	ei s er
+A	ei
+Aluminum	a l u m i
+ASUS	a s u s ii
+Autobike	o d o bh ai
+Back	bh ak k u
+B	bh i
+B	b i
+*Blue	b u l u
+公車	bh a s u
+客運	bh a s u
+Call	k o
+*Camera	k a m e l a
+*Catalog	k a d a l ak gh u
+CD	s i d i
+Copy	k o p i
+Copy	k o b i
+C	s i
+D	d i
+E	i
+Facebook	f ei s ii b u k er
+Fb	e f u b i
+Fb	e f u bh i
+F	e f u
+F	e h u
+Golf	gh o l u h u
+Google	g u g o
+G	z i
+方向盤	h an d o l u
+Handle	h en d o
+H	e c i
+*Hose	h o s u
+HTC	e c i t i s i
+I	ai
+Iphone	ai f ong
+J	z e
+Kilo	k i l o
+Kilo	k i l er
+K	k ei
+L	e l o
+Line	l ai n
+Line	l ai
+M	e m u
+領帶	n e k u d ai
+N	en
+Notebook	n o t er b u k er
+Notebook	n o b u k er
+O	ou
+PcHome	p i s i h ong
+PC	p i s i
+Percent	p a s en
+Percent	p a s en d o
+Percent	p a 
+Plus p u l a s ii
+P	p i
+Q	k iu
+R	a
+*Radio	l a r i o
+Samsung	s am s ong
+Seafood	s i f u
+S	e s ii
+Short	s io d o
+Sony	s o n i
+*SoSad	s o s a d er
+StarBuck	s ii d a b a
+*Tennis	t e n i s u
+磁磚	t ai l u
+卡車	t o l ak k u
+T	t i
+Uber	iu b er
+Uber	u b er
+UBike	iu b ai
+UBike	iu b ai k er
+U	iu
+V	bh ui
+Wifi	uai f ai
+W	d a b u l iu
+X	e k er s ii
+X	c a
+Yahoo	ia h u
+Y	u ai
+Z	l i

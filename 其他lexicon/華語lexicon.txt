@@ -1,0 +1,9384 @@
+一	i
+一一	i i
+一下	i s ia
+一些	i s ie
+一切	i c ie
+一半	i b an
+一同	i t ong
+一向	i s iang
+一定	i d ing
+一方面	i f ang m ien
+一旦	i d an
+一樣	i iang
+一生	i sh ng
+一直	i zh ii
+一致	i zh ii
+一般	i b an
+一起	i c i
+一路	i l u
+一邊	i b ien
+一點	i d ien
+一點點	i d ien d ien
+丁	d ing
+七	c i
+丈	zh ang
+丈夫	zh ang f u
+三	s an
+上	sh ang
+上下	sh ang s ia
+上來	sh ang l ai
+上升	sh ang sh ng
+上午	sh ang u
+上去	sh ang c yu
+上市	sh ang sh ii
+上帝	sh ang d i
+上方	sh ang f ang
+上次	sh ang c ii
+上海	sh ang h ai
+上班	sh ang b an
+上班族	sh ang b an z u
+上網	sh ang uang
+上課	sh ang k er
+上述	sh ang sh u
+上面	sh ang m ien
+下	s ia
+下來	s ia l ai
+下列	s ia l ie
+下午	s ia u
+下去	s ia c yu
+下方	s ia f ang
+下次	s ia c ii
+下班	s ia b an
+下車	s ia ch er
+下載	s ia z ai
+下降	s ia z iang
+下面	s ia m ien
+不	b u
+不	f ou
+不久	b u z iou
+不但	b u d an
+不停	b u t ing
+不僅	b u z in
+不再	b u z ai
+不到	b u d au
+不動產	b u d ong ch an
+不同	b u t ong
+不夠	b u g ou
+不好意思	b u h au i s ii
+不如	b u rh u
+不妨	b u f ang
+不安	b u an
+不少	b u sh au
+不幸	b u s ing
+不得	b u d er
+不得不	b u d er b u
+不必	b u b i
+不斷	b u d uan
+不是	b u sh ii
+不滿	b u m an
+不然	b u rh an
+不用	b u iong
+不知	b u zh ii
+不知道	b u zh ii d au
+不禁	b u z in
+不管	b u g uan
+不良	b u l iang
+不行	b u s ing
+不要	b u iau
+不論	b u l un
+不足	b u z u
+不過	b u g uo
+不錯	b u c uo
+丐	g ai
+丑	ch ou
+且	c ie
+丕	p i
+世	sh ii
+世上	sh ii sh ang
+世代	sh ii d ai
+世界	sh ii z ie
+世紀	sh ii z i
+丘	c iou
+丙	b ing
+丞	ch ng
+丟	d iou
+並	b ing
+並不	b ing b u
+並且	b ing c ie
+並沒有	b ing m ei iou
+並非	b ing f ei
+丫	ia
+中	zh ong
+中共	zh ong g ong
+中午	zh ong u
+中國	zh ong g uo
+中國人	zh ong g uo rh ern
+中央	zh ong iang
+中學	zh ong s yue
+中山	zh ong sh an
+中心	zh ong s in
+中文	zh ong un
+中文版	zh ong un b an
+中正	zh ong zh ng
+中的	zh ong d i
+中華	zh ong h ua
+中部	zh ong b u
+中醫	zh ong i
+中間	zh ong z ien
+丰	f ng
+串	ch uan
+丸	uan
+丹	d an
+主	zh u
+主人	zh u rh ern
+主任	zh u rh ern
+主動	zh u d ong
+主席	zh u s i
+主張	zh u zh ang
+主持	zh u ch ii
+主持人	zh u ch ii rh ern
+主機	zh u z i
+主流	zh u l iou
+主管	zh u g uan
+主義	zh u i
+主要	zh u iau
+主角	zh u z iau
+主角	zh u z yue
+主辦	zh u b an
+主題	zh u t i
+乃	n ai
+久	z iou
+么	iau
+之	zh ii
+之下	zh ii s ia
+之中	zh ii zh ong
+之內	zh ii n ei
+之前	zh ii c ien
+之外	zh ii uai
+之後	zh ii h ou
+之所以	zh ii s uo i
+之間	zh ii z ien
+之際	zh ii z i
+之類	zh ii l ei
+乍	zh a
+乎	h u
+乏	f a
+乒	p ing
+乓	p ang
+乖	g uai
+乘	ch ng
+乘客	ch ng k er
+乙	i
+乜	n ie
+九	z iou
+乞	c i
+也	ie
+也好	ie h au
+也是	ie sh ii
+也許	ie s yu
+乩	z i
+乳	rh u
+乾	c ien
+乾	g an
+乾淨	g an z ing
+亂	l uan
+了	l er
+了	l iau
+了解	l iau z ie
+予	yu
+事	sh ii
+事件	sh ii z ien
+事先	sh ii s ien
+事務	sh ii u
+事宜	sh ii i
+事實	sh ii sh ii
+事實上	sh ii sh ii sh ang
+事情	sh ii c ing
+事故	sh ii g u
+事業	sh ii ie
+事物	sh ii u
+事項	sh ii s iang
+二	err
+于	yu
+云	yun
+互	h u
+互動	h u d ong
+互相	h u s iang
+互聯網	h u l ien uang
+五	u
+井	z ing
+亙	g ern
+些	s ie
+亞	ia
+亞洲	ia zh ou
+亟	z i
+亡	uang
+亢	k ang
+交	z iau
+交友	z iau iou
+交往	z iau uang
+交換	z iau h uan
+交易	z iau i
+交流	z iau l iou
+交給	z iau g ei
+交通	z iau t ong
+亥	h ai
+亦	i
+亨	h ng
+享	s iang
+享受	s iang sh ou
+享有	s iang iou
+享用	s iang iong
+京	z ing
+京都	z ing d u
+亭	t ing
+亮	l iang
+亳	b uo
+人	rh ern
+人人	rh ern rh ern
+人們	rh ern m ern
+人力	rh ern l i
+人口	rh ern k ou
+人員	rh ern yuan
+人士	rh ern sh ii
+人家	rh ern z ia
+人工	rh ern g ong
+人心	rh ern s in
+人性	rh ern s ing
+人才	rh ern c ai
+人數	rh ern sh u
+人文	rh ern un
+人權	rh ern c yuan
+人民	rh ern m in
+人民幣	rh ern m in b i
+人氣	rh ern c i
+人物	rh ern u
+人生	rh ern sh ng
+人群	rh ern s yun
+人間	rh ern z ien
+人類	rh ern l ei
+人體	rh ern t i
+什	sh ii
+什麼	sh er m er
+什麼	sh ern m er
+什麼	sh ii m er
+仁	rh ern
+仇	ch ou
+今	z in
+今天	z in t ien
+今年	z in n ien
+今日	z in rh ii
+今晚	z in uan
+介	z ie
+介紹	z ie sh au
+介面	z ie m ien
+仍	rh ng
+仍然	rh ng rh an
+仔	z ii
+仔細	z ii s i
+仕	sh ii
+他	t a
+他人	t a rh ern
+他們	t a m ern
+仗	zh ang
+付	f u
+付出	f u ch u
+付款	f u k uan
+仙	s ien
+仡	i
+代	d ai
+代理	d ai l i
+代表	d ai b iau
+令	l ing
+以	i
+以上	i sh ang
+以下	i s ia
+以來	i l ai
+以便	i b ien
+以免	i m ien
+以前	i c ien
+以及	i z i
+以外	i uai
+以往	i uang
+以後	i h ou
+以為	i uei
+以色列	i s er l ie
+仰	iang
+仲	zh ong
+仲介	zh ong z ie
+仳	p i
+件	z ien
+任	rh ern
+任何	rh ern h er
+任務	rh ern u
+任意	rh ern i
+份	f ern
+仿	f ang
+企	c i
+企業	c i ie
+伉	k ang
+伊	i
+伍	u
+伎	z i
+伏	f u
+伐	f a
+休	s iou
+休息	s iou s i
+休閒	s iou s ien
+伕	f u
+伯	b uo
+估	g u
+估計	g u z i
+伴	b an
+伶	l ing
+伸	sh ern
+伺	s ii
+伺服器	s ii f u c i
+似	s ii
+似乎	s ii h u
+似的	s ii d er
+伽	c ie
+佃	d ien
+但	d an
+但是	d an sh ii
+佈	b u
+位	uei
+位於	uei yu
+位置	uei zh ii
+低	d i
+住	zh u
+住宅	zh u zh ai
+住宿	zh u s u
+佐	z uo
+佑	iou
+佔	zh an
+何	h er
+何時	h er sh ii
+佗	t uo
+佘	sh er
+余	yu
+佚	i
+佛	f uo
+佛教	f uo z iau
+佛法	f uo f a
+作	z uo
+作出	z uo ch u
+作品	z uo p in
+作家	z uo z ia
+作戰	z uo zh an
+作曲	z uo c yu
+作業	z uo ie
+作法	z uo f a
+作為	z uo uei
+作用	z uo iong
+作者	z uo zh er
+你	n i
+你們	n i m ern
+佩	p ei
+佬	l au
+佯	iang
+佳	z ia
+併	b ing
+佼	z iau
+使	sh ii
+使得	sh ii d er
+使用	sh ii iong
+使用者	sh ii iong zh er
+侃	k an
+來	l ai
+來到	l ai d au
+來源	l ai yuan
+來看	l ai k an
+來自	l ai z ii
+來說	l ai sh uo
+來電	l ai d ien
+例	l i
+例如	l i rh u
+例子	l i z ii
+侍	sh ii
+侏	zh u
+侖	l un
+供	g ong
+供應	g ong ing
+供應商	g ong ing sh ang
+依	i
+依據	i z yu
+依然	i rh an
+依照	i zh au
+依舊	i z iou
+侮	u
+侯	h ou
+侵	c in
+侶	l yu
+侷	z yu
+侹	t ing
+便	b ien
+便利	b ien l i
+便宜	b ien i
+便宜	p ien i
+便是	b ien sh ii
+便當	b ien d ang
+係	s i
+促	c u
+促進	c u z in
+俄	er
+俄羅斯	er l uo s ii
+俊	z yun
+俎	z u
+俏	c iau
+俐	l i
+俑	iong
+俗	s u
+俘	f u
+保	b au
+保健	b au z ien
+保存	b au c un
+保持	b au ch ii
+保留	b au l iou
+保證	b au zh ng
+保護	b au h u
+保障	b au zh ang
+保險	b au s ien
+保養	b au iang
+俞	yu
+俠	s ia
+信	s in
+信仰	s in iang
+信任	s in rh ern
+信徒	s in t u
+信心	s in s in
+信息	s in s i
+信用	s in iong
+信用卡	s in iong k a
+信箱	s in s iang
+信義	s in i
+修	s iou
+修改	s iou g ai
+修正	s iou zh ng
+修行	s iou s ing
+俯	f u
+俱	z yu
+俱樂部	z yu l er b u
+俸	f ng
+俺	an
+俾	b i
+倆	l iang
+倉	c ang
+個	g er
+個人	g er rh ern
+個個	g er g er
+個別	g er b ie
+個性	g er s ing
+個案	g er an
+倌	g uan
+倍	b ei
+們	m ern
+倒	d au
+倒是	d au sh ii
+倔	z yue
+倖	s ing
+倘	t ang
+候	h ou
+候選人	h ou s yuan rh ern
+倚	i
+借	z ie
+倡	ch ang
+倦	z yuan
+倨	z yu
+倩	c ien
+倪	n i
+倫	l un
+倫敦	l un d un
+倬	zh uo
+倭	uo
+值	zh ii
+值得	zh ii d er
+偃	ien
+假	z ia
+假如	z ia rh u
+假日	z ia rh ii
+假期	z ia c i
+假設	z ia sh er
+偉	uei
+偉大	uei d a
+偌	rh uo
+偎	uei
+偏	p ien
+偓	uo
+做	z uo
+做出	z uo ch u
+做到	z uo d au
+做好	z uo h au
+做愛	z uo ai
+做法	z uo f a
+做為	z uo uei
+停	t ing
+停止	t ing zh ii
+停留	t ing l iou
+停車	t ing ch er
+停車場	t ing ch er ch ang
+健	z ien
+健康	z ien k ang
+健身	z ien sh ern
+側	c er
+偵	zh ern
+偶	ou
+偶像	ou s iang
+偶爾	ou err
+偷	t ou
+偷偷	t ou t ou
+偽	uei
+傀	k uei
+傅	f u
+傍	b ang
+傍	p ang
+傑	z ie
+傘	s an
+備	b ei
+備份	b ei f ern
+備有	b ei iou
+傚	s iau
+催	c uei
+傭	iong
+傲	au
+傳	ch uan
+傳奇	ch uan c i
+傳媒	ch uan m ei
+傳播	ch uan b uo
+傳真	ch uan zh ern
+傳統	ch uan t ong
+傳說	ch uan sh uo
+傳輸	ch uan sh u
+傳送	ch uan s ong
+傳遞	ch uan d i
+債	zh ai
+傷	sh ang
+傷口	sh ang k ou
+傷害	sh ang h ai
+傷心	sh ang s in
+傻	sh a
+傾	c ing
+僂	l ou
+僅	z in
+像	s iang
+像是	s iang sh ii
+僑	c iau
+僕	p u
+僖	s i
+僚	l iau
+僥	z iau
+僧	s ng
+僭	z ien
+僮	t ong
+僱	g u
+僵	z iang
+價	z ia
+價位	z ia uei
+價值	z ia zh ii
+價格	z ia g er
+價錢	z ia c ien
+僻	p i
+儀	i
+儀器	i c i
+儀式	i sh ii
+儂	n ong
+億	i
+儆	z ing
+儈	k uai
+儉	z ien
+儒	rh u
+儘	z in
+儘管	z in g uan
+償	ch ang
+儡	l ei
+優	iou
+優先	iou s ien
+優勢	iou sh ii
+優惠	iou h uei
+優秀	iou s iou
+優良	iou l iang
+優質	iou zh ii
+優雅	iou ia
+優點	iou d ien
+儲	ch u
+儲存	ch u c un
+儷	l i
+儸	l uo
+儻	t ang
+儼	ien
+兀	u
+允	yun
+允許	yun s yu
+元	yuan
+元素	yuan s u
+兄	s iong
+兄弟	s iong d i
+充	ch ong
+充分	ch ong f ern
+充滿	u s ien
+兆	zh au
+兇	s iong
+先	s ien
+先前	s ien c ien
+先生	s ien sh ng
+先進	s ien z in
+光	g uang
+光明	g uang m ing
+光碟	g uang d ie
+克	k er
+兌	d uei
+免	m ien
+免費	m ien f ei
+兒	err
+兒子	err z ii
+兒童	err t ong
+兔	t u
+兗	ien
+兜	d ou
+兢	z ing
+入	rh u
+入口	rh u k ou
+入學	rh u s yue
+內	n ei
+內在	n ei z ai
+內地	n ei d i
+內容	n ei rh ong
+內心	n ei s in
+內衣	n ei i
+內部	n ei b u
+全	c yuan
+全世界	c yuan sh ii z ie
+全國	c yuan g uo
+全文	c yuan un
+全新	c yuan s in
+全民	c yuan m in
+全球	c yuan c iou
+全身	c yuan sh ern
+全部	c yuan b u
+全面	c yuan m ien
+全體	c yuan t i
+兩	l iang
+八	b a
+公	g ong
+公主	g ong zh u
+公佈	g ong b u
+公共	g ong g ong
+公分	g ong f ern
+公司	g ong s ii
+公告	g ong g au
+公園	g ong yuan
+公寓	g ong yu
+公尺	g ong ch ii
+公布	g ong b u
+公平	g ong p ing
+公斤	g ong z in
+公會	g ong h uei
+公民	g ong m in
+公益	g ong i
+公眾	g ong zh ong
+公路	g ong l u
+公車	g ong ch er
+公車	g ong z yu
+公里	g ong l i
+公開	g ong k ai
+六	l iou
+共	g ong
+共同	g ong t ong
+共和國	g ong h er g uo
+共產黨	g ong ch an d ang
+兵	b ing
+其	c i
+其中	c i zh ong
+其他	c i t a
+其它	c i t a
+其實	c i sh ii
+具	z yu
+具備	z yu b ei
+具有	z yu iou
+具體	z yu t i
+典	d ien
+典禮	d ien l i
+兼	z ien
+冀	z i
+冉	rh an
+冊	c er
+再	z ai
+再來	z ai l ai
+再度	z ai d u
+再次	z ai c ii
+冏	z iong
+冒	m au
+冒險	m au s ien
+冕	m ien
+冗	rh ong
+冠	g uan
+冠軍	g uan z yun
+冤	yuan
+冥	m ing
+冪	m i
+冬	d ong
+冬天	d ong t ien
+冰	b ing
+冰箱	b ing s iang
+冶	ie
+冷	l ng
+冷氣	l ng c i
+冽	l ie
+准	zh un
+凋	d iau
+凌	l ing
+凍	d ong
+凜	l in
+凝	n ing
+凡	f an
+凰	h uang
+凱	k ai
+凳	d ng
+凸	t u
+凹	au
+出	ch u
+出來	ch u l ai
+出去	ch u c yu
+出口	ch u k ou
+出售	ch u sh ou
+出國	ch u g uo
+出席	ch u s i
+出版	ch u b an
+出版社	ch u b an sh er
+出現	ch u s ien
+出生	ch u sh ng
+出發	ch u f a
+出租	ch u z u
+出色	ch u s er
+出門	ch u m ern
+函	h an
+刀	d au
+刁	d iau
+刃	rh ern
+分	f ern
+分享	f ern s iang
+分別	f ern b ie
+分子	f ern z ii
+分手	f ern sh ou
+分數	f ern sh u
+分析	f ern s i
+分為	f ern uei
+分配	f ern p ei
+分鐘	f ern zh ong
+分開	f ern k ai
+分類	f ern l ei
+切	c ie
+刊	k an
+刊登	k an d ng
+刎	un
+刑	s ing
+划	h ua
+列	l ie
+列印	l ie in
+列表	l ie b iau
+列車	l ie ch er
+初	ch u
+初期	ch u c i
+判	p an
+判斷	p an d uan
+別	b ie
+別人	b ie rh ern
+別墅	b ie sh u
+別的	b ie d er
+刨	p au
+利	l i
+利率	l i l yu
+利用	l i iong
+利益	l i i
+刪	sh an
+刪除	sh an ch u
+刮	g ua
+到	d au
+到來	d au l ai
+到底	d au d i
+到處	d au ch u
+到達	d au d a
+制	zh ii
+制度	zh ii d u
+刷	sh ua
+券	c yuan
+刺	c ii
+刺激	c ii z i
+刻	k er
+刻意	k er i
+剁	d uo
+剃	t i
+則	z er
+剉	c uo
+削	s yue
+剋	k er
+剌	l a
+前	c ien
+前來	c ien l ai
+前往	c ien uang
+前後	c ien h ou
+前進	c ien z in
+前面	c ien m ien
+剎	ch a
+剔	t i
+剖	p ou
+剛	g ang
+剛剛	g ang g ang
+剛好	g ang h au
+剛才	g ang c ai
+剝	b uo
+剩	sh ng
+剩下	sh ng s ia
+剪	z ien
+副	f u
+割	g er
+剴	k ai
+創	ch uang
+創作	ch uang z uo
+創意	ch uang i
+創新	ch uang s in
+創業	ch uang ie
+創立	ch uang l i
+創造	ch uang z au
+剽	p iau
+剿	z iau
+劃	h ua
+劇	z yu
+劇場	z yu ch ang
+劇情	z yu c ing
+劇本	z yu b ern
+劈	p i
+劉	l iou
+劊	k uai
+劍	z ien
+劑	z i
+力	l i
+力量	l i l iang
+功	g ong
+功夫	g ong f u
+功效	g ong s iau
+功能	g ong n ng
+功課	g ong k er
+加	z ia
+加上	z ia sh ang
+加以	z ia i
+加入	z ia rh u
+加州	z ia zh ou
+加工	z ia g ong
+加強	z ia c iang
+加拿大	z ia n a d a
+加油	z ia iou
+加盟	z ia m ng
+加速	z ia s u
+劣	l ie
+助	zh u
+助理	zh u l i
+努	n u
+努力	n u l i
+劫	z ie
+劬	c yu
+劭	sh au
+劼	z ie
+劾	h er
+勁	z in
+勃	b uo
+勇	iong
+勇敢	iong g an
+勇氣	iong c i
+勉	m ien
+勍	c ing
+勒	l er
+動	d ong
+動作	d ong z uo
+動力	d ong l i
+動態	d ong t ai
+動物	d ong u
+動畫	d ong h ua
+勖	s yu
+勘	k an
+務	u
+務必	u b i
+勛	s yun
+勝	sh ng
+勝利	sh ng l i
+勞	l au
+勞動	l au d ong
+勞工	l au g ong
+募	m u
+勢	sh ii
+勢力	sh ii l i
+勤	c in
+勳	s yun
+勵	l i
+勸	c yuan
+勺	sh au
+勻	yun
+勾	g ou
+勿	u
+包	b au
+包含	b au h an
+包括	b au k uo
+包裝	b au zh uang
+匆	c ong
+匈	s iong
+匍	p u
+匐	f u
+匕	b i
+化	h ua
+化妝	h ua zh uang
+化學	h ua s yue
+北	b ei
+北京	b ei z ing
+北市	b ei sh ii
+北部	b ei b u
+匙	ch ii
+匝	z a
+匠	z iang
+匡	k uang
+匪	f ei
+匯	h uei
+匱	k uei
+匹	p i
+匾	b ien
+匿	n i
+區	c yu
+區	ou
+區域	c yu yu
+十	sh ii
+十足	sh ii z u
+千	c ien
+千萬	c ien uan
+升	sh ng
+升級	sh ng z i
+午	u
+午餐	u c an
+卉	h uei
+半	b an
+卍	uan
+卑	b ei
+卒	z u
+卓	zh uo
+協	s ie
+協助	s ie zh u
+協會	s ie h uei
+協調	s ie t iau
+協議	s ie i
+南	n an
+南京	n an z ing
+南投	n an t ou
+南方	n an f ang
+南部	n an b u
+博	b uo
+博士	b uo sh ii
+博物館	b uo u g uan
+卜	b u
+占	zh an
+卡	k a
+卡片	k a p ien
+卡通	k a t ong
+卦	g ua
+卬	ang
+卯	m au
+印	in
+印刷	in sh ua
+印度	in d u
+印象	in s iang
+危	uei
+危機	uei z i
+危險	uei s ien
+即	z i
+即使	z i sh ii
+即可	z i k er
+即將	z i z iang
+即時	z i sh ii
+卵	l uan
+卷	z yuan
+卸	s ie
+卻	c yue
+卿	c ing
+厄	er
+厘	l i
+厚	h ou
+厝	c uo
+原	yuan
+原住民	yuan zh u m in
+原來	yuan l ai
+原則	yuan z er
+原因	yuan in
+原始	yuan sh ii
+原料	yuan l iau
+原本	yuan b ern
+原理	yuan l i
+厥	z yue
+厭	ien
+厲	l i
+厲害	l i h ai
+去	c yu
+去年	c yu n ien
+參	c an
+參加	c an z ia
+參考	c an k au
+參與	c an yu
+參觀	c an g uan
+參賽	c an s ai
+參閱	c an yue
+參閱	sh ern yue
+又	iou
+叉	ch a
+及	z i
+及時	z i sh ii
+友	iou
+友人	iou rh ern
+友好	iou h au
+反	f an
+反對	f an d uei
+反應	f an ing
+反映	f an ing
+反正	f an zh ng
+反而	f an err
+叔	sh u
+取	c yu
+取代	c yu d ai
+取得	c yu d er
+取消	c yu s iau
+受	sh ou
+受傷	sh ou sh ang
+受到	sh ou d au
+叛	p an
+叟	s ou
+叢	c ong
+口	k ou
+口味	k ou uei
+口感	k ou g an
+古	g u
+古代	g u d ai
+古典	g u d ien
+古老	g u l au
+句	z yu
+另	l ing
+另一方面	l ing i f ang m ien
+另外	l ing uai
+叨	d au
+叨	t au
+叩	k ou
+只	zh ii
+只好	zh ii h au
+只是	zh ii sh ii
+只有	zh ii iou
+只要	zh ii iau
+叫	z iau
+叫做	z iau z uo
+召	zh au
+召開	zh au k ai
+叭	b a
+叮	d ing
+可	k er
+可以	k er i
+可怕	k er p a
+可惜	k er s i
+可愛	k er ai
+可憐	k er l ien
+可是	k er sh ii
+可能	k er n ng
+可能性	k er n ng s ing
+可靠	k er k au
+台	t ai
+台中	t ai zh ong
+台中市	t ai zh ong sh ii
+台北	t ai b ei
+台北市	t ai b ei sh ii
+台北縣	t ai b ei s ien
+台南	t ai n an
+台大	t ai d a
+台幣	t ai b i
+台東	t ai d ong
+台灣	t ai uan
+台灣人	t ai uan rh ern
+叱	ch ii
+史	sh ii
+右	iou
+右邊	iou b ien
+叵	p uo
+司	s ii
+司機	s ii z i
+司法	s ii f a
+叼	d iau
+吁	s yu
+吃	ch ii
+吃到	ch ii d au
+吃完	ch ii uan
+吃飯	ch ii f an
+各	g er
+各位	g er uei
+各地	g er d i
+各自	g er z ii
+吆	iau
+合	h er
+合作	h er z uo
+合併	h er b ing
+合成	h er ch ng
+合法	h er f a
+合理	h er l i
+合約	h er yue
+合適	h er sh ii
+吉	z i
+吉他	z i t a
+吊	d iau
+吋	c un
+同	t ong
+同事	t ong sh ii
+同學	t ong s yue
+同志	t ong zh ii
+同意	t ong i
+同時	t ong sh ii
+同樣	t ong iang
+同步	t ong b u
+名	m ing
+名人	m ing rh ern
+名單	m ing d an
+名字	m ing z ii
+名片	m ing p ien
+名稱	m ing ch ng
+名錄	m ing l u
+后	h ou
+吏	l i
+吐	t u
+向	s iang
+向前	s iang c ien
+君	z yun
+吝	l in
+吞	t un
+吟	in
+吠	f ei
+否	f ou
+否則	f ou z er
+吧	b a
+吩	f ern
+含	h an
+含有	h an iou
+吭	h ang
+吭	k ng
+吮	sh un
+吱	zh ii
+吱	z ii
+吳	u
+吵	ch au
+吶	n a
+吸	s i
+吸引	s i in
+吸收	s i sh ou
+吹	ch uei
+吻	un
+吼	h ou
+吾	u
+呀	ia
+呂	l yu
+呃	er
+呆	d ai
+呈	ch ng
+呈現	ch ng s ien
+告	g au
+告知	g au zh ii
+告訴	g au s u
+呎	ch ii
+呢	n er
+呢	n i
+周	zh ou
+周圍	zh ou uei
+周年	zh ou n ien
+周邊	zh ou b ien
+呱	g ua
+呲	c ii
+味	uei
+味道	uei d au
+呵	h er
+呵呵	h er h er
+呸	p ei
+呻	sh ern
+呼	h u
+呼吸	h u s i
+命	m ing
+命令	m ing l ing
+命名	m ing m ing
+命運	m ing yun
+咄	d uo
+咆	p au
+和	h er
+和	h uo
+和平	h er p ing
+和諧	h er s ie
+咎	z iou
+咐	f u
+咒	zh ou
+咕	g u
+咖	k a
+咖啡	k a f ei
+咚	d ong
+咦	i
+咧	l ie
+咨	z ii
+咫	zh ii
+咬	iau
+咯	g er
+咯	l er
+咱	z an
+咳	k er
+咸	s ien
+咻	s iou
+咽	ie
+咽	ien
+哀	ai
+品	p in
+品味	p in uei
+品牌	p in p ai
+品種	p in zh ong
+品質	p in zh ii
+哄	l au
+哇	ua
+哈	h a
+哈哈	h a h a
+哉	z ai
+哎	ai
+員	yuan
+員工	yuan g ong
+哥	g er
+哥哥	g er g er
+哦	er
+哦	o
+哧	ch ii
+哨	sh au
+哩	l i
+哪	n a
+哪些	n a s ie
+哪個	n a g er
+哪裡	n a l i
+哭	k u
+哮	s iau
+哲	zh er
+哲學	zh er s yue
+哺	b u
+哼	h ng
+哽	g ng
+唇	ch un
+唇	zh ern
+唉	ai
+唏	s i
+唐	t ang
+唧	z i
+唪	f ng
+唬	h u
+售	sh ou
+售價	sh ou z ia
+唯	uei
+唯一	uei i
+唯有	uei iou
+唱	ch ang
+唱歌	ch ang g er
+唱片	ch ang p ien
+唳	l i
+唵	an
+唷	io
+唸	n ien
+唾	t uo
+啃	k ern
+啄	zh uo
+商	sh ang
+商務	sh ang u
+商品	sh ang p in
+商場	sh ang ch ang
+商家	sh ang z ia
+商店	sh ang d ien
+商業	sh ang ie
+啊	a
+問	un
+問題	un t i
+啐	c uei
+啜	ch uo
+啞	ia
+啟	c i
+啟動	c i d ong
+啡	f ei
+啤	p i
+啤酒	p i z iou
+啥	sh a
+啦	l a
+啪	p a
+啵	b uo
+啻	ch ii
+啼	t i
+啾	z iou
+喂	uei
+喃	n an
+善	sh an
+喇	l a
+喈	z ie
+喉	h ou
+喊	h an
+喑	in
+喔	o
+喔	uo
+喘	ch uan
+喙	h uei
+喚	h uan
+喜	s i
+喜悅	s i yue
+喜愛	s i ai
+喜歡	s i h uan
+喝	h er
+喟	k uei
+喧	s yuan
+喪	s ang
+喬	c iau
+單	d an
+單	sh an
+單一	d an i
+單位	d an uei
+單元	d an yuan
+單純	d an ch un
+單車	d an ch er
+喱	l i
+喲	iau
+喳	ch a
+喳	zh a
+喵	m iau
+喻	yu
+嗅	s iou
+嗆	c iang
+嗇	s er
+嗌	i
+嗎	m a
+嗑	k er
+嗔	ch ern
+嗚	u
+嗜	sh ii
+嗝	g er
+嗟	z ie
+嗡	ung
+嗣	s ii
+嗨	h ai
+嗯	ern
+嗶	b i
+嗷	au
+嗽	s ou
+嘀	d i
+嘁	c i
+嘆	t an
+嘈	c au
+嘉	z ia
+嘉義	z ia i
+嘌	p iau
+嘍	l ou
+嘎	g a
+嘔	ou
+嘖	z er
+嘗	ch ang
+嘗試	ch ang sh ii
+嘛	m a
+嘯	s iau
+嘰	z i
+嘲	ch au
+嘴	z uei
+嘶	s ii
+嘹	l iau
+嘻	s i
+嘿	h ei
+嘿	m uo
+噁	er
+噌	c ng
+噓	s yu
+噗	p u
+噘	z yue
+噙	c in
+噢	ou
+噢	yu
+噤	z in
+噥	n ong
+噦	yue
+器	c i
+器官	c i g uan
+器材	c i c ai
+噩	er
+噪	z au
+噫	i
+噬	sh ii
+噱	z yue
+噴	p ern
+噶	g a
+噶	g er
+噸	d un
+噹	d ang
+嚀	n ing
+嚅	rh u
+嚇	s ia
+嚎	h au
+嚏	t i
+嚐	ch ang
+嚓	c a
+嚕	l u
+嚗	b uo
+嚜	m uo
+嚥	ien
+嚮	s iang
+嚳	k u
+嚴	ien
+嚴格	ien g er
+嚴重	ien zh ong
+嚵	ch an
+嚶	ing
+嚷	rh ang
+嚼	z iau
+嚼	z yue
+囁	n ie
+囂	s iau
+囈	i
+囉	l uo
+囊	n ang
+囑	zh u
+囔	n ang
+囚	c iou
+四	s ii
+囝	z ien
+回	h uei
+回來	h uei l ai
+回到	h uei d au
+回去	h uei c yu
+回報	h uei b au
+回家	h uei z ia
+回復	h uei f u
+回憶	h uei i
+回應	h uei ing
+回收	h uei sh ou
+回歸	h uei g uei
+回答	h uei d a
+回覆	h uei f u
+回頭	h uei t ou
+回顧	h uei g u
+回饋	h uei k uei
+因	in
+因應	in ing
+因此	in c ii
+因為	in uei
+因素	in s u
+因而	in err
+囤	d un
+囤	t un
+囧	z iong
+囪	c ong
+囫	h u
+困	k un
+困擾	k un rh au
+困難	k un n an
+固	g u
+固定	g u d ing
+圃	p u
+圄	yu
+圇	l un
+圈	c yuan
+圉	yu
+國	g uo
+國中	g uo zh ong
+國人	g uo rh ern
+國內	g uo n ei
+國外	g uo uai
+國家	g uo z ia
+國小	g uo s iau
+國會	g uo h uei
+國民	g uo m in
+國民黨	g uo m in d ang
+國王	g uo uang
+國立	g uo l i
+國語	g uo yu
+國際	g uo z i
+圍	uei
+園	yuan
+園區	yuan c yu
+圓	yuan
+圓滿	yuan m an
+圖	t u
+圖像	t u s iang
+圖書	t u sh u
+圖書館	t u sh u g uan
+圖案	t u an
+圖片	t u p ien
+團	t uan
+團隊	t uan d uei
+團體	t uan t i
+圜	yuan
+土	t u
+土地	t u d i
+在	z ai
+在一起	z ai i c i
+在乎	z ai h u
+在家	z ai z ia
+在意	z ai i
+在於	z ai yu
+在此	z ai c ii
+圩	yu
+圬	u
+圭	g uei
+圮	p i
+地	d i
+地上	d i sh ang
+地下	d i s ia
+地位	d i uei
+地區	d i c yu
+地圖	d i t u
+地址	d i zh ii
+地方	d i f ang
+地板	d i b an
+地獄	d i yu
+地球	d i c iou
+地理	d i l i
+地鐵	d i t ie
+地震	d i zh ern
+地面	d i m ien
+地點	d i d ien
+圳	ch ou
+圳	z un
+圴	z un
+圾	s er
+圾	z i
+址	zh ii
+均	z yun
+坊	f ang
+坍	t an
+坎	k an
+坐	z uo
+坑	k ng
+坡	p uo
+坤	k un
+坦	t an
+坨	t uo
+坩	g an
+坪	p ing
+坯	p ei
+坯	p i
+坳	au
+坵	c iou
+坷	k er
+坻	ch ii
+坻	d i
+坼	ch er
+垂	ch uei
+垃	l er
+垃圾	l er s er
+型	s ing
+型態	s ing t ai
+垌	d ong
+垚	iau
+垛	d uo
+垠	in
+垢	g ou
+垣	yuan
+垮	k ua
+埃	ai
+埃及	ai z i
+埋	m ai
+城	ch ng
+城市	ch ng sh ii
+埔	b u
+埔	p u
+埕	ch ng
+域	yu
+埠	b u
+埤	b i
+埤	p i
+執	zh ii
+執行	zh ii s ing
+培	p ei
+培訓	p ei s yun
+培養	p ei iang
+基	z i
+基因	z i in
+基地	z i d i
+基於	z i yu
+基本	z i b ern
+基本上	z i b ern sh ang
+基督	z i d u
+基督徒	z i d u t u
+基督教	z i d u z iau
+基礎	z i ch u
+基金	z i z in
+基金會	z i z in h uei
+基隆	z i l ong
+埼	c i
+堀	k u
+堂	t ang
+堅	z ien
+堅強	z ien c iang
+堅持	z ien ch ii
+堆	d uei
+堇	z in
+堉	yu
+堋	p ng
+堡	b au
+堤	t i
+堪	k an
+堯	iau
+堰	ien
+報	b au
+報名	b au m ing
+報告	b au g au
+報導	b au d au
+報紙	b au zh ii
+報道	b au d au
+場	ch ang
+場地	ch ang d i
+場所	ch ang s uo
+場景	ch ang ing
+場景	ch ang z ing
+堵	d u
+塊	k uai
+塌	t a
+塍	ch ng
+塑	s u
+塑膠	s u z iau
+塔	t a
+塗	t u
+塘	t ang
+塚	zh ong
+塞	s er
+塢	u
+填	t ien
+填寫	t ien s ie
+塵	ch ern
+塹	c ien
+塾	sh u
+墀	ch ii
+境	z ing
+境界	z ing z ie
+墅	sh u
+墉	iong
+墊	d ien
+墓	m u
+墘	c ien
+墜	zh uei
+增	z ng
+增加	z ng z ia
+增強	z ng c iang
+增長	z ng ch ang
+增長	z ng zh ang
+墟	s yu
+墨	m uo
+墩	d un
+墮	d uo
+墳	f ern
+墾	k ern
+墾丁	k ern d ing
+壁	b i
+壅	iong
+壇	t an
+壎	s yun
+壑	h uo
+壓	ia
+壓力	ia l i
+壕	h au
+壘	l ei
+壙	k uang
+壞	h uai
+壟	l ong
+壢	l i
+壤	rh ang
+壩	b a
+士	sh ii
+壬	rh ern
+壯	zh uang
+壹	i
+壺	h u
+壼	k un
+壽	sh ou
+壽司	sh ou s ii
+复	f ou
+夏	s ia
+夏天	s ia t ien
+夕	s i
+外	uai
+外交	uai z iau
+外國	uai g uo
+外套	uai t au
+外掛	uai g ua
+外表	uai b iau
+外觀	uai g uan
+外面	uai m ien
+夙	s u
+多	d uo
+多久	d uo z iou
+多元	d uo yuan
+多多	d uo d uo
+多媒體	d uo m ei t i
+多少	d uo sh au
+多數	d uo sh u
+夜	ie
+夜市	ie sh ii
+夜晚	ie uan
+夠	g ou
+夢	m ng
+夢想	m ng s iang
+夤	in
+夥	h uo
+夥伴	h uo b an
+大	d a
+大人	d a rh ern
+大哥	d a g er
+大地	d a d i
+大型	d a s ing
+大多	d a d uo
+大多數	d a d uo sh u
+大大	d a d a
+大學	d a s yue
+大學	t ai s yue
+大學生	d a s yue sh ng
+大學生	t ai s yue sh ng
+大家	d a g u
+大家	d a z ia
+大小	d a s iau
+大師	d a sh ii
+大幅	d a f u
+大廈	d a s ia
+大戰	d a zh an
+大會	d a h uei
+大概	d a g ai
+大樓	d a l ou
+大法	d a f a
+大眾	d a zh ong
+大約	d a yue
+大聲	d a sh ng
+大腦	d a n au
+大自然	d a z ii rh an
+大賽	d a s ai
+大道	d a d au
+大部份	d a b u f ern
+大部分	d a b u f ern
+大量	d a l iang
+大陸	d a l u
+天	t ien
+天下	t ien s ia
+天使	t ien sh ii
+天地	t ien d i
+天堂	t ien t ang
+天天	t ien t ien
+天氣	t ien c i
+天然	t ien rh an
+天空	t ien k ong
+太	t ai
+太太	t ai t ai
+太平洋	t ai p ing iang
+太過	t ai g uo
+太陽	t ai iang
+太陽能	t ai iang n ng
+夫	f u
+夫人	f u rh ern
+夫妻	f u c i
+夫婦	f u f u
+夭	iau
+央	iang
+夯	h ang
+失	sh ii
+失去	sh ii c yu
+失敗	sh ii b ai
+失望	sh ii uang
+夷	i
+夸	k ua
+夾	z ia
+奄	ien
+奇	c i
+奇妙	c i m iau
+奇怪	c i g uai
+奈	n ai
+奉	f ng
+奎	k uei
+奏	z ou
+奐	h uan
+契	c i
+契約	c i yue
+奓	zh a
+奔	b ern
+奕	i
+套	t au
+套房	t au f ang
+套餐	t au c an
+奘	z ang
+奚	s i
+奠	d ien
+奢	sh er
+奧	au
+奧運	au yun
+奪	d uo
+奭	sh ii
+奮	f ern
+女	n yu
+女人	n yu rh ern
+女兒	n yu err
+女友	n yu iou
+女士	n yu sh ii
+女子	n yu z ii
+女孩	n yu h ai
+女性	n yu s ing
+女王	n yu uang
+女生	n yu sh ng
+奴	n u
+奶	n ai
+奸	z ien
+奼	ch a
+好	h au
+好久	h au z iou
+好似	h au s ii
+好像	h au s iang
+好友	h au iou
+好吃	h au ch ii
+好吃	h au z i
+好多	h au d uo
+好奇	h au c i
+好好	h au h au
+好幾	h au z i
+好玩	h au uan
+好用	h au iong
+好看	h au k an
+好笑	h au s iau
+好聽	h au t ing
+好處	h au ch u
+妁	sh uo
+如	rh u
+如下	rh u s ia
+如今	rh u z in
+如何	rh u h er
+如同	rh u t ong
+如是	rh u sh ii
+如果	rh u g uo
+如此	rh u c ii
+妃	f ei
+妄	uang
+妊	rh ern
+妍	ien
+妒	d u
+妓	z i
+妖	iau
+妗	z in
+妙	m iau
+妝	zh uang
+妞	n iou
+妣	b i
+妤	yu
+妥	t uo
+妨	f ang
+妮	n i
+妹	m ei
+妹妹	m ei m ei
+妺	m uo
+妻	c i
+妻子	c i z ii
+妾	c ie
+姊	z ie
+姊妹	z ie m ei
+始	sh ii
+始終	sh ii zh ong
+姍	sh an
+姐	z ie
+姐姐	z ie z ie
+姑	g u
+姓	s ing
+姓名	s ing m ing
+委	uei
+委員	uei yuan
+委員會	uei yuan h uei
+姘	p in
+姚	iau
+姜	z iang
+姣	z iau
+姥	l au
+姥	m u
+姦	z ien
+姨	i
+姪	zh ii
+姬	z i
+姮	h ng
+姻	in
+姿	z ii
+姿勢	z ii sh ii
+威	uei
+威脅	uei s ie
+娃	ua
+娃娃	ua ua
+娉	p ing
+娌	l i
+娑	s uo
+娓	uei
+娘	n iang
+娛	yu
+娛樂	yu l er
+娜	n uo
+娟	z yuan
+娠	sh ern
+娣	d i
+娥	er
+娩	m ien
+娶	c yu
+娼	ch ang
+婁	l ou
+婆	p uo
+婉	uan
+婊	b iau
+婓	f ei
+婕	z ie
+婚	h un
+婚姻	h un in
+婚禮	h un l i
+婚紗	h un sh a
+婢	b i
+婥	ch uo
+婦	f u
+婦女	f u n yu
+婪	l an
+婷	t ing
+婿	s yu
+媒	m ei
+媒體	m ei t i
+媚	m ei
+媛	yuan
+媧	ua
+媬	b au
+媳	s i
+媽	m a
+媽咪	m a m i
+媽媽	m a m a
+媾	g ou
+嫁	z ia
+嫂	s au
+嫋	n iau
+嫌	s ien
+嫖	p iau
+嫡	d i
+嫣	ien
+嫦	ch ang
+嫩	n ern
+嫻	s ien
+嬋	ch an
+嬌	z iau
+嬛	c iong
+嬛	h uan
+嬡	ai
+嬤	m a
+嬪	p in
+嬰	ing
+嬰兒	ing err
+嬴	ing
+嬸	sh ern
+孀	sh uang
+子	z ii
+子女	z ii n yu
+孑	z ie
+孓	z yue
+孔	k ong
+孕	yun
+孖	z ii
+字	z ii
+字幕	z ii m u
+存	c un
+存在	c un z ai
+孚	f u
+孛	b ei
+孛	b uo
+孜	z ii
+孝	s iau
+孟	m ng
+孢	b au
+季	z i
+季節	z i z ie
+孤	g u
+孩	h ai
+孩子	h ai z ii
+孩子們	h ai z ii m ern
+孫	s un
+孬	n au
+孰	sh u
+孱	ch an
+孳	z ii
+孵	f u
+學	s yue
+學位	s yue uei
+學員	s yue yuan
+學年度	s yue n ien d u
+學會	s yue h uei
+學期	s yue c i
+學校	s yue s iau
+學歷	s yue l i
+學生	s yue sh ng
+學習	s yue s i
+學者	s yue zh er
+學術	s yue sh u
+學院	s yue yuan
+孺	rh u
+孽	n ie
+孿	l uan
+孿	l yuan
+它	t a
+它	t uo
+它們	t a m ern
+宅	zh ai
+宇	yu
+宇宙	yu zh ou
+守	sh ou
+安	an
+安全	an c yuan
+安心	an s in
+安慰	an uei
+安排	an p ai
+安裝	an zh uang
+安靜	an z ing
+宋	s ong
+完	uan
+完全	uan c yuan
+完善	uan sh an
+完成	uan ch ng
+完整	uan zh ng
+完畢	uan b i
+完美	uan m ei
+宏	h ong
+宕	d ang
+宗	z ong
+宗教	z ong z iau
+官	g uan
+官員	g uan yuan
+官方	g uan f ang
+宙	zh ou
+定	d ing
+定位	d ing uei
+定期	d ing c i
+定義	d ing i
+宛	uan
+宜	i
+宜蘭	i l an
+客	k er
+客人	k er rh ern
+客家	k er z ia
+客戶	k er h u
+客房	k er f ang
+客服	k er f u
+宣	s yuan
+宣佈	s yuan b u
+宣傳	s yuan ch uan
+宣布	s yuan b u
+室	sh ii
+室內	sh ii n ei
+宥	iou
+宦	h uan
+宮	g ong
+宰	z ai
+害	h ai
+害怕	h ai p a
+宴	ien
+宵	s iau
+家	z ia
+家中	z ia zh ong
+家人	z ia rh ern
+家具	z ia z yu
+家庭	z ia t ing
+家族	z ia z u
+家裡	z ia l i
+家長	z ia zh ang
+宸	ch ern
+容	rh ong
+容易	rh ong i
+容量	rh ong l iang
+宿	s iou
+宿	s u
+宿舍	s u sh er
+寂	z i
+寂寞	z i m uo
+寄	z i
+寅	in
+密	m i
+密碼	m i m a
+寇	k ou
+富	f u
+寐	m ei
+寒	h an
+寓	yu
+寞	m uo
+察	ch a
+寡	g ua
+寢	c in
+寤	u
+寥	l iau
+實	sh ii
+實力	sh ii l i
+實務	sh ii u
+實在	sh ii z ai
+實施	sh ii sh ii
+實現	sh ii s ien
+實用	sh ii iong
+實習	sh ii s i
+實踐	sh ii z ien
+實際	sh ii z i
+實驗	sh ii ien
+實驗室	sh ii ien sh ii
+實體	sh ii t i
+寧	n ing
+寨	zh ai
+審	sh ern
+審查	sh ern ch a
+寫	s ie
+寫作	s ie z uo
+寫真	s ie zh ern
+寬	k uan
+寮	l iau
+寰	h uan
+寵	ch ong
+寵物	ch ong u
+寶	b au
+寶寶	b au b au
+寶貝	b au b ei
+寸	c un
+寺	s ii
+封	f ng
+封面	f ng m ien
+射	sh er
+將	z iang
+將來	z iang l ai
+將軍	z iang z yun
+將近	z iang z in
+專	zh uan
+專利	zh uan l i
+專區	zh uan c yu
+專家	zh uan z ia
+專屬	zh uan sh u
+專案	zh uan an
+專業	zh uan ie
+專欄	zh uan l an
+專注	zh uan zh u
+專用	zh uan iong
+專輯	zh uan z i
+專門	zh uan m ern
+專題	zh uan t i
+尉	uei
+尊	z un
+尊重	z un zh ong
+尋	s yun
+尋找	s yun zh au
+尋求	s yun c iou
+對	d uei
+對不起	d uei b u c i
+對了	d uei l er
+對待	d uei d ai
+對手	d uei sh ou
+對抗	d uei k ang
+對方	d uei f ang
+對於	d uei yu
+對此	d uei c ii
+對話	d uei h ua
+對象	d uei s iang
+對面	d uei m ien
+導	d au
+導師	d au sh ii
+導演	d au ien
+導致	d au zh ii
+小	s iau
+小吃	s iau ch ii
+小型	s iau s ing
+小姐	s iau z ie
+小孩	s iau h ai
+小學	s iau s yue
+小小	s iau s iau
+小弟	s iau d i
+小心	s iau s in
+小時	s iau sh ii
+小時候	s iau sh ii h ou
+小朋友	s iau p ng iou
+小組	s iau z u
+小說	s iau sh uo
+少	sh au
+少女	sh au n yu
+少年	sh au n ien
+少數	sh au sh u
+尖	z ien
+尚	sh ang
+尢	uang
+尤	iou
+尤其	iou z i
+尪	uang
+尬	g a
+就	z iou
+就是	z iou sh ii
+就業	z iou ie
+就算	z iou s uan
+就要	z iou iau
+就讀	z iou d u
+尷	g an
+尸	sh ii
+尹	in
+尺	ch ii
+尺寸	ch ii c un
+尻	k au
+尼	n i
+尾	uei
+尿	n iau
+局	z yu
+屁	p i
+屁股	p i g u
+屄	b i
+居	z yu
+居住	z yu zh u
+居家	z yu z ia
+居民	z yu m in
+居然	z yu rh an
+屆	z ie
+屈	c yu
+屋	u
+屌	d iau
+屍	sh ii
+屎	sh ii
+屏	p ing
+屏東	p ing d ong
+屐	z i
+屑	s ie
+展	zh an
+展出	zh an ch u
+展現	zh an s ien
+展示	zh an sh ii
+展覽	zh an l an
+展開	zh an k ai
+屜	t i
+屠	t u
+屢	l yu
+屣	s i
+層	c ng
+層次	c ng c ii
+履	l yu
+屬	sh u
+屬性	sh u s ing
+屬於	sh u yu
+屯	t un
+山	sh an
+屹	i
+屺	c i
+岈	s ia
+岌	z i
+岐	c i
+岑	c ern
+岔	ch a
+岡	g ang
+岢	k er
+岩	ien
+岫	s iou
+岬	z ia
+岱	d ai
+岳	yue
+岷	m in
+岸	an
+峇	b a
+峋	s yun
+峒	d ong
+峙	zh ii
+峨	er
+峪	yu
+峭	c iau
+峰	f ng
+峴	s ien
+島	d au
+峻	z yun
+峽	s ia
+崁	k an
+崆	k ong
+崇	ch ong
+崍	l ai
+崎	c i
+崑	k un
+崔	c uei
+崖	iai
+崗	g ang
+崙	l un
+崚	l ng
+崛	z yue
+崢	zh ng
+崧	s ong
+崩	b ng
+崮	g u
+崴	uei
+崽	z ai
+嵇	z i
+嵊	sh ng
+嵋	m ei
+嵌	c ien
+嵐	l an
+嵩	s ong
+嵬	uei
+嵯	c uo
+嶂	zh ang
+嶄	zh an
+嶇	c yu
+嶗	l au
+嶙	l in
+嶝	d ng
+嶠	z iau
+嶷	i
+嶷	n i
+嶸	rh ong
+嶺	l ing
+嶼	yu
+嶽	yu
+巉	ch an
+巋	k uei
+巍	uei
+巒	l uan
+巔	d ien
+巖	ien
+川	ch uan
+州	zh ou
+巡	s yun
+巢	ch au
+工	g ong
+工人	g ong rh ern
+工作	g ong z uo
+工作室	g ong z uo sh ii
+工具	g ong z yu
+工商	g ong sh ang
+工廠	g ong ch ang
+工會	g ong h uei
+工業	g ong ie
+工程	g ong ch ng
+工程師	g ong ch ng sh ii
+工藝	g ong i
+左	z uo
+左右	z uo iou
+左邊	z uo b ien
+巧	c iau
+巧克力	c iau k er l i
+巨	z yu
+巨大	z yu d a
+巫	u
+差	ch a
+差	ch ai
+差不多	ch a b u d uo
+差別	ch a b ie
+差異	ch a i
+己	z i
+已	i
+已經	i z ing
+巳	s ii
+巴	b a
+巴士	b a sh ii
+巴黎	b a l i
+巷	s iang
+巽	s yun
+巾	z in
+巿	f u
+市	sh ii
+市中心	sh ii zh ong s in
+市區	sh ii c yu
+市場	sh ii ch ang
+市民	sh ii m in
+市長	sh ii zh ang
+布	b u
+帆	f an
+希	s i
+希望	s i uang
+希臘	s i l a
+帑	t ang
+帕	p a
+帖	t ie
+帙	zh ii
+帚	zh ou
+帛	b uo
+帝	d i
+帝國	d i g uo
+帥	sh uai
+師	sh ii
+師傅	sh ii f u
+師父	sh ii f u
+席	s i
+帳	zh ang
+帳戶	zh ang h u
+帳號	zh ang h au
+帶	d ai
+帶來	d ai l ai
+帶有	d ai iou
+帶給	d ai g ei
+帶著	d ai zh er
+帶領	d ai l ing
+帷	uei
+常	ch ang
+常常	ch ang ch ang
+常用	ch ang iong
+常見	ch ang z ien
+帽	m au
+幀	zh ng
+幃	uei
+幄	uo
+幅	f u
+幌	h uang
+幔	m an
+幕	m u
+幗	g uo
+幛	zh ang
+幟	zh ii
+幡	f an
+幢	ch uang
+幣	b i
+幪	m ng
+幫	b ang
+幫助	b ang zh u
+幫忙	b ang m ang
+干	g an
+平	p ing
+平台	p ing t ai
+平均	p ing z yun
+平安	p ing an
+平常	p ing ch ang
+平日	p ing rh ii
+平時	p ing sh ii
+平等	p ing d ng
+平衡	p ing h ng
+平靜	p ing z ing
+平面	p ing m ien
+年	n ien
+年代	n ien d ai
+年度	n ien d u
+年紀	n ien z i
+年級	n ien z i
+年輕	n ien c ing
+年齡	n ien l ing
+幵	z ien
+并	b ing
+幸	s ing
+幸福	s ing f u
+幸運	s ing yun
+幹	g an
+幻	h uan
+幻想	h uan s iang
+幼	iou
+幼兒	iou err
+幽	iou
+幾	z i
+幾乎	z i h u
+庇	b i
+床	ch uang
+床上	ch uang sh ang
+序	s yu
+底	d i
+底下	d i s ia
+庖	p au
+店	d ien
+店家	d ien z ia
+店面	d ien m ien
+庚	g ng
+府	f u
+庠	s iang
+度	d u
+度假	d u z ia
+度過	d u g uo
+座	z uo
+座位	z uo uei
+庫	k u
+庭	t ing
+庵	an
+庶	sh u
+康	k ang
+庸	iong
+庹	t uo
+廁	c er
+廁	c ii
+廁所	c er s uo
+廂	s iang
+廄	z iou
+廈	s ia
+廉	l ien
+廊	l ang
+廋	s ou
+廓	k uo
+廖	l iau
+廚	ch u
+廚房	ch u f ang
+廛	ch an
+廝	s ii
+廟	m iau
+廠	ch ang
+廠商	ch ang sh ang
+廢	f ei
+廣	g uang
+廣告	g uang g au
+廣場	g uang ch ang
+廣大	g uang d a
+廣州	g uang zh ou
+廣播	g uang b uo
+廣東	g uang d ong
+廣泛	g uang f an
+廩	l in
+廬	l u
+廳	t ing
+延	ien
+延伸	ien sh ern
+延續	ien s yu
+延長	ien ch ang
+廷	t ing
+建	z ien
+建立	z ien l i
+建築	z ien zh u
+建築物	z ien zh u u
+建設	z ien sh er
+建議	z ien i
+建造	z ien z au
+弄	n ong
+弇	ien
+弈	i
+弊	b i
+弋	i
+式	sh ii
+弒	sh ii
+弓	g ong
+弔	d iau
+引	in
+引導	in d au
+引擎	in c ing
+引用	in iong
+引發	in f a
+引起	in c i
+引述	in sh u
+引進	in z in
+弗	f u
+弘	h ong
+弛	sh ii
+弟	d i
+弟兄	d i s iong
+弟子	d i z ii
+弟弟	d i d i
+弢	t au
+弦	s ien
+弧	h u
+弩	n u
+弭	m i
+弱	rh uo
+弱勢	rh uo sh ii
+張	zh ang
+強	c iang
+強制	c iang zh ii
+強化	c iang h ua
+強大	c iang d a
+強烈	c iang l ie
+強調	c iang d iau
+弼	b i
+彀	g ou
+彆	b ie
+彈	d an
+彈性	t an s ing
+彊	c iang
+彌	m i
+彎	uan
+彗	h uei
+彙	h uei
+彝	i
+形	s ing
+形容	s ing rh ong
+形式	s ing sh ii
+形成	s ing ch ng
+形狀	s ing zh uang
+形象	s ing s iang
+彤	t ong
+彥	ien
+彩	c ai
+彩色	c ai s er
+彪	b iau
+彫	d iau
+彬	b in
+彭	p ng
+彰	zh ang
+彰化	zh ang h ua
+影	ing
+影像	ing s iang
+影片	ing p ien
+影音	ing in
+影響	ing s iang
+彷	p ang
+彷彿	f ang f u
+役	i
+彼	b i
+彼此	b i c ii
+彿	f u
+往	uang
+往往	uang uang
+征	zh ng
+徂	c u
+待	d ai
+徇	s yun
+很	h ern
+很多	h ern d uo
+很少	h ern sh au
+徉	iang
+徊	h uai
+律	l yu
+律師	l yu sh ii
+後	h ou
+後來	h ou l ai
+後悔	h ou h uei
+後面	h ou m ien
+徐	s yu
+徑	z ing
+徒	t u
+得	d ei
+得	d er
+得以	d er i
+得到	d er d au
+得獎	d er z iang
+得知	d er zh ii
+徘	p ai
+徙	s i
+徜	ch ang
+從	c ong
+從事	c ong sh ii
+從來	c ong l ai
+從前	c ong c ien
+從小	c ong s iau
+從未	c ong uei
+從此	c ong c ii
+從而	c ong err
+從而	z ong err
+徠	l ai
+御	yu
+徨	h uang
+復	f u
+復興	f u s ing
+循	s yun
+循環	s yun h uan
+徬	p ang
+徭	iau
+微	uei
+微笑	uei s iau
+微軟	uei rh uan
+徵	zh ng
+徵信	zh ng s in
+德	d er
+德國	d er g uo
+徹	ch er
+徹底	ch er d i
+徼	z iau
+徽	h uei
+心	s in
+心中	s in zh ong
+心得	s in d er
+心情	s in c ing
+心態	s in t ai
+心理	s in l i
+心臟	s in z ang
+心裡	s in l i
+心靈	s in l ing
+必	b i
+必然	b i rh an
+必要	b i iau
+必須	b i s yu
+忉	d au
+忌	z i
+忍	rh ern
+忍不住	rh ern b u zh u
+忐	t an
+忑	t er
+忒	t er
+志	zh ii
+志工	zh ii g ong
+忘	uang
+忘記	uang z i
+忙	m ang
+忙碌	m ang l u
+忝	t ien
+忠	zh ong
+忡	ch ong
+忤	u
+忪	s ong
+忪	zh ong
+快	k uai
+快樂	k uai l er
+快速	k uai s u
+忱	ch ern
+念	n ien
+忸	n iou
+忽	h u
+忽然	h u rh an
+忽略	h u l yue
+忿	f ern
+怍	z uo
+怎	z ern
+怎樣	z ern iang
+怎麼	z er m er
+怎麼	z ern m er
+怏	iang
+怒	n u
+怔	l ng
+怔	zh ng
+怕	p a
+怖	b u
+怙	h u
+怛	d a
+思	s ii
+思想	s ii s iang
+思維	s ii uei
+思考	s ii k au
+怠	d ai
+怡	i
+急	z i
+怦	p ng
+性	s ing
+性別	s ing b ie
+性愛	s ing ai
+性感	s ing g an
+性格	s ing g er
+性能	s ing n ng
+性質	s ing zh ii
+怨	yuan
+怪	g uai
+怪物	g uai u
+怫	f u
+怯	c ie
+怯	c yue
+怵	ch u
+恁	rh ern
+恂	s yun
+恃	sh ii
+恆	h ng
+恍	h uang
+恐	k ong
+恐怕	k ong p a
+恐怖	k ong b u
+恐懼	k ong z yu
+恕	sh u
+恙	iang
+恚	h uei
+恢	h uei
+恢復	h uei f u
+恣	z ii
+恤	s yu
+恥	ch ii
+恨	h ern
+恩	ern
+恫	d ong
+恬	t ien
+恭	g ong
+息	s i
+恰	c ia
+恿	iong
+悄	c iau
+悅	yue
+悉	s i
+悌	t i
+悍	h an
+悔	h uei
+悖	b ei
+悚	s ong
+悟	u
+悠	iou
+患	h uan
+患者	h uan zh er
+您	n in
+悲	b ei
+悲傷	b ei sh ang
+悴	c uei
+悵	ch ang
+悶	m ern
+悸	z i
+悻	s ing
+悼	d au
+情	c ing
+情人	c ing rh ern
+情人節	c ing rh ern z ie
+情侶	c ing l yu
+情報	c ing b au
+情形	c ing s ing
+情感	c ing g an
+情況	c ing k uang
+情節	c ing z ie
+情緒	c ing s yu
+情色	c ing s er
+情趣	c ing c yu
+惆	ch ou
+惇	d un
+惋	uan
+惑	h uo
+惓	c yuan
+惕	t i
+惘	uang
+惚	h u
+惜	s i
+惟	uei
+惠	h uei
+惡	er
+惦	d ien
+惰	d uo
+惱	n au
+想	s iang
+想像	s iang s iang
+想到	s iang d au
+想想	s iang s iang
+想法	s iang f a
+想要	s iang iau
+想起	s iang c i
+惴	zh uei
+惶	h uang
+惹	rh er
+惺	s ing
+惻	c er
+愀	c iau
+愁	ch ou
+愆	c ien
+愈	u
+愈來愈	yu l ai yu
+愉	yu
+愉快	yu k uai
+愍	m in
+愎	b i
+意	i
+意味	i uei
+意外	i uai
+意思	i s ii
+意義	i i
+意見	i z ien
+意識	i sh ii
+愐	m ien
+愕	er
+愚	yu
+愛	ai
+愛上	ai sh ang
+愛心	ai s in
+愛情	ai c ing
+愜	c ie
+感	g an
+感冒	g an m au
+感到	g an d au
+感動	g an d ong
+感受	g an sh ou
+感恩	g an ern
+感情	g an c ing
+感染	g an rh an
+感覺	g an z yue
+感謝	g an s ie
+愣	l ng
+愧	k uei
+愫	s u
+愴	ch uang
+愷	k ai
+愾	k ai
+愿	yuan
+慄	l i
+慇	in
+慈	c ii
+慈善	c ii sh an
+態	t ai
+態度	t ai d u
+慌	h uang
+慍	ia
+慎	sh ern
+慓	p iau
+慕	m u
+慘	c an
+慚	c an
+慝	t er
+慟	t ong
+慢	m an
+慢慢	m an m an
+慣	g uan
+慧	h uei
+慨	k ai
+慫	s ong
+慬	c in
+慮	l yu
+慰	uei
+慳	c ien
+慵	iong
+慶	c ing
+慶祝	c ing zh u
+慷	k ang
+慼	c i
+憂	iou
+憊	b ei
+憋	b ie
+憍	z iau
+憎	z ng
+憐	l ien
+憑	p ing
+憒	k uei
+憔	c iau
+憚	d an
+憟	s u
+憤	f ern
+憤怒	f ern n u
+憧	ch ong
+憨	h an
+憩	c i
+憫	m in
+憬	z ing
+憮	u
+憲	s ien
+憶	i
+憾	h an
+懂	d ong
+懂得	d ong d er
+懇	k ern
+懈	s ie
+應	ing
+應用	ing iong
+應該	ing g ai
+懊	au
+懋	m au
+懍	l in
+懟	d uei
+懣	m ern
+懦	n uo
+懨	ien
+懭	k uang
+懮	iou
+懲	ch ng
+懵	m ng
+懶	l an
+懷	h uai
+懷孕	h uai yun
+懷念	h uai n ien
+懷疑	h uai i
+懸	s yuan
+懺	ch an
+懼	z yu
+懾	zh er
+懿	i
+戀	l ien
+戀愛	l ien ai
+戇	zh uang
+戈	g er
+戊	u
+戌	s yu
+戍	sh u
+戎	rh ong
+成	ch ng
+成人	ch ng rh ern
+成份	ch ng f ern
+成分	ch ng f ern
+成功	ch ng g ong
+成員	ch ng yuan
+成就	ch ng z iou
+成本	ch ng b ern
+成果	ch ng g uo
+成為	ch ng uei
+成熟	ch ng sh u
+成立	ch ng l i
+成績	ch ng z i
+成長	ch ng zh ang
+我	uo
+我們	uo m ern
+我的	uo d er
+戒	z ie
+戕	c iang
+或	h uo
+或是	h uo sh ii
+或者	h uo zh er
+或許	h uo s yu
+戚	c i
+戛	z ia
+戟	z i
+戡	k an
+戧	c iang
+戩	z ien
+截	z ie
+戮	l u
+戰	zh an
+戰士	zh an sh ii
+戰爭	zh an zh ng
+戰略	zh an l yue
+戰鬥	zh an d ou
+戲	s i
+戲劇	s i z yu
+戳	ch uo
+戴	d ai
+戶	h u
+戶外	h u uai
+戽	h u
+戾	l i
+房	f ang
+房價	f ang z ia
+房地產	f ang d i ch an
+房子	f ang z ii
+房屋	f ang u
+房間	f ang z ien
+所	s uo
+所以	s uo i
+所在	s uo z ai
+所得	s uo d er
+所有	s uo iou
+所謂	s uo uei
+扁	b ien
+扂	d ien
+扇	sh an
+扈	h u
+扉	f ei
+手	sh ou
+手上	sh ou sh ang
+手中	sh ou zh ong
+手冊	sh ou c er
+手工	sh ou g ong
+手指	sh ou zh ii
+手機	sh ou z i
+手段	sh ou d uan
+手法	sh ou f a
+手術	sh ou sh u
+才	c ai
+扎	zh a
+扒	p a
+打	d a
+打工	d a g ong
+打擊	d a z i
+打破	d a p uo
+打算	d a s uan
+打造	d a z au
+打開	d a k ai
+扔	rh ng
+托	t uo
+扛	g ang
+扛	k ang
+扣	k ou
+扭	n iou
+扮	b an
+扮演	b an ien
+扯	ch er
+扳	b an
+扳	p an
+扶	f u
+批	p i
+批發	p i f a
+批評	p i p ing
+扼	er
+找	zh au
+找出	zh au ch u
+找到	zh au d au
+承	ch ng
+承受	ch ng sh ou
+承擔	ch ng d an
+承認	ch ng rh ern
+承諾	ch ng n uo
+技	z i
+技巧	z i c iau
+技能	z i n ng
+技術	z i sh u
+抄	ch au
+抉	z yue
+把	b a
+把握	b a uo
+抑	i
+抒	sh u
+抓	zh ua
+投	t ou
+投入	t ou rh u
+投票	t ou p iau
+投資	t ou z ii
+抖	d ou
+抗	k ang
+抗議	k ang i
+折	zh er
+折扣	zh er k ou
+抨	p ng
+披	p i
+抬	t ai
+抱	b au
+抱怨	b au yuan
+抱歉	b au c ien
+抵	d i
+抵達	d i d a
+抹	m uo
+押	ia
+抽	ch ou
+抿	m in
+拂	f u
+拆	ch ai
+拇	m u
+拈	n ien
+拉	l a
+拋	p au
+拌	b an
+拍	p ai
+拍攝	p ai sh er
+拍照	p ai zh au
+拍賣	p ai m ai
+拎	l ing
+拏	n a
+拐	g uai
+拒	z yu
+拒絕	z yu z yue
+拓	t uo
+拔	b a
+拖	t uo
+拗	au
+拗	n iou
+拘	z yu
+拙	zh uo
+拚	p in
+招	zh au
+招牌	zh au p ai
+拜	b ai
+括	g ua
+拭	sh ii
+拮	z ie
+拯	zh ng
+拯救	zh ng z iou
+拱	g ong
+拳	c yuan
+拴	sh uan
+拷	k au
+拼	p in
+拽	zh uai
+拾	sh ii
+拿	n a
+拿來	n a l ai
+拿出	n a ch u
+拿到	n a d au
+持	ch ii
+持有	ch ii iou
+持續	ch ii s yu
+指	zh ii
+指出	zh ii ch u
+指南	zh ii n an
+指定	zh ii d ing
+指導	zh ii d au
+指數	zh ii sh u
+指標	zh ii b iau
+指示	zh ii sh ii
+挈	c ie
+按	an
+按下	an s ia
+按摩	an m uo
+按照	an zh au
+按鈕	an n iou
+挎	k ua
+挑	t iau
+挑戰	t iau zh an
+挑選	t iau s yuan
+挖	ua
+挨	ai
+挪	n uo
+挫	c uo
+振	zh ern
+挲	s uo
+挹	i
+挺	t ing
+挽	uan
+挾	s ie
+挾	z ia
+捂	u
+捅	t ong
+捆	k un
+捉	zh uo
+捋	l uo
+捋	l yu
+捌	b a
+捍	h an
+捎	sh au
+捏	n ie
+捐	z yuan
+捕	b u
+捧	p ng
+捨	sh er
+捩	l ie
+捫	m ern
+捭	b ai
+捱	ai
+捲	z yuan
+捶	ch uei
+捷	z ie
+捷運	z ie yun
+捺	n a
+捻	n ien
+掀	s ien
+掁	ch ng
+掂	d ien
+掃	s au
+掄	l un
+掇	d uo
+授	sh ou
+授權	sh ou c yuan
+掉	d iau
+掊	p ou
+掌	zh ang
+掌握	zh ang uo
+掏	t au
+掐	c ia
+排	p ai
+排名	p ai m ing
+排除	p ai ch u
+排隊	p ai d uei
+掖	i
+掖	ie
+掘	z yue
+掙	zh ng
+掛	g ua
+掠	l yue
+採	c ai
+採取	c ai c yu
+採用	c ai iong
+採訪	c ai f ang
+採購	c ai g ou
+探	t an
+探索	t an s uo
+探討	t an t au
+掣	ch er
+接	z ie
+接下來	z ie s ia l ai
+接到	z ie d au
+接受	z ie sh ou
+接收	z ie sh ou
+接著	z ie zh er
+接觸	z ie ch u
+接近	z ie z in
+控	k ong
+控制	k ong zh ii
+推	t uei
+推出	t uei ch u
+推動	t uei d ong
+推廣	t uei g uang
+推薦	t uei z ien
+掩	ien
+措	c uo
+措施	c uo sh ii
+掬	z yu
+掭	t ien
+掮	c ien
+掰	b ai
+揀	z ien
+揄	yu
+揆	k uei
+揉	rh ou
+揍	z ou
+描	m iau
+描述	m iau sh u
+提	t i
+提交	t i z iau
+提供	t i g ong
+提出	t i ch u
+提到	t i d au
+提前	t i c ien
+提升	t i sh ng
+提示	t i sh ii
+提醒	t i s ing
+提高	t i g au
+插	ch a
+揖	i
+揚	iang
+換	h uan
+揠	ia
+握	uo
+揣	ch uai
+揩	k ai
+揪	z iou
+揭	z ie
+揮	h uei
+援	yuan
+揵	z ien
+揶	ie
+揹	b ei
+搆	g ou
+損	s un
+損失	s un sh ii
+損害	s un h ai
+搏	b uo
+搐	ch u
+搓	c uo
+搔	s au
+搖	iau
+搖滾	iau g un
+搗	d au
+搜	s ou
+搜尋	s ou s yun
+搜索	s ou s uo
+搞	g au
+搞笑	g au s iau
+搠	sh uo
+搡	s ang
+搦	n uo
+搧	sh an
+搪	t ang
+搬	b an
+搬家	b an z ia
+搭	d a
+搭乘	d a ch ng
+搭配	d a p ei
+搶	c iang
+搽	ch a
+搾	zh a
+摀	u
+摁	ern
+摑	g uo
+摔	sh uai
+摘	zh ai
+摘	zh er
+摜	g uan
+摟	l ou
+摧	c uei
+摩	m uo
+摯	zh ii
+摰	n ie
+摳	k ou
+摶	t uan
+摸	m uo
+摹	m uo
+摺	zh er
+摻	ch an
+摻	sh an
+摽	b iau
+摽	p iau
+撂	l iau
+撇	p ie
+撈	l au
+撐	ch ng
+撒	s a
+撓	n au
+撕	s ii
+撙	z un
+撚	n ien
+撞	zh uang
+撟	z iau
+撢	d an
+撣	d an
+撤	ch er
+撥	b uo
+撩	l iau
+撫	f u
+撬	c iau
+播	b uo
+播出	b uo ch u
+播放	b uo f ang
+撮	c uo
+撰	zh uan
+撲	p u
+撳	c in
+撻	t a
+撼	h an
+撾	zh ua
+撿	z ien
+擁	iong
+擁抱	iong b au
+擁有	iong iou
+擂	l ei
+擄	l u
+擅	sh an
+擇	z er
+擊	z i
+擋	d ang
+操	c au
+操作	c au z uo
+擎	c ing
+擒	c in
+擔	d an
+擔任	d an rh ern
+擔心	d an s in
+擘	b uo
+據	z yu
+據說	z yu sh uo
+擠	z i
+擢	zh uo
+擤	s ing
+擦	c a
+擬	n i
+擯	b in
+擰	n ing
+擱	g er
+擲	zh ii
+擴	k uo
+擴大	k uo d a
+擷	s ie
+擷	z ie
+擺	b ai
+擻	s ou
+擾	rh au
+攀	p an
+攆	n ien
+攏	l ong
+攔	l an
+攖	ing
+攘	rh ang
+攙	ch an
+攜	s i
+攜帶	s i d ai
+攝	sh er
+攝影	sh er ing
+攢	c uan
+攢	z an
+攣	l ien
+攣	l yuan
+攤	t an
+攥	z uan
+攪	z iau
+攫	z yue
+攬	l an
+支	zh ii
+支付	zh ii f u
+支持	zh ii ch ii
+支援	zh ii yuan
+收	sh ou
+收入	sh ou rh u
+收到	sh ou d au
+收藏	sh ou c ang
+收費	sh ou f ei
+收購	sh ou g ou
+收錄	sh ou l u
+收集	sh ou z i
+攸	iou
+改	g ai
+改善	g ai sh an
+改為	g ai uei
+改編	g ai b ien
+改變	g ai b ien
+改造	g ai z au
+改進	g ai z in
+改革	g ai g er
+攻	g ong
+攻擊	g ong z i
+放	f ang
+放下	f ang s ia
+放入	f ang rh u
+放大	f ang d a
+放心	f ang s in
+放棄	f ang c i
+放置	f ang zh ii
+放鬆	f ang s ong
+政	zh ng
+政府	zh ng f u
+政權	zh ng c yuan
+政治	zh ng zh ii
+政策	zh ng c er
+政黨	zh ng d ang
+故	g u
+故事	g u sh ii
+故意	g u i
+效	s iau
+效應	s iau ing
+效果	s iau g uo
+效率	s iau l yu
+效益	s iau i
+效能	s iau n ng
+敏	m in
+敏感	m in g an
+救	z iou
+敕	ch ii
+敖	au
+敗	b ai
+敘	s yu
+教	z iau
+教堂	z iau t ang
+教學	z iau s yue
+教室	z iau sh ii
+教導	z iau d au
+教師	z iau sh ii
+教授	z iau sh ou
+教會	z iau h uei
+教材	z iau c ai
+教練	z iau l ien
+教育	z iau yu
+教育部	z iau yu b u
+敝	b i
+敞	ch ang
+敢	g an
+散	s an
+敦	d un
+敬	z ing
+敬請	z ing c ing
+敲	c iau
+整	zh ng
+整個	zh ng g er
+整合	zh ng h er
+整理	zh ng l i
+整體	zh ng t i
+敵	d i
+敵人	d i rh ern
+敷	f u
+數	sh u
+數位	sh u uei
+數字	sh u z ii
+數學	sh u s yue
+數據	sh u z yu
+數量	sh u l iang
+敺	c yu
+斂	l ien
+斃	b i
+文	un
+文件	un z ien
+文化	un h ua
+文字	un z ii
+文學	un s yue
+文明	un m ing
+文章	un zh ang
+斌	b in
+斐	f ei
+斑	b an
+斕	l an
+斗	d ou
+料	l iau
+料理	l iau l i
+斛	h u
+斜	s ie
+斟	zh ern
+斡	uo
+斤	z in
+斥	ch ii
+斧	f u
+斫	zh uo
+斬	zh an
+斯	s ii
+新	s in
+新人	s in rh ern
+新加坡	s in z ia p uo
+新增	s in z ng
+新娘	s in n iang
+新年	s in n ien
+新手	s in sh ou
+新的	s in d i
+新竹	s in zh u
+新聞	s in un
+新興	s in s ing
+新鮮	s in s ien
+斲	zh uo
+斷	d uan
+方	f ang
+方便	f ang b ien
+方向	f ang s iang
+方式	f ang sh ii
+方案	f ang an
+方法	f ang f a
+方面	f ang m ien
+於	u
+於	yu
+於是	yu sh ii
+施	sh ii
+施工	sh ii g ong
+旁	p ang
+旁邊	p ang b ien
+旂	c i
+旃	zh an
+旄	m au
+旅	l yu
+旅客	l yu k er
+旅程	l yu ch ng
+旅行	l yu s ing
+旅遊	l yu iou
+旅館	l yu g uan
+旆	p ei
+旋	s yuan
+旋轉	s yuan zh uan
+旌	z ing
+旎	n i
+族	z u
+族群	z u c yun
+旖	i
+旗	c i
+既	z i
+既然	z i rh an
+日	rh ii
+日前	rh ii c ien
+日報	rh ii b au
+日子	rh ii z ii
+日常	rh ii ch ang
+日式	rh ii sh ii
+日後	rh ii h ou
+日文	rh ii un
+日期	rh ii c i
+日本	rh ii b ern
+日本人	rh ii b ern rh ern
+日記	rh ii z i
+日誌	rh ii zh ii
+旦	d an
+旨	zh ii
+早	z au
+早上	z au sh ang
+早期	z au c i
+早餐	z au c an
+旬	s yun
+旭	s yu
+旮	g a
+旯	l a
+旰	g an
+旱	h an
+旺	uang
+旻	m in
+昀	yun
+昂	ang
+昆	k un
+昇	sh ng
+昉	f ang
+昊	h au
+昌	ch ang
+明	m ing
+明天	m ing t ien
+明年	m ing n ien
+明明	m ing m ing
+明星	m ing s ing
+明白	m ing b ai
+明確	m ing c yue
+明顯	m ing s ien
+昏	h un
+易	i
+昔	s i
+昕	s in
+昝	z an
+星	s ing
+星光	s ing g uang
+星座	s ing z uo
+星星	s ing s ing
+星期	s ing c i
+映	ing
+昡	s yuan
+春	ch un
+春天	ch un t ien
+春節	ch un z ie
+昧	m ei
+昨	z uo
+昨天	z uo t ien
+昨日	z uo rh ii
+昭	zh au
+是	sh ii
+是否	sh ii f ou
+昱	yu
+昴	m au
+昵	n i
+昺	b ing
+晁	ch au
+時	sh ii
+時代	sh ii d ai
+時候	sh ii h ou
+時光	sh ii g uang
+時刻	sh ii k er
+時報	sh ii b au
+時尚	sh ii sh ang
+時期	sh ii c i
+時機	sh ii z i
+時段	sh ii d uan
+時空	sh ii k ong
+時間	sh ii z ien
+晃	h uang
+晉	z in
+晌	sh ang
+晏	ien
+晚	uan
+晚上	uan sh ang
+晚餐	uan c an
+晝	zh ou
+晞	s i
+晟	ch ng
+晟	sh ng
+晡	b u
+晤	u
+晦	h uei
+晨	ch ern
+普	p u
+普通	p u t ong
+普遍	p u b ien
+景	z ing
+景觀	z ing g uan
+景點	z ing d ien
+晰	s i
+晴	c ing
+晶	z ing
+晷	g uei
+智	zh ii
+智慧	zh ii h uei
+晾	l iang
+暄	s yuan
+暇	s ia
+暈	yun
+暉	h uei
+暌	k uei
+暍	h er
+暐	uei
+暑	sh u
+暑假	sh u z ia
+暖	n uan
+暗	an
+暘	iang
+暝	m ing
+暢	ch ang
+暨	z i
+暫	zh an
+暫時	zh an sh ii
+暮	m u
+暱	n i
+暴	b au
+暴力	b au l i
+暹	s ien
+暾	t un
+曄	ie
+曆	l i
+曇	t an
+曈	t ong
+曉	s iau
+曉得	s iau d er
+曌	zh au
+曖	ai
+曙	sh u
+曜	iau
+曝	p u
+曝光	p u g uang
+曠	k uang
+曦	s i
+曩	n ang
+曬	sh ai
+曰	yue
+曲	c yu
+曳	i
+更	g ng
+更加	g ng z ia
+更換	g ng h uan
+更改	g ng g ai
+更新	g ng s in
+更為	g ng uei
+曷	h er
+書	sh u
+書店	sh u d ien
+書籍	sh u z i
+書籤	sh u c ien
+曹	c au
+曼	m an
+曾	z ng
+曾經	c ng z ing
+替	t i
+最	z uei
+最低	z uei d i
+最佳	z uei z ia
+最初	z uei ch u
+最多	z uei d uo
+最大	z uei d a
+最好	z uei h au
+最後	z uei h ou
+最愛	z uei ai
+最新	z uei s in
+最終	z uei zh ong
+最近	z uei z in
+最高	z uei g au
+會	h uei
+會員	h uei yuan
+會計	k uai z i
+會議	h uei i
+會長	h uei zh ang
+月	yue
+月份	yue f ern
+有	iou
+有些	iou s ie
+有名	iou m ing
+有所	iou s uo
+有效	iou s iau
+有時	iou sh ii
+有時候	iou sh ii h ou
+有機	iou z i
+有用	iou iong
+有的	iou d er
+有空	iou k ong
+有線	iou s ien
+有趣	iou c yu
+有關	iou g uan
+有限	iou s ien
+有點	iou d ien
+朋	p ng
+朋友	p ng iou
+服	f u
+服務	f u u
+服用	f u iong
+服裝	f u zh uang
+服飾	f u sh ii
+朓	t iau
+朔	sh uo
+朕	zh ern
+朗	l ang
+望	uang
+朝	ch au
+期	c i
+期待	c i d ai
+期望	c i uang
+期間	c i z ien
+期限	c i s ien
+朦	m ng
+朧	l ong
+木	m u
+未	uei
+未來	uei l ai
+未滿	uei m an
+末	m uo
+本	b ern
+本人	b ern rh ern
+本來	b ern l ai
+本土	b ern t u
+本地	b ern d i
+本質	b ern zh ii
+本身	b ern sh ern
+札	zh a
+朮	zh u
+朱	zh u
+朴	p u
+朴	p uo
+朵	d uo
+朽	s iou
+朿	c ii
+杅	yu
+杈	ch a
+杉	sh an
+杌	u
+李	l i
+杏	s ing
+材	c ai
+材料	c ai l iau
+材質	c ai zh ii
+村	c un
+杓	b iau
+杓	sh au
+杖	zh ang
+杜	d u
+杞	c i
+束	sh u
+杪	m iau
+杭	h ang
+杯	b ei
+杰	z ie
+東	d ong
+東京	d ong z ing
+東方	d ong f ang
+東西	d ong s i
+杲	g au
+杳	iau
+杴	s ien
+杵	ch u
+杷	p a
+杻	n iou
+杼	zh u
+松	s ong
+板	b an
+板橋	b an c iau
+枇	p i
+枉	uang
+枋	f ang
+析	s i
+枓	zh u
+枕	zh ern
+林	l in
+枚	m ei
+果	g uo
+果然	g uo rh an
+枝	zh ii
+枯	k u
+枰	p ing
+枳	zh ii
+架	z ia
+架構	z ia g ou
+枷	z ia
+枸	g ou
+枹	b au
+枹	f u
+柄	b ing
+柏	b uo
+某	m ou
+某些	m ou s ie
+某個	m ou g er
+柑	g an
+柒	c i
+染	rh an
+柔	rh ou
+柘	zh er
+柙	s ia
+柚	iou
+柝	t uo
+柞	z uo
+柢	d i
+查	ch a
+查看	ch a k an
+查詢	ch a s yun
+柩	z iou
+柬	z ien
+柯	k er
+柱	zh u
+柳	l iou
+柴	ch ai
+柵	zh a
+柿	sh ii
+栓	sh uan
+栗	l i
+校	s iau
+校園	s iau yuan
+校長	s iau zh ang
+栩	s yu
+株	zh u
+栱	g ong
+栲	k au
+栳	l au
+栴	zh an
+核	h er
+核心	h er s in
+根	g ern
+根據	g ern z yu
+根本	g ern b ern
+格	g er
+格式	g er sh ii
+栽	z ai
+桀	z ie
+桂	g uei
+桃	t au
+桃園	t au yuan
+桅	uei
+框	k uang
+案	an
+案件	an z ien
+案例	an l i
+桉	an
+桌	zh uo
+桌面	zh uo m ien
+桎	zh ii
+桐	t ong
+桑	s ang
+桓	h uan
+桔	z ie
+桫	s uo
+桯	t ing
+桲	b uo
+桴	f u
+桶	t ong
+桷	z yue
+桿	g an
+梁	l iang
+梅	m ei
+梆	b ang
+梏	g u
+梓	z ii
+梔	zh ii
+梗	g ng
+條	t iau
+條件	t iau z ien
+條例	t iau l i
+條款	t iau k uan
+條目	t iau m u
+梟	s iau
+梠	l yu
+梢	sh au
+梧	u
+梨	l i
+梭	s uo
+梯	t i
+械	s ie
+梳	sh u
+梵	f an
+棄	c i
+棉	m ien
+棋	c i
+棍	g un
+棒	b ang
+棒球	b ang c iou
+棕	z ong
+棗	z au
+棘	z i
+棚	p ng
+棟	d ong
+棠	t ang
+棣	d i
+棧	zh an
+棨	c i
+森	s ern
+森林	s ern l in
+棰	ch uei
+棱	l ng
+棲	c i
+棵	k er
+棹	zh au
+棺	g uan
+棻	f ern
+椅	i
+植	zh ii
+植物	zh ii u
+椎	zh uei
+椏	ia
+椐	z yu
+椒	z iau
+椪	p ng
+椰	ie
+椴	d uan
+椹	zh ern
+椽	ch uan
+椿	ch un
+楂	ch a
+楊	iang
+楓	f ng
+楔	s ie
+楚	ch u
+楝	l ien
+楞	l ng
+楠	n an
+楣	m ei
+楦	s yuan
+楨	zh ern
+楫	z i
+楬	z ie
+業	ie
+業務	ie u
+業界	ie z ie
+業者	ie zh er
+楮	ch u
+楯	sh un
+極	z i
+極為	z i uei
+楷	k ai
+楸	c iou
+楹	ing
+概	g ai
+概念	g ai n ien
+榆	yu
+榔	l ang
+榕	rh ong
+榖	g u
+榛	zh ern
+榜	b ang
+榧	f ei
+榨	zh a
+榫	s un
+榭	s ie
+榮	rh ong
+榮獲	rh ong h uo
+榴	l iou
+榷	c yue
+榻	t a
+榿	c i
+槁	g au
+槃	p an
+槊	sh uo
+構	g ou
+構成	g ou ch ng
+槌	ch uei
+槍	c iang
+槎	ch a
+槐	h uai
+槓	g ang
+槤	l ien
+槨	g uo
+槭	c u
+槲	h u
+槳	z iang
+槽	c au
+槿	z in
+樁	zh uang
+樂	l er
+樂	yue
+樂器	yue c i
+樂園	l er yuan
+樂團	yue t uan
+樂趣	l er c yu
+樅	c ong
+樊	f an
+樑	l iang
+樓	l ou
+標	b iau
+標準	b iau zh un
+標示	b iau sh ii
+標籤	b iau c ien
+標誌	b iau zh ii
+標題	b iau t i
+樞	sh u
+樟	zh ang
+模	m uo
+模型	m uo s ing
+模式	m uo sh ii
+模擬	m uo n i
+模樣	m u iang
+模樣	m uo iang
+模糊	m uo h u
+模組	m uo z u
+樣	iang
+樣子	iang z ii
+樨	s i
+樵	c iau
+樸	p u
+樹	sh u
+樺	h ua
+樽	z un
+樾	yue
+橄	g an
+橇	c iau
+橇	c uei
+橈	n au
+橋	c iau
+橐	t uo
+橕	ch ng
+橘	z yu
+橙	ch ng
+橛	z yue
+機	z i
+機制	z i zh ii
+機器	z i c i
+機器人	z i c i rh ern
+機場	z i ch ang
+機會	z i h uei
+機械	z i s ie
+機構	z i g ou
+機率	z i l yu
+機票	z i p iau
+機車	z i ch er
+機關	z i g uan
+橡	s iang
+橢	t uo
+橫	h ng
+檀	t an
+檁	l in
+檄	s i
+檉	ch ng
+檎	c in
+檐	ien
+檔	d ang
+檔案	d ang an
+檗	b uo
+檜	k uai
+檢	z ien
+檢查	k ai s yuan
+檢測	z ien c er
+檢視	z ien sh ii
+檢討	z ien t au
+檢驗	z ien ien
+檬	m ng
+檯	t ai
+檳	b in
+檸	n ing
+檻	z ien
+櫃	g uei
+櫓	l u
+櫚	l yu
+櫛	z ie
+櫞	yuan
+櫟	l i
+櫥	ch u
+櫧	zh u
+櫪	l i
+櫫	zh u
+櫬	ch ern
+櫱	n ie
+櫸	z yu
+櫺	l ing
+櫻	ing
+欄	l an
+權	c yuan
+權利	c yuan l i
+權力	c yuan l i
+權益	c yuan i
+欏	l uo
+欒	l uan
+欖	l an
+欞	l ing
+欠	c ien
+次	c ii
+次數	c ii sh u
+欣	s in
+欣賞	s in sh ang
+欲	yu
+欷	s i
+欹	i
+欺	c i
+欽	c in
+款	k uan
+歆	s in
+歇	s ie
+歉	c ien
+歌	g er
+歌手	g er sh ou
+歌曲	g er c yu
+歌詞	g er c ii
+歎	t an
+歐	ou
+歐洲	ou zh ou
+歔	s yu
+歙	s i
+歡	h uan
+歡樂	h uan l er
+歡迎	h uan ing
+止	zh ii
+正	zh ng
+正在	zh ng z ai
+正好	zh ng h au
+正常	zh ng ch ang
+正式	zh ng sh ii
+正確	zh ng c yue
+正義	zh ng i
+正面	zh ng m ien
+此	c ii
+此外	c ii uai
+此時	c ii sh ii
+步	b u
+步行	b u s ing
+步道	b u d au
+步驟	b u z ou
+武	u
+武器	u c i
+歧	c i
+歪	uai
+歲	s uei
+歲月	s uei yue
+歷	l i
+歷史	l i sh ii
+歸	g uei
+歹	d ai
+死	s ii
+死亡	s ii uang
+歿	m uo
+殃	iang
+殄	t ien
+殆	d ai
+殉	s yun
+殊	sh u
+殖	zh ii
+殘	c an
+殛	z i
+殞	yun
+殤	sh ang
+殫	d an
+殭	z iang
+殮	l ien
+殯	b in
+殲	z ien
+殳	sh u
+段	d uan
+殷	in
+殺	sh a
+殺人	sh a rh ern
+殼	k er
+殿	d ien
+毀	h uei
+毅	i
+毆	ou
+毋	u
+毌	g uan
+母	m u
+母親	m u c in
+每	m ei
+每個	m ei g er
+每天	m ei t ien
+每次	m ei c ii
+毐	ai
+毒	d u
+毓	yu
+比	b i
+比例	b i l i
+比如	b i rh u
+比賽	b i s ai
+比起	b i c i
+比較	b i z iau
+毗	p i
+毛	m au
+毫	h au
+毬	c iou
+毯	t an
+毽	z ien
+氂	l i
+氅	ch ang
+氆	p u
+氈	zh an
+氏	sh ii
+氐	d i
+民	m in
+民主	m in zh u
+民國	m in g uo
+民族	m in z u
+民眾	m in zh ong
+民進黨	m in z in d ang
+民間	m in z ien
+氓	m ang
+氖	n ai
+氘	d au
+氙	s ien
+氚	ch uan
+氛	f ern
+氟	f u
+氡	d ong
+氣	c i
+氣候	c i h ou
+氣息	c i s i
+氣氛	c i f ern
+氣質	c i zh ii
+氤	in
+氦	h ai
+氧	iang
+氨	an
+氪	k er
+氫	c ing
+氬	ia
+氮	d an
+氯	l yu
+氰	c ing
+氳	yun
+水	sh uei
+水平	sh uei p ing
+水晶	sh uei z ing
+水果	sh uei g uo
+水準	sh uei zh un
+永	iong
+永久	iong z iou
+永遠	iong yuan
+氾	f an
+氿	g uei
+汀	t ing
+汁	zh ii
+求	c iou
+汆	c uan
+汆	t un
+汊	ch a
+汎	f an
+汐	s i
+汔	c i
+汕	sh an
+汗	h an
+汙	u
+汛	s un
+汜	s ii
+汝	rh u
+汞	g ong
+江	z iang
+池	ch ii
+污	u
+污染	u rh an
+汨	m i
+汩	g u
+汪	uang
+汰	t ai
+汲	z i
+汴	b ien
+汶	un
+決	z yue
+決定	z yue d ing
+決心	z yue s in
+汽	c i
+汽車	c i ch er
+汾	f ern
+沁	c in
+沂	i
+沃	uo
+沆	h ang
+沈	ch ern
+沈	sh ern
+沉	ch ern
+沌	d un
+沏	c i
+沐	m u
+沒	m ei
+沒有	m ei iou
+沒錯	m ei c uo
+沓	t a
+沔	m ien
+沖	ch ong
+沙	sh a
+沙灘	sh a t an
+沙發	sh a f a
+沛	p ei
+沫	m uo
+沬	m ei
+沭	sh u
+沮	z yu
+沱	t uo
+河	h er
+沷	f u
+沸	f ei
+油	iou
+治	zh ii
+治療	zh ii l iau
+沼	zh au
+沽	g u
+沾	zh an
+沿	ien
+況	k uang
+泄	s ie
+泅	c iou
+泉	c yuan
+泊	b uo
+泌	m i
+泐	l er
+泓	h ong
+泔	g an
+法	f a
+法人	f a rh ern
+法國	f a g uo
+法官	f a g uan
+法定	f a d ing
+法師	f a sh ii
+法律	f a l yu
+法規	f a g uei
+法輪功	f a l un g ong
+法院	f a yuan
+泗	s ii
+泚	c ii
+泛	f an
+泠	l ing
+泡	p au
+波	b uo
+泣	c i
+泥	n i
+注	zh u
+注意	zh u i
+泫	s yuan
+泮	p an
+泯	m in
+泰	t ai
+泰國	t ai g uo
+泱	iang
+泳	iong
+泵	b ng
+洄	h uei
+洋	iang
+洗	s i
+洙	zh u
+洛	l uo
+洞	d ong
+津	z in
+洧	uei
+洨	s iau
+洩	s ie
+洪	h ong
+洮	t au
+洱	err
+洲	zh ou
+洵	s yun
+洶	s iong
+洸	g uang
+洹	h uan
+洺	m ing
+活	h uo
+活力	h uo l i
+活動	h uo d ong
+洽	c ia
+派	p ai
+流	l iou
+流動	l iou d ong
+流浪	l iou l ang
+流程	l iou ch ng
+流行	l iou s ing
+浙	zh er
+浚	z yun
+浠	s i
+浡	b uo
+浣	h uan
+浦	p u
+浩	h au
+浪	l ang
+浪漫	l ang m an
+浪費	l ang f ei
+浬	l i
+浮	f u
+浯	u
+浴	yu
+浴室	yu sh ii
+海	h ai
+海報	h ai b au
+海外	h ai uai
+海岸	h ai an
+海洋	h ai iang
+海灘	h ai t an
+海鮮	h ai s ien
+浸	z in
+浹	z ia
+涂	t u
+涅	n ie
+涇	z ing
+消	s iau
+消失	s iau sh ii
+消息	s iau s i
+消費	s iau f ei
+消費者	s iau f ei zh er
+消除	s iau ch u
+涉	sh er
+涉及	sh er z i
+涎	s ien
+涑	s u
+涓	z yuan
+涔	c ern
+涕	t i
+涪	f u
+涮	sh uan
+涯	ia
+液	ie
+涴	uo
+涵	h an
+涷	d ong
+涸	h er
+涼	l iang
+涿	zh uo
+淀	d ien
+淄	z ii
+淅	s i
+淆	iau
+淇	c i
+淋	l in
+淌	t ang
+淑	sh u
+淒	c i
+淖	n au
+淘	t au
+淙	c ong
+淚	l ei
+淝	f ei
+淞	s ong
+淠	p i
+淡	d an
+淡水	d an sh uei
+淤	yu
+淥	l u
+淦	g an
+淨	z ing
+淩	l ing
+淪	l un
+淫	in
+淬	c uei
+淮	h uai
+淯	yu
+深	sh ern
+深入	sh ern rh u
+深刻	sh ern k er
+深圳	sh ern ch ou
+深度	sh ern d u
+深深	sh ern sh ern
+淳	ch un
+淵	yuan
+淶	l ai
+混	h un
+混合	h un h er
+淹	ien
+淺	c ien
+添	t ien
+添加	t ien z ia
+淼	m iau
+清	c ing
+清單	c ing d an
+清晰	c ing s i
+清楚	c ing ch u
+清洗	c ing s i
+清潔	c ing z ie
+渙	h uan
+渚	zh u
+減	z ien
+減少	z ien sh au
+減肥	z ien f ei
+渝	yu
+渠	c yu
+渡	d u
+渣	zh a
+渤	b uo
+渥	uo
+渦	uo
+渫	s ie
+測	c er
+測試	c er sh ii
+測量	c er l iang
+測驗	c er ien
+渭	uei
+港	g ang
+渲	s yuan
+渴	k er
+渴望	k er uang
+游	iou
+游泳	iou iong
+游泳池	iou iong ch ii
+渺	m iau
+渼	m ei
+渾	h un
+湃	p ai
+湄	m ei
+湉	t ien
+湊	c ou
+湍	t uan
+湎	m ien
+湔	z ien
+湖	h u
+湘	s iang
+湛	zh an
+湜	sh ii
+湞	zh ern
+湟	h uang
+湣	m in
+湧	iong
+湫	z iau
+湮	in
+湯	t ang
+湳	n an
+溈	g uei
+溉	g ai
+溏	t ang
+源	yuan
+準	zh un
+準備	zh un b ei
+準確	zh un c yue
+溘	k er
+溜	l iou
+溝	g ou
+溝通	g ou t ong
+溟	m ing
+溢	i
+溥	p u
+溧	l i
+溪	s i
+溫	un
+溫度	un d u
+溫暖	un n uan
+溫柔	un rh ou
+溫泉	un c yuan
+溫馨	un s in
+溯	s u
+溱	zh ern
+溲	s ou
+溴	s iou
+溶	rh ong
+溷	h un
+溺	n i
+溽	rh u
+滁	ch u
+滂	p ang
+滄	c ang
+滅	m ie
+滇	d ien
+滋	z ii
+滋味	z ii uei
+滌	d i
+滎	s ing
+滏	f u
+滑	h ua
+滑鼠	h ua sh u
+滓	z ii
+滔	t au
+滕	t ng
+滬	h u
+滯	zh ii
+滲	sh ern
+滴	d i
+滷	l u
+滸	h u
+滹	h u
+滻	ch an
+滾	g un
+滿	m an
+滿意	m an i
+滿滿	m an m an
+滿足	m an z u
+漁	yu
+漂	p iau
+漂亮	p iau l iang
+漆	c i
+漈	z i
+漉	l u
+漊	l ou
+漏	l ou
+漓	l i
+演	ien
+演出	ien ch u
+演員	ien yuan
+演唱	ien ch ang
+演唱會	ien ch ang h uei
+演奏	ien z ou
+演講	ien z iang
+漕	c au
+漚	ou
+漠	m uo
+漢	h an
+漣	l ien
+漩	s yuan
+漪	i
+漫	m an
+漫畫	m an h ua
+漬	z ii
+漯	t a
+漱	sh u
+漲	zh ang
+漳	zh ang
+漵	s yu
+漷	k uo
+漸	z ien
+漸漸	z ien z ien
+漾	iang
+漿	z iang
+潁	ing
+潑	p uo
+潔	z ie
+潘	p an
+潚	s iau
+潛	c ien
+潞	l u
+潟	s i
+潢	h uang
+潤	rh un
+潦	l au
+潦	l iau
+潬	d an
+潭	t an
+潮	ch au
+潮流	ch au l iou
+潯	s yun
+潰	k uei
+潲	sh au
+潸	sh an
+潺	ch an
+潼	t ong
+澀	s er
+澄	ch ng
+澆	z iau
+澇	l au
+澈	ch er
+澉	g an
+澌	s ii
+澍	sh u
+澎	p ng
+澎湖	p ng h u
+澐	yun
+澗	z ien
+澠	m in
+澡	z au
+澤	z er
+澥	s ie
+澧	l i
+澮	k uai
+澱	d ien
+澳	au
+澳洲	au zh ou
+澳門	au m ern
+澶	ch an
+激	z i
+激情	z i c ing
+激烈	z i l ie
+濁	zh uo
+濂	l ien
+濃	n ong
+濕	sh ii
+濘	n ing
+濛	m ng
+濞	p i
+濟	z i
+濠	h au
+濡	rh u
+濤	t au
+濫	l an
+濮	p u
+濯	zh uo
+濰	uei
+濱	b in
+濺	z ien
+濼	b uo
+濼	l uo
+濾	l yu
+瀅	ing
+瀆	d u
+瀉	s ie
+瀋	sh ern
+瀍	ch an
+瀏	l iou
+瀏覽	l iou l an
+瀏覽器	l iou l an c i
+瀑	p u
+瀕	b in
+瀘	l u
+瀚	h an
+瀛	ing
+瀝	l i
+瀟	s iau
+瀠	ing
+瀦	zh u
+瀧	l ong
+瀨	l ai
+瀯	ing
+瀰	m i
+瀲	l ien
+瀵	f ern
+瀾	l an
+灃	f ng
+灄	sh er
+灌	g uan
+灑	s a
+灕	l i
+灘	t an
+灝	h au
+灞	b a
+灣	uan
+灤	l uan
+灩	ien
+火	h uo
+火車	h uo ch er
+火車站	h uo ch er zh an
+火鍋	h uo g uo
+灰	h uei
+灶	z au
+灸	z iou
+灼	zh uo
+災	z ai
+炊	ch uei
+炎	ien
+炒	ch au
+炔	c yue
+炕	k ang
+炖	d un
+炘	s in
+炙	zh ii
+炫	s yuan
+炬	z yu
+炭	t an
+炮	p au
+炯	z iong
+炳	b ing
+炷	zh u
+炸	zh a
+為	uei
+為主	uei zh u
+為了	uei l er
+為什麼	uei sh er m er
+為什麼	uei sh ii m er
+為何	uei h er
+為止	uei zh ii
+烈	l ie
+烊	iang
+烏	u
+烘	h ong
+烙	l au
+烜	s yuan
+烤	k au
+烯	s i
+烴	c ing
+烴	z ing
+烷	uan
+烹	p ng
+烺	l ang
+烽	f ng
+焉	ien
+焊	h an
+焗	z yu
+焙	b ei
+焚	f ern
+焜	k un
+焠	c uei
+無	u
+無名	u m ing
+無奈	u n ai
+無數	u sh u
+無法	u f a
+無線	u s ien
+無聊	u l iau
+無論	u l un
+無關	u g uan
+無限	u s ien
+焦	z iau
+焦點	z iau d ien
+焯	zh uo
+焰	ien
+焱	ien
+然	rh an
+然後	rh an h ou
+然而	rh an err
+煇	h uei
+煉	l ien
+煌	h uang
+煎	z ien
+煒	uei
+煙	ien
+煜	yu
+煞	sh a
+煢	c iong
+煤	m ei
+煥	h uan
+煦	s yu
+照	zh au
+照片	zh au p ien
+照顧	zh au g u
+煨	uei
+煩	f an
+煩惱	f an n au
+煬	iang
+煮	zh u
+煲	b au
+煽	sh an
+熄	s i
+熊	s iong
+熒	ing
+熔	rh ong
+熗	c iang
+熙	s i
+熟	sh u
+熟悉	sh ou s i
+熟悉	sh u s i
+熠	i
+熨	yun
+熬	au
+熱	rh er
+熱情	rh er c ing
+熱愛	rh er ai
+熱烈	rh er l ie
+熱門	rh er m ern
+熱鬧	rh er n au
+熹	s i
+熾	ch ii
+燁	ie
+燃	rh an
+燄	ien
+燈	d ng
+燈光	d ng g uang
+燉	d un
+燊	sh ern
+燎	l iau
+燐	l in
+燒	sh au
+燔	f an
+燕	ien
+燙	t ang
+燜	m ern
+營	ing
+營業	ing ie
+營造	ing z au
+營運	ing yun
+營養	ing iang
+燠	yu
+燥	z au
+燦	c an
+燧	s uei
+燬	h uei
+燭	zh u
+燮	s ie
+燴	h uei
+燹	s ien
+燻	s yun
+燼	z in
+燾	t au
+燿	iau
+爆	b au
+爆炸	b au zh a
+爆發	b au f a
+爍	sh uo
+爐	l u
+爛	l an
+爪	zh au
+爬	p a
+爭	zh ng
+爭取	zh ng c yu
+爭議	zh ng i
+爰	yuan
+爵	z yue
+父	f u
+父母	f u m u
+父親	f u c in
+爸	b a
+爸爸	b a b a
+爹	d ie
+爺	ie
+爻	iau
+爽	sh uang
+爾	err
+牆	c iang
+片	p ien
+片段	p ien d uan
+版	b an
+版本	b an b ern
+版權	b an c yuan
+牌	p ai
+牒	d ie
+牘	d u
+牙	ia
+牙齒	ia ch ii
+牛	n iou
+牛奶	n iou n ai
+牛肉	n iou rh ou
+牝	p in
+牟	m ou
+牡	m u
+牢	l au
+牧	m u
+牧師	m u sh ii
+物	u
+物件	u z ien
+物品	u p in
+物理	u l i
+物質	u zh ii
+牯	g u
+牲	sh ng
+牴	d i
+特	t er
+特價	t er z ia
+特別	t er b ie
+特區	t er c yu
+特地	t er d i
+特定	t er d ing
+特徵	t er zh ng
+特性	t er s ing
+特殊	t er sh u
+特色	t er s er
+特質	t er zh ii
+特點	t er d ien
+牽	c ien
+牾	u
+犀	s i
+犁	l i
+犍	z ien
+犒	k au
+犖	l uo
+犢	d u
+犧	s i
+犧牲	s i sh ng
+犬	c yuan
+犯	f an
+犯罪	f an z uei
+犰	c iou
+犽	ia
+狀	zh uang
+狀態	zh uang t ai
+狀況	zh uang k uang
+狂	k uang
+狄	d i
+狎	s ia
+狐	h u
+狒	f ei
+狗	g ou
+狙	z yu
+狟	h uan
+狠	h ern
+狡	z iau
+狩	sh ou
+狷	z yuan
+狸	l i
+狹	s ia
+狻	s uan
+狼	l ang
+狽	b ei
+猊	n i
+猖	ch ang
+猗	i
+猙	zh ng
+猛	m ng
+猜	c ai
+猝	c u
+猥	uei
+猩	s ing
+猴	h ou
+猶	iou
+猷	iou
+猻	s un
+猼	b uo
+猾	h ua
+猿	yuan
+獃	d ai
+獄	yu
+獅	sh ii
+獎	z iang
+獎勵	z iang l i
+獎金	z iang z in
+獐	zh ang
+獒	au
+獗	z yue
+獠	l iau
+獨	d u
+獨家	d u z ia
+獨特	d u t er
+獨立	d u l i
+獰	n ing
+獲	h uo
+獲利	h uo l i
+獲得	h uo d er
+獵	l ie
+獷	g uang
+獸	sh ou
+獺	t a
+獻	s ien
+獼	m i
+獾	h uan
+玄	s yuan
+率	l yu
+率	sh uai
+玉	yu
+王	uang
+王子	uang z ii
+玎	d ing
+玖	z iou
+玟	m in
+玠	z ie
+玢	b in
+玥	yue
+玦	z yue
+玨	z yue
+玩	uan
+玩具	uan z yu
+玩家	uan z ia
+玫	m ei
+玫瑰	m ei g uei
+玭	p i
+玲	l ing
+玳	d ai
+玷	d ien
+玻	b uo
+玻璃	b uo l i
+珀	p uo
+珂	k er
+珅	sh ern
+珈	z ia
+珊	sh an
+珍	zh ern
+珍惜	zh ern s i
+珍貴	zh ern g uei
+珙	g ong
+珞	l uo
+珠	zh u
+珠寶	zh u b au
+珣	s yun
+珥	err
+珩	h ng
+珪	g uei
+班	b an
+珮	p ei
+現	s ien
+現今	s ien z in
+現代	s ien d ai
+現在	s ien z ai
+現場	s ien ch ang
+現實	s ien sh ii
+現時	s ien sh ii
+現有	s ien iou
+現象	s ien s iang
+現金	s ien z in
+球	c iou
+球員	c iou yuan
+球場	c iou ch ang
+球隊	c iou d uei
+琅	l ang
+理	l i
+理念	l i n ien
+理性	l i s ing
+理想	l i s iang
+理由	l i iou
+理解	l i z ie
+理論	l i l un
+理財	l i c ai
+琇	s iou
+琉	l iou
+琊	ie
+琍	l i
+琛	ch ern
+琢	zh uo
+琤	ch ng
+琥	h u
+琦	c i
+琨	k un
+琪	c i
+琬	uan
+琮	c ong
+琯	g uan
+琰	ien
+琲	b ei
+琳	l in
+琴	c in
+琵	p i
+琶	p a
+琺	f a
+琿	h un
+瑀	yu
+瑁	m au
+瑁	m ei
+瑄	s yuan
+瑋	uei
+瑕	s ia
+瑗	yuan
+瑙	n au
+瑚	h u
+瑛	ing
+瑜	yu
+瑞	rh uei
+瑞士	rh uei sh ii
+瑟	s er
+瑢	rh ong
+瑣	s uo
+瑤	iau
+瑩	ing
+瑪	m a
+瑭	t ang
+瑯	l ang
+瑰	g uei
+瑱	t ien
+瑾	z in
+璀	c uei
+璁	c ong
+璃	l i
+璇	s yuan
+璉	l ien
+璊	m ern
+璋	zh ang
+璐	l u
+璘	l in
+璜	h uang
+璞	p u
+璟	z ing
+璠	f an
+璣	z i
+璦	ai
+璧	b i
+璨	c an
+璩	c yu
+環	h uan
+環保	h uan b au
+環境	h uan z ing
+璺	un
+璽	s i
+璿	s yuan
+瓊	c iong
+瓏	l ong
+瓔	ing
+瓚	z an
+瓜	g ua
+瓠	h u
+瓢	p iau
+瓣	b an
+瓤	rh ang
+瓦	ua
+瓮	ung
+瓴	l ing
+瓶	p ing
+瓷	c ii
+瓿	p ou
+甄	zh ern
+甌	ou
+甑	z ng
+甕	ung
+甘	g an
+甚	sh ern
+甚至	sh ern zh ii
+甚麼	sh er m uo
+甚麼	sh ern m er
+甜	t ien
+甜蜜	t ien m i
+甜點	t ien d ien
+生	sh ng
+生命	sh ng m ing
+生存	sh ng c un
+生意	sh ng i
+生態	sh ng t ai
+生日	sh ng rh ii
+生氣	sh ng c i
+生活	sh ng h uo
+生涯	sh ng ia
+生物	sh ng u
+生理	sh ng l i
+生產	sh ng ch an
+生長	sh ng zh ang
+產	ch an
+產品	ch an p in
+產業	ch an ie
+產生	ch an sh ng
+甥	sh ng
+甦	s u
+用	iong
+用來	iong l ai
+用力	iong l i
+用品	iong p in
+用心	iong s in
+用戶	iong h u
+用途	iong t u
+用餐	iong c an
+甩	sh uai
+甫	f u
+甬	iong
+甭	b ng
+甯	n ing
+田	t ien
+由	iou
+由於	iou yu
+甲	z ia
+申	sh ern
+申報	sh ern b au
+申請	sh ern c ing
+男	n an
+男人	n an rh ern
+男友	n an iou
+男女	n an n yu
+男子	n an z ii
+男孩	n an h ai
+男性	n an s ing
+男生	n an sh ng
+甸	d ien
+町	t ing
+甾	z ii
+畀	b i
+畈	f an
+界	z ie
+畏	uei
+畔	p an
+留	d a
+留下	l iou s ia
+留在	l iou z ai
+留學	l iou s yue
+留意	l iou i
+留言	l iou ien
+畚	b ern
+畜	ch u
+畝	m u
+畢	b i
+畢業	b i ie
+畢竟	b i z ing
+略	l yue
+畦	c i
+畦	s i
+番	f an
+畫	h ua
+畫面	h ua m ien
+畬	yu
+畯	z yun
+異	i
+異常	i ch ang
+當	d ang
+當下	d ang s ia
+當中	d ang zh ong
+當代	d ang d ai
+當作	d ang z uo
+當初	d ang ch u
+當前	d ang c ien
+當地	d ang d i
+當天	d ang t ien
+當局	d ang z yu
+當年	d ang n ien
+當成	d ang ch ng
+當日	d ang rh ii
+當時	d ang sh ii
+當然	d ang rh an
+畸	z i
+畹	uan
+畽	t uan
+畿	z i
+疆	z iang
+疇	ch ou
+疊	d ie
+疏	sh u
+疑	i
+疑問	i un
+疔	d ing
+疙	g er
+疚	z iou
+疝	sh an
+疣	iou
+疤	b a
+疥	z ie
+疫	i
+疲	p i
+疳	g an
+疵	c ii
+疸	d an
+疹	zh ern
+疼	t ng
+疼痛	t ng t ong
+疽	z yu
+疾	z i
+疾病	z i b ing
+痂	z ia
+病	b ing
+病人	b ing rh ern
+病患	b ing h uan
+病毒	b ing d u
+症	zh ng
+症狀	zh ng zh uang
+痊	c yuan
+痍	i
+痔	zh ii
+痕	h ern
+痘	d ou
+痙	z ing
+痛	t ong
+痛苦	t ong k u
+痞	p i
+痠	s uan
+痢	l i
+痣	zh ii
+痤	c uo
+痧	sh a
+痰	t an
+痱	f ei
+痲	m a
+痹	b i
+痺	b i
+痼	g u
+痾	er
+痿	uei
+瘀	yu
+瘁	c uei
+瘋	f ng
+瘋狂	f ng k uang
+瘍	iang
+瘓	h uan
+瘕	z ia
+瘙	s au
+瘞	i
+瘟	un
+瘠	z i
+瘡	ch uang
+瘢	b an
+瘤	l iou
+瘦	sh ou
+瘧	n yue
+瘩	d a
+瘰	l uo
+瘴	zh ang
+瘸	c yue
+瘺	l ou
+療	l iau
+療法	l iau f a
+癆	l au
+癇	s ien
+癈	f ei
+癌	ien
+癌症	ien zh ng
+癒	yu
+癖	p i
+癘	l i
+癜	d ien
+癟	b ie
+癡	ch ii
+癢	iang
+癤	z ie
+癥	zh ng
+癩	l ai
+癬	s ien
+癭	ing
+癮	in
+癰	iong
+癱	t an
+癲	d ien
+癸	g uei
+登	d ng
+登場	d ng ch ang
+登記	d ng z i
+登錄	d ng l u
+發	f a
+發出	f a ch u
+發動	f a d ong
+發展	f a zh an
+發布	f a b u
+發揮	f a h uei
+發明	f a m ing
+發現	f a s ien
+發生	f a sh ng
+發票	f a p iau
+發行	f a h ang
+發行	f a s ing
+發表	f a b iau
+發覺	f a z yue
+發言	f a ien
+發音	f a in
+白	b ai
+白天	b ai t ien
+白色	b ai s er
+百	b ai
+百分之	b ai f ern zh ii
+百萬	b ai uan
+百貨	b ai h uo
+皂	z au
+的	d er
+的	d i
+的確	d i c yue
+的話	d er h ua
+皆	z ie
+皇	h uang
+皇帝	h uang d i
+皈	g uei
+皋	g au
+皎	z iau
+皓	h au
+皖	uan
+皙	s i
+皚	ai
+皤	p uo
+皮	p i
+皮膚	p i f u
+皰	p au
+皴	c un
+皺	zh ou
+皿	m in
+盂	yu
+盅	zh ong
+盆	p ern
+盈	ing
+益	i
+盎	ang
+盒	h er
+盔	k uei
+盛	sh ng
+盜	d au
+盞	zh an
+盟	m ng
+盡	z in
+盡量	z in l iang
+監	z ien
+監督	z ien d u
+盤	p an
+盥	g uan
+盧	l u
+盪	d ang
+目	m u
+目前	m u c ien
+目標	m u b iau
+目的	m u d i
+目錄	m u l u
+盯	d ing
+盱	s yu
+盲	m ang
+直	zh ii
+直接	zh ii z ie
+相	s iang
+相互	s iang h u
+相似	s iang s ii
+相信	s iang s in
+相反	s iang f an
+相同	s iang t ong
+相對	s iang d uei
+相機	s iang z i
+相比	s iang b i
+相片	s iang p ien
+相當	s iang d ang
+相簿	s iang b u
+相處	s iang ch u
+相關	s iang g uan
+盹	d un
+盼	p an
+盾	d un
+省	sh ng
+眇	m iau
+眈	d an
+眉	m ei
+看	k an
+看似	k an s ii
+看來	k an l ai
+看出	k an ch u
+看到	k an d au
+看完	k an uan
+看法	k an f a
+看看	k an k an
+看見	k an z ien
+看起來	k an c i l ai
+看過	k an g uo
+眕	zh ern
+眛	m ei
+真	zh ern
+真實	zh ern sh ii
+真心	zh ern s in
+真是	zh ern sh ii
+真正	zh ern zh ng
+真理	zh ern l i
+真的	zh ern d er
+真相	zh ern s iang
+眠	m ien
+眥	z ii
+眨	zh a
+眩	s yuan
+眭	s uei
+眯	m i
+眶	k uang
+眷	z yuan
+眸	m ou
+眺	t iau
+眼	ien
+眼光	ien g uang
+眼前	ien c ien
+眼淚	ien l ei
+眼睛	ien z ing
+眼神	ien sh ern
+眼鏡	ien z ing
+眾	zh ong
+眾人	zh ong rh ern
+眾多	zh ong d uo
+眾生	zh ong sh ng
+睇	d i
+睏	k un
+睚	ia
+睚	iai
+睛	z ing
+睜	zh ng
+睞	l ai
+睡	sh uei
+睡眠	sh uei m ien
+睡覺	sh uei z iau
+睢	s uei
+督	d u
+睥	b i
+睦	m u
+睨	n i
+睪	g au
+睫	z ie
+睬	c ai
+睹	d u
+睽	k uei
+睿	rh uei
+瞄	m iau
+瞅	ch ou
+瞇	m i
+瞋	ch ern
+瞌	k er
+瞎	s ia
+瞑	m ing
+瞜	l ou
+瞞	m an
+瞟	p iau
+瞠	ch ng
+瞥	p ie
+瞧	c iau
+瞪	d ng
+瞬	sh un
+瞬間	sh un z ien
+瞭	l iau
+瞭解	l iau z ie
+瞰	k an
+瞳	t ong
+瞻	zh an
+瞼	z ien
+瞿	c yu
+矇	m ng
+矍	z yue
+矓	l ong
+矗	ch u
+矚	zh u
+矛	m au
+矛盾	m au d un
+矜	z in
+矢	sh ii
+矣	i
+知	zh ii
+知名	zh ii m ing
+知識	zh ii sh ii
+知道	zh ii d au
+矩	z yu
+短	d uan
+短期	d uan c i
+短片	d uan p ien
+短短	d uan d uan
+矮	ai
+矯	z iau
+石	d an
+石	sh ii
+石頭	sh ii t ou
+矽	s i
+砂	sh a
+砌	c i
+砍	k an
+砒	p i
+研	ien
+研發	ien f a
+研究	ien z iou
+研究所	ien z iou s uo
+研討會	ien t au h uei
+砝	f a
+砣	t uo
+砥	d i
+砦	zh ai
+砧	zh ern
+砭	b ien
+砰	p ng
+破	p uo
+破壞	p uo h uai
+砵	b uo
+砷	sh ern
+砸	z a
+硃	zh u
+硅	g uei
+硌	l uo
+硒	s i
+硝	s iau
+硤	s ia
+硪	er
+硫	l iou
+硬	ing
+硬碟	ing d ie
+硬體	ing t i
+硯	ien
+硼	p ng
+碇	d ing
+碉	d iau
+碌	l u
+碎	s uei
+碑	b ei
+碓	d uei
+碗	uan
+碘	d ien
+碚	b ei
+碞	ien
+碟	d ie
+碣	z ie
+碧	b i
+碩	sh ii
+碩	sh uo
+碩士	sh uo sh ii
+碭	d ang
+碰	p ng
+碰到	p ng d au
+碲	d i
+碳	t an
+碴	ch a
+確	c yue
+確保	c yue b au
+確定	c yue d ing
+確實	c yue sh ii
+確認	c yue rh ern
+碼	m a
+碼頭	m a t ou
+碾	n ien
+磁	c ii
+磅	b ang
+磊	l ei
+磋	c uo
+磐	p an
+磔	zh er
+磕	k er
+磚	zh uan
+磣	ch ern
+磧	c i
+磨	m uo
+磬	c ing
+磯	z i
+磴	d ng
+磷	l in
+磺	h uang
+礁	z iau
+礄	c iau
+礎	ch u
+礙	ai
+礦	k uang
+礪	l i
+礫	l i
+礬	f an
+礱	l ong
+示	sh ii
+示範	sh ii f an
+礽	rh ng
+社	sh er
+社區	sh er c yu
+社團	sh er t uan
+社會	sh er h uei
+社群	sh er c yun
+祀	s ii
+祁	c i
+祆	s ien
+祇	c i
+祈	c i
+祈禱	c i d au
+祉	zh ii
+祐	iou
+祕	m i
+祖	z u
+祗	zh ii
+祚	z uo
+祛	c yu
+祜	h u
+祝	zh u
+祝福	zh u f u
+神	sh ern
+神奇	sh ern c i
+神秘	sh ern m i
+神經	sh ern z ing
+神話	sh ern h ua
+祟	s uei
+祠	c ii
+祥	s iang
+票	p iau
+祭	z i
+祺	c i
+祼	g uan
+祿	l u
+禁	z in
+禁止	z in zh ii
+禍	h uo
+禎	zh ern
+福	f u
+福利	f u l i
+福音	f u in
+禔	t i
+禕	i
+禛	zh ern
+禦	yu
+禧	s i
+禪	ch an
+禮	l i
+禮拜	l i b ai
+禮物	l i u
+禰	m i
+禱	d au
+禱告	d au g au
+禳	rh ang
+禹	yu
+禺	yu
+禽	c in
+禾	h er
+禿	t u
+秀	s iou
+私	s ii
+私人	s ii rh ern
+秈	s ien
+秉	b ing
+秋	c iou
+科	k er
+科學	k er s yue
+科學家	k er s yue z ia
+科技	k er z i
+秒	m iau
+秕	b i
+秘	b i
+秘	m i
+秘密	m i m i
+租	z u
+租屋	z u u
+秣	m uo
+秤	ch ng
+秦	c in
+秧	iang
+秩	zh ii
+秫	sh u
+秭	z ii
+秸	z ie
+移	i
+移動	i d ong
+移民	i m in
+稀	s i
+稅	sh uei
+稈	g an
+程	ch ng
+程序	ch ng s yu
+程度	ch ng d u
+程式	ch ng sh ii
+稍	sh au
+稍微	sh au uei
+稔	rh ern
+稗	b ai
+稚	zh ii
+稜	l ng
+稞	k er
+稟	b ing
+稠	ch ou
+種	zh ong
+種子	zh ong z ii
+種種	zh ong zh ong
+種類	zh ong l ei
+稰	s yu
+稱	ch ng
+稱為	ch ng uei
+稷	z i
+稹	zh ern
+稻	d au
+稼	z ia
+稽	z i
+稿	g au
+穀	g u
+穆	m u
+穌	s u
+積	z i
+積極	z i z i
+穎	ing
+穗	s uei
+穡	s er
+穢	h uei
+穩	un
+穩定	un d ing
+穫	h uo
+穰	rh ang
+穴	s yue
+究	z iou
+究竟	z iou z ing
+穹	c iong
+空	k ong
+空中	k ong zh ong
+空氣	k ong c i
+空間	k ong z ien
+穿	ch uan
+穿著	ch uan zh uo
+突	t u
+突然	t u rh an
+突破	t u p uo
+窄	zh ai
+窈	iau
+窒	zh ii
+窕	t iau
+窖	z iau
+窗	ch uang
+窘	z iong
+窟	k u
+窠	k er
+窣	s u
+窨	in
+窩	uo
+窪	ua
+窮	c iong
+窯	iau
+窳	yu
+窸	s i
+窺	k uei
+窿	l ong
+竄	c uan
+竅	c iau
+竇	d ou
+竊	c ie
+立	l i
+立刻	l i k er
+立即	l i z i
+立場	l i ch ang
+立委	l i uei
+立法	l i f a
+立體	l i t i
+竑	h ong
+站	zh an
+站在	zh an z ai
+竟	z ing
+竟然	z ing rh an
+章	zh ang
+竣	z yun
+童	t ong
+竦	s ong
+竭	z ie
+端	d uan
+競	z ing
+競爭	z ing zh ng
+競爭力	z ing zh ng l i
+競賽	z ing s ai
+竹	zh u
+竺	zh u
+竽	yu
+竿	g an
+笄	z i
+笈	z i
+笏	h u
+笑	s iau
+笑容	s iau rh ong
+笙	sh ng
+笛	d i
+笞	ch ii
+笠	l i
+笢	m in
+笥	s ii
+符	f u
+符合	f u h er
+符號	f u h au
+笨	b ern
+笪	d a
+第	d i
+第一	d i i
+第三	d i s an
+第二	d i err
+第四	d i s ii
+笳	z ia
+筆	b i
+筆者	b i zh er
+筆記	b i z i
+筇	c iong
+等	d ng
+等到	d ng d au
+等待	d ng d ai
+等於	d ng yu
+等等	d ng d ng
+等級	d ng z i
+筊	z iau
+筋	z in
+筌	c yuan
+筍	s un
+筏	f a
+筐	k uang
+筒	t ong
+答	d a
+答應	d a ing
+答案	d a an
+策	c er
+策略	c er l yue
+筠	yun
+筦	g uan
+筧	z ien
+筮	sh ii
+筱	s iau
+筲	sh au
+筵	ien
+筷	k uai
+箅	b i
+箋	z ien
+箍	g u
+箏	zh ng
+箐	z ing
+箔	b uo
+箕	z i
+算	s uan
+算了	s uan l er
+算是	s uan sh ii
+管	g uan
+管制	g uan zh ii
+管理	g uan l i
+管道	g uan d au
+箬	rh uo
+箭	z ien
+箱	s iang
+箴	zh ern
+箸	zh u
+節	z ie
+節奏	z ie z ou
+節目	z ie m u
+節省	z ie sh ng
+節能	z ie n ng
+篁	h uang
+範	f an
+範圍	f an uei
+篆	zh uan
+篇	p ien
+築	zh u
+篋	c ie
+篙	g au
+篝	g ou
+篡	c uan
+篤	d u
+篥	l i
+篦	b i
+篩	sh ai
+篪	ch ii
+篳	b i
+篷	p ng
+篾	m ie
+簇	c u
+簌	s u
+簍	l ou
+簡	z ien
+簡介	z ien z ie
+簡單	z ien d an
+簡直	z ien zh ii
+簡訊	z ien s yun
+簣	k uei
+簧	h uang
+簪	z an
+簫	s iau
+簷	ien
+簸	b uo
+簽	c ien
+簽名	c ien m ing
+簽證	c ien zh ng
+簾	l ien
+簿	b u
+籃	l an
+籌	ch ou
+籍	z i
+籐	t ng
+籓	f an
+籙	l u
+籟	l ai
+籠	l ong
+籤	c ien
+籬	l i
+籮	l uo
+籲	yu
+米	m i
+籽	z ii
+粉	f ern
+粉絲	f ern s ii
+粑	b a
+粒	l i
+粕	p uo
+粗	c u
+粘	n ien
+粘	zh an
+粟	s u
+粥	zh ou
+粱	l iang
+粲	c an
+粳	g ng
+粵	yue
+粹	c uei
+粼	l in
+粽	z ong
+精	z ing
+精品	z ing p in
+精彩	z ing c ai
+精心	z ing s in
+精神	z ing sh ern
+精緻	z ing zh ii
+精華	z ing h ua
+精選	z ing s yuan
+精采	z ing c ai
+精靈	z ing l ing
+粿	g uo
+糅	rh ou
+糊	h u
+糕	g au
+糖	t ang
+糗	c iou
+糙	c au
+糜	m i
+糞	f ern
+糟	z au
+糠	k ang
+糢	m uo
+糧	l iang
+糬	sh u
+糯	n uo
+糰	t uan
+系	s i
+系列	s i l ie
+系統	s i t ong
+糾	z iou
+紀	z i
+紀念	z i n ien
+紀錄	z i l u
+紂	zh ou
+約	yue
+紅	h ong
+紅色	h ong s er
+紆	yu
+紇	g er
+紇	h er
+紈	uan
+紉	rh ern
+紊	un
+紋	un
+納	n a
+紐	n iou
+紐約	n iou yue
+紓	sh u
+純	ch un
+純粹	ch un c uei
+紕	p i
+紗	sh a
+紘	h ong
+紙	zh ii
+級	z i
+紛	f ern
+紛紛	f ern f ern
+紜	yun
+素	s u
+紡	f ang
+索	s uo
+紫	z ii
+紮	zh a
+累	l ei
+累積	l ei z i
+細	s i
+細節	s i z ie
+細胞	s i b au
+紳	sh ern
+紹	sh au
+紺	g an
+紿	d ai
+絀	ch u
+終	zh ong
+終於	zh ong yu
+組	z u
+組合	z u h er
+組成	z u ch ng
+組織	z u zh ii
+絆	b an
+絎	h ng
+結	z ie
+結合	z ie h er
+結婚	z ie h un
+結局	z ie z yu
+結束	z ie sh u
+結果	z ie g uo
+結構	z ie g ou
+結論	z ie l un
+絕	z yue
+絕對	z yue d uei
+絛	t au
+絜	z ie
+絞	z iau
+絡	l uo
+絢	s yuan
+給	g ei
+給	z i
+給予	g ei yu
+給予	z i yu
+絨	rh ong
+絮	s yu
+統	t ong
+統一	t ong i
+統治	t ong zh ii
+統計	t ong z i
+絲	s ii
+絳	z iang
+絹	z yuan
+綁	b ang
+綃	s iau
+綏	s uei
+經	z ing
+經典	z ing d ien
+經常	z ing ch ang
+經歷	z ing l i
+經濟	z ing z i
+經營	z ing ing
+經理	z ing l i
+經由	z ing iou
+經紀	z ing z i
+經費	z ing f ei
+經過	z ing g uo
+經驗	z ing ien
+綜	z ong
+綜合	z ong h er
+綠	l yu
+綠色	l yu s er
+綢	ch ou
+綣	c yuan
+綦	c i
+綬	sh ou
+維	uei
+維修	uei s iou
+維持	uei ch ii
+維生素	uei sh ng s u
+維護	uei h u
+綰	uan
+綱	g ang
+網	uang
+網友	uang iou
+網址	uang zh ii
+網站	uang zh an
+網絡	uang l uo
+網路	uang l u
+網際	uang z i
+網頁	uang ie
+綴	zh uei
+綵	c ai
+綸	l un
+綺	c i
+綻	zh an
+綽	ch uo
+綾	l ing
+綿	m ien
+緊	z in
+緊張	z in zh ang
+緊急	z in z i
+緋	f ei
+緒	s yu
+緗	s iang
+緘	z ien
+線	s ien
+線上	s ien sh ang
+緝	c i
+緞	d uan
+締	d i
+緡	m in
+緣	yuan
+編	b ien
+編號	b ien h au
+編輯	b ien z i
+緩	h uan
+緬	m ien
+緯	uei
+緲	m iau
+練	l ien
+練習	l ien s i
+緹	t i
+緻	zh ii
+縈	ing
+縉	z in
+縊	i
+縐	zh ou
+縛	f u
+縝	zh ern
+縟	rh u
+縣	s ien
+縫	f ng
+縮	s uo
+縱	z ong
+縲	l ei
+縴	c ien
+縵	m an
+縷	l yu
+縹	p iau
+縻	m i
+總	z ong
+總之	z ong zh ii
+總共	z ong g ong
+總是	z ong sh ii
+總會	z ong h uei
+總統	z ong t ong
+總經理	z ong z ing l i
+總部	z ong b u
+績	z i
+繁	f an
+繁體	f an t i
+繃	b ng
+繅	s au
+繆	m iou
+繆	m ou
+繇	iou
+繒	z ng
+織	zh ii
+繕	sh an
+繖	s an
+繚	l iau
+繞	rh au
+繡	s iou
+繩	sh ng
+繪	h uei
+繫	s i
+繭	z ien
+繳	z iau
+繹	i
+繼	z i
+繼續	z i s yu
+繽	b in
+繾	c ien
+纂	z uan
+纈	s ie
+續	s yu
+纍	l ei
+纏	ch an
+纓	ing
+纔	c ai
+纖	s ien
+纖維	s ien uei
+纜	l an
+缸	g ang
+缺	c yue
+缺乏	c yue f a
+缺點	c yue d ien
+缽	b uo
+罄	c ing
+罅	s ia
+罈	t an
+罌	ing
+罐	g uan
+罔	uang
+罕	h an
+罘	f u
+罝	z yu
+罟	g u
+罡	g ang
+罣	g ua
+罩	zh au
+罪	z uei
+置	zh ii
+罰	f a
+署	sh u
+罵	m a
+罷	b a
+罹	l i
+罽	z i
+羅	l uo
+羅馬	l uo m a
+羈	z i
+羊	iang
+羌	c iang
+美	m ei
+美人	m ei rh ern
+美元	m ei yuan
+美味	m ei uei
+美國	m ei g uo
+美女	m ei n yu
+美好	m ei h au
+美容	m ei rh ong
+美景	m ei z ing
+美術	m ei sh u
+美食	m ei sh ii
+美麗	m ei l i
+羑	iou
+羔	g au
+羚	l ing
+羞	s iou
+群	c yun
+羥	c iang
+羧	z uei
+羨	s ien
+義	i
+義務	i u
+羯	z ie
+羰	t an
+羲	s i
+羶	sh an
+羸	l ei
+羹	g ng
+羼	ch an
+羽	yu
+羿	i
+翀	ch ong
+翁	ung
+翅	ch ii
+翊	i
+翌	i
+翎	l ing
+習	s i
+習慣	s i g uan
+翔	s iang
+翕	s i
+翟	d i
+翟	zh ai
+翠	c uei
+翡	f ei
+翥	zh u
+翦	z ien
+翩	p ien
+翰	h an
+翱	au
+翳	i
+翹	c iau
+翻	f an
+翻譯	f an i
+翼	i
+耀	iau
+老	l au
+老人	l au rh ern
+老公	l au g ong
+老婆	l au p uo
+老實	l au sh ii
+老師	l au sh ii
+老闆	l au b an
+考	k au
+考慮	k au l yu
+考試	k au sh ii
+考量	k au l iang
+考驗	k au ien
+耄	m au
+者	zh er
+耆	c i
+耋	d ie
+而	err
+而且	err c ie
+而已	err i
+而是	err sh ii
+而言	err ien
+耍	sh ua
+耐	n ai
+耐心	n ai s in
+耒	l ei
+耕	g ng
+耗	h au
+耘	yun
+耙	p a
+耦	ou
+耨	n ou
+耬	l ou
+耳	err
+耳朵	err d uo
+耵	t ing
+耶	ie
+耶和華	ie h er h ua
+耶穌	ie s u
+耷	d a
+耽	d an
+耿	g ng
+聆	l ing
+聊	l iau
+聊天	l iau t ien
+聊天室	l iau t ien sh ii
+聒	g ua
+聖	sh ng
+聖經	sh ng z ing
+聖誕	sh ng d an
+聘	p in
+聚	z yu
+聚會	z yu h uei
+聞	un
+聯	l ien
+聯合	l ien h er
+聯合國	l ien h er g uo
+聯盟	l ien m ng
+聯絡	l ien l uo
+聯繫	l ien s i
+聯邦	l ien b ang
+聰	c ong
+聰明	c ong m ing
+聲	sh ng
+聲明	sh ng m ing
+聲音	sh ng in
+聳	s ong
+聵	k uei
+聶	n ie
+職	zh ii
+職務	zh ii u
+職業	zh ii ie
+聹	n ing
+聽	t ing
+聽到	t ing d au
+聽見	t ing z ien
+聽說	t ing sh uo
+聾	l ong
+聿	yu
+肄	i
+肅	s u
+肆	s ii
+肇	zh au
+肉	rh ou
+肋	l er
+肌	z i
+肌肉	z i rh ou
+肌膚	z i f u
+肏	c au
+肓	h uang
+肖	s iau
+肘	zh ou
+肚	d u
+肚子	d u z ii
+肛	g ang
+肜	rh ong
+肝	g an
+股	g u
+股份	g u f ern
+股市	g u sh ii
+股票	g u p iau
+肢	zh ii
+肥	f ei
+肩	z ien
+肪	f ang
+肯	k ern
+肯定	k ern d ing
+肱	g ong
+育	yu
+肺	f ei
+胂	sh ern
+胃	uei
+背	b ei
+背後	b ei h ou
+背景	b ei z ing
+胎	t ai
+胖	p ang
+胗	zh ern
+胚	p ei
+胛	z ia
+胜	sh ng
+胝	zh ii
+胞	b au
+胡	h u
+胤	in
+胥	s yu
+胭	ien
+胯	k ua
+胰	i
+胱	g uang
+胳	g er
+胴	d ong
+胸	s iong
+胺	an
+胼	p ien
+能	n ng
+能力	n ng l i
+能否	n ng f ou
+能否	n ng p i
+能夠	n ng g ou
+能源	n ng yuan
+能量	n ng l iang
+脂	zh ii
+脂肪	zh ii f ang
+脅	s ie
+脆	c uei
+脈	m ai
+脈	m uo
+脊	z i
+脖	b uo
+脘	g uan
+脘	uan
+脛	z ing
+脢	m ei
+脤	sh ern
+脩	s iou
+脫	t uo
+脫離	t uo l i
+脯	f u
+脰	d ou
+脹	zh ang
+脾	p i
+腆	t ien
+腋	ie
+腌	ang
+腍	rh ern
+腎	sh ern
+腐	f u
+腑	f u
+腓	f ei
+腔	c iang
+腕	uan
+腠	c ou
+腥	s ing
+腦	n au
+腦袋	n au d ai
+腧	sh u
+腩	n an
+腫	zh ong
+腮	s ai
+腰	iau
+腱	z ien
+腳	z iau
+腳步	z iau b u
+腴	yu
+腸	ch ang
+腹	f u
+腺	s ien
+腿	t uei
+膀	b ang
+膈	g er
+膊	b uo
+膏	g au
+膘	b iau
+膚	f u
+膛	t ang
+膜	m uo
+膝	s i
+膠	z iau
+膣	zh ii
+膦	l ien
+膨	p ng
+膩	n i
+膫	l iau
+膳	sh an
+膺	ing
+膻	sh an
+膽	d an
+膾	k uai
+膿	n ong
+臀	t un
+臂	b i
+臃	iong
+臆	i
+臉	l ien
+臉上	l ien sh ang
+臊	s au
+臌	g u
+臍	c i
+臏	b in
+臘	l a
+臚	l u
+臟	z ang
+臠	l uan
+臣	ch ern
+臥	uo
+臧	z ang
+臨	l in
+臨床	l in ch uang
+臨時	l in sh ii
+自	z ii
+自信	z ii s in
+自助	z ii zh u
+自動	z ii d ong
+自在	z ii z ai
+自己	z ii z i
+自從	z ii c ong
+自我	z ii uo
+自殺	z ii sh a
+自然	z ii rh an
+自由	z ii iou
+自行	z ii s ing
+自行車	z ii s ing ch er
+自身	z ii sh ern
+臬	n ie
+臭	ch ou
+至	zh ii
+至今	zh ii z in
+至少	zh ii sh au
+至於	zh ii yu
+致	zh ii
+致力	zh ii l i
+臻	zh ern
+臼	z iou
+臾	yu
+舀	iau
+舂	ch ong
+舅	z iou
+與	yu
+與其	yu c i
+興	s ing
+興奮	s ing f ern
+興建	s ing z ien
+興趣	s ing c yu
+舉	z yu
+舉行	z yu s ing
+舉辦	z yu b an
+舊	z iou
+舋	s in
+舌	sh er
+舍	sh er
+舐	sh ii
+舒	sh u
+舒服	sh u f u
+舒適	sh u sh ii
+舔	t ien
+舖	p u
+舛	ch uan
+舜	sh un
+舞	u
+舞台	u t ai
+舞蹈	u d au
+舟	zh ou
+舢	sh an
+舨	b an
+航	h ang
+航空	h ang k ong
+舫	f ang
+般	b an
+舯	zh ong
+舲	l ing
+舵	d uo
+舶	b uo
+舷	s ien
+舸	g er
+船	ch uan
+舺	z ia
+艇	t ing
+艉	uei
+艋	m ng
+艏	sh ou
+艘	s au
+艙	c ang
+艦	z ien
+艮	g ern
+良	l iang
+良好	l iang h au
+艱	z ien
+色	s er
+色彩	s er c ai
+色情	s er c ing
+艷	ien
+艸	c au
+艾	ai
+芃	p ng
+芊	c ien
+芋	yu
+芍	sh au
+芎	c iong
+芑	c i
+芒	m ang
+芙	f u
+芝	zh ii
+芡	c ien
+芥	z ie
+芨	z i
+芩	c in
+芫	yuan
+芬	f ern
+芭	b a
+芮	rh uei
+芯	s in
+花	h ua
+花園	h ua yuan
+花蓮	h ua l ien
+芳	f ang
+芴	h u
+芷	zh ii
+芸	yun
+芹	c in
+芻	ch u
+芽	ia
+芾	f ei
+芾	f u
+苑	yuan
+苒	rh an
+苓	l ing
+苔	t ai
+苕	t iau
+苖	d i
+苗	m iau
+苗栗	m iau l i
+苛	k er
+苜	m u
+苞	b au
+苟	g ou
+苡	i
+苣	z yu
+若	rh uo
+若是	rh uo sh ii
+苦	k u
+苧	zh u
+苫	sh an
+苯	b ern
+英	ing
+英國	ing g uo
+英文	ing un
+英語	ing yu
+英雄	ing s iong
+苳	d ong
+苴	z yu
+苻	f u
+苾	b i
+茁	zh uo
+茂	m au
+范	f an
+茄	c ie
+茅	m au
+茉	m uo
+茍	z i
+茗	m ing
+茛	g ern
+茜	c ien
+茨	c ii
+茫	m ang
+茬	ch ii
+茭	z iau
+茯	f u
+茱	zh u
+茲	z ii
+茴	h uei
+茵	in
+茶	ch a
+茸	rh ong
+茹	rh u
+茼	t ong
+荀	s yun
+荃	c yuan
+荇	s ing
+草	c au
+草莓	c au m ei
+荊	z ing
+荏	rh ern
+荑	t i
+荒	h uang
+荔	l i
+荖	l au
+荳	d ou
+荷	h er
+荷蘭	h er l an
+荸	b i
+荻	d i
+荼	t u
+莉	l i
+莊	zh uang
+莎	sh a
+莎	s uo
+莒	z yu
+莓	m ei
+莖	z ing
+莘	sh ern
+莞	g uan
+莞	uan
+莠	iou
+莢	z ia
+莧	s ien
+莨	l ang
+莨	l iang
+莪	er
+莫	m uo
+莽	m ang
+莿	c ii
+菁	z ing
+菅	z ien
+菇	g u
+菊	z yu
+菌	z yun
+菖	ch ang
+菘	s ong
+菜	c ai
+菟	t u
+菠	b uo
+菡	h an
+菩	p u
+菩薩	p u s a
+華	h ua
+華人	h ua rh ern
+華麗	h ua l i
+菰	g u
+菱	l ing
+菲	f ei
+菲律賓	f ei l yu b in
+菸	ien
+萁	c i
+萃	c uei
+萄	t au
+萊	l ai
+萋	c i
+萌	m ng
+萍	p ing
+萎	uei
+萩	c iou
+萬	uan
+萱	s yuan
+萵	uo
+萸	yu
+萼	er
+落	l uo
+落實	l uo sh ii
+葆	b au
+葉	ie
+葑	f ng
+葒	h ong
+著	zh er
+著	zh u
+著作	zh u z uo
+著名	zh u m ing
+葚	sh ern
+葛	g er
+葡	p u
+董	d ong
+董事	d ong sh ii
+董事長	d ong sh ii zh ang
+葦	uei
+葩	p a
+葫	h u
+葬	z ang
+葭	z ia
+葳	uei
+葵	k uei
+葶	t ing
+葷	h un
+葸	s i
+葺	c i
+蒂	d i
+蒐	s ou
+蒔	sh ii
+蒗	l ang
+蒙	m ng
+蒜	s uan
+蒞	l i
+蒟	z yu
+蒡	b ang
+蒨	c ien
+蒯	k uai
+蒲	p u
+蒴	sh uo
+蒸	zh ng
+蒹	z ien
+蒺	z i
+蒻	rh uo
+蒼	c ang
+蒿	h au
+蓀	s un
+蓁	zh ern
+蓄	s yu
+蓉	rh ong
+蓊	ung
+蓋	g ai
+蓍	sh ii
+蓑	s uo
+蓓	b ei
+蓖	b i
+蓧	d iau
+蓬	p ng
+蓮	l ien
+蓯	c ong
+蓳	z in
+蓴	ch un
+蓼	l iau
+蓽	b i
+蓿	s u
+蔌	s u
+蔑	m ie
+蔓	m an
+蔔	b uo
+蔗	zh er
+蔘	sh ern
+蔚	uei
+蔞	l ou
+蔟	c u
+蔡	c ai
+蔣	z iang
+蔥	c ong
+蔦	n iau
+蔫	n ien
+蔬	sh u
+蔬菜	sh u c ai
+蔭	in
+蔻	k ou
+蔽	b i
+蕁	s yun
+蕁	t an
+蕃	f an
+蕅	ou
+蕈	s yun
+蕉	z iau
+蕊	rh uei
+蕎	c iau
+蕓	yun
+蕕	iou
+蕖	c yu
+蕙	h uei
+蕞	z uei
+蕢	k uei
+蕤	rh uei
+蕨	z yue
+蕩	d ang
+蕪	u
+蕭	s iau
+蕷	yu
+蕹	iong
+蕺	z i
+蕾	l ei
+薀	yun
+薄	b uo
+薅	h au
+薇	uei
+薈	h uei
+薊	z i
+薌	s iang
+薏	i
+薑	z iang
+薔	c iang
+薙	t i
+薛	s yue
+薜	b i
+薦	z ien
+薨	h ong
+薩	s a
+薪	s in
+薯	sh u
+薰	s yun
+薹	t ai
+薺	z i
+藉	z ie
+藉由	z ie iou
+藍	l an
+藍色	l an s er
+藎	z in
+藏	c ang
+藐	m iau
+藕	ou
+藜	l i
+藝	i
+藝人	i rh ern
+藝術	i sh u
+藝術家	i sh u z ia
+藤	t ng
+藥	iau
+藥物	iau u
+藩	f an
+藪	s ou
+藷	zh u
+藹	ai
+藺	l in
+藻	z au
+藿	h uo
+蘄	c i
+蘅	h ng
+蘆	l u
+蘇	s u
+蘊	yun
+蘋	p in
+蘋果	p ing g uo
+蘑	m uo
+蘗	b uo
+蘚	s ien
+蘞	l ien
+蘢	l ong
+蘧	c yu
+蘩	f an
+蘭	l an
+蘸	zh an
+蘺	l i
+蘼	m i
+蘿	l uo
+虎	h u
+虐	n yue
+虔	c ien
+處	ch u
+處理	ch u l i
+虛	s yu
+虛擬	s yu n i
+虜	l u
+虞	yu
+號	h au
+號碼	h au m a
+虢	g uo
+虧	k uei
+虯	c iou
+虱	sh ii
+虷	h an
+虹	h ong
+虻	m ng
+蚊	un
+蚋	rh uei
+蚌	b ang
+蚓	in
+蚜	ia
+蚝	c ii
+蚣	g ong
+蚤	z au
+蚧	z ie
+蚩	ch ii
+蚪	d ou
+蚯	c iou
+蚰	iou
+蚱	zh a
+蚴	iou
+蚵	er
+蚵	k er
+蚶	h an
+蚺	t ien
+蛀	zh u
+蛄	g u
+蛆	c yu
+蛇	sh er
+蛉	l ing
+蛋	d an
+蛋白	d an b ai
+蛋白質	d an b ai zh ii
+蛋糕	d an g au
+蛐	c yu
+蛔	h uei
+蛙	ua
+蛛	zh u
+蛞	k uo
+蛟	z iau
+蛤	g er
+蛩	c iong
+蛭	zh ii
+蛸	s iau
+蛹	iong
+蛺	z ia
+蛻	sh uei
+蛻	t uei
+蛾	er
+蜀	sh u
+蜂	f ng
+蜃	sh ern
+蜆	s ien
+蜇	zh er
+蜈	u
+蜉	f u
+蜊	l i
+蜍	ch u
+蜒	ien
+蜓	t ing
+蜘	zh ii
+蜚	f ei
+蜜	m i
+蜞	c i
+蜡	zh a
+蜢	m ng
+蜥	s i
+蜱	p i
+蜴	i
+蜷	c yuan
+蜻	c ing
+蜿	uan
+蝌	k er
+蝓	yu
+蝕	sh ii
+蝗	h uang
+蝙	b ien
+蝚	rh ou
+蝜	f u
+蝟	uei
+蝠	f u
+蝣	iou
+蝥	m au
+蝦	s ia
+蝴	h u
+蝴蝶	h u d ie
+蝶	d ie
+蝸	g ua
+蝻	n an
+螂	l ang
+螃	p ang
+螄	s ii
+螅	s i
+螈	yuan
+融	rh ong
+融合	rh ong h er
+螞	m a
+螟	m ing
+螢	ing
+螢幕	ing m u
+螣	t er
+螣	t ng
+螫	zh er
+螭	ch ii
+螯	au
+螳	t ang
+螺	l uo
+螻	l ou
+螽	zh ong
+蟀	sh uai
+蟄	zh ii
+蟆	m a
+蟈	g uo
+蟊	m au
+蟋	s i
+蟑	zh ang
+蟒	m ang
+蟠	p an
+蟥	h uang
+蟬	ch an
+蟯	rh au
+蟲	ch ong
+蟳	s yun
+蟶	ch ng
+蟹	s ie
+蟻	i
+蟾	ch an
+蠃	l uo
+蠅	ing
+蠆	ch ai
+蠊	l ien
+蠋	zh u
+蠍	s ie
+蠑	rh ong
+蠓	m ng
+蠔	h au
+蠕	rh uan
+蠖	h uo
+蠟	l a
+蠡	l i
+蠢	ch un
+蠣	l i
+蠱	g u
+蠲	z yuan
+蠵	s i
+蠶	c an
+蠹	d u
+蠻	m an
+血	s ie
+血液	s ie ie
+血管	s ie g uan
+衄	n yu
+衊	m ie
+行	h ang
+行	s ing
+行動	s ing d ong
+行政	s ing zh ng
+行政院	s ing zh ng yuan
+行李	s ing l i
+行業	h ang ie
+行為	s ing uei
+行程	s ing ch ng
+行銷	s ing s iau
+衍	ien
+術	sh u
+衕	t ong
+街	z ie
+街道	z ie d au
+街頭	z ie t ou
+衙	ia
+衚	h u
+衛	uei
+衛星	uei s ing
+衛生	uei sh ng
+衝	ch ong
+衝擊	ch ong z i
+衝突	ch ong t u
+衡	h ng
+衢	c yu
+衣	i
+衣服	i f u
+表	b iau
+表情	b iau c ing
+表明	b iau m ing
+表格	b iau g er
+表演	b iau ien
+表現	b iau s ien
+表示	b iau sh ii
+表達	b iau d a
+表面	b iau m ien
+衩	ch a
+衪	i
+衫	sh an
+衰	sh uai
+衲	n a
+衷	zh ong
+衹	c i
+衽	rh ern
+衾	c in
+衿	z in
+袁	yuan
+袂	m ei
+袈	z ia
+袋	d ai
+袍	p au
+袒	t an
+袖	s iou
+袞	g un
+袢	b an
+袤	m au
+袪	c yu
+被	b ei
+袱	f u
+裁	c ai
+裂	l ie
+裊	n iau
+裎	ch ng
+裔	i
+裕	yu
+裘	c iou
+裙	c yun
+補	b u
+補充	b u ch ong
+補助	b u zh u
+補習	b u s i
+裝	zh uang
+裝修	zh uang s iou
+裝備	zh uang b ei
+裝潢	zh uang h uang
+裝置	zh uang zh ii
+裝飾	zh uang sh ii
+裟	sh a
+裡	l i
+裡面	l i m ien
+裡頭	l i t ou
+裨	b i
+裨	p i
+裰	d uo
+裱	b iau
+裳	ch ang
+裴	p ei
+裸	l uo
+裹	g uo
+製	zh ii
+製作	zh ii z uo
+製造	zh ii z au
+製造商	zh ii z au sh ang
+裾	z yu
+褂	g ua
+複	f u
+複製	f u zh ii
+複雜	f u z a
+褊	b ien
+褌	k un
+褐	h er
+褒	b au
+褓	b au
+褔	f u
+褙	b ei
+褚	ch u
+褡	d a
+褥	rh u
+褪	t un
+褫	ch ii
+褲	k u
+褳	l ien
+褶	zh er
+褸	l yu
+褻	s ie
+襁	c iang
+襄	s iang
+襌	d an
+襖	au
+襝	l ien
+襞	b i
+襟	z in
+襠	d ang
+襤	l an
+襦	rh u
+襪	ua
+襬	b ai
+襯	ch ern
+襲	s i
+襻	p an
+西	s i
+西方	s i f ang
+西班牙	s i b an ia
+西藏	s i z ang
+要	iau
+要是	iau sh ii
+要求	iau c iou
+覃	t an
+覆	f u
+覈	h er
+見	z ien
+見到	z ien d au
+見證	z ien zh ng
+見面	z ien m ien
+規	g uei
+規則	g uei z er
+規劃	g uei h ua
+規定	g uei d ing
+規格	g uei g er
+規模	g uei m uo
+規範	g uei f an
+覓	m i
+視	sh ii
+視為	sh ii uei
+視窗	sh ii ch uang
+視覺	sh ii z yue
+視訊	sh ii s yun
+視野	sh ii ie
+視頻	sh ii p in
+覘	zh an
+覜	t iau
+覦	yu
+親	c in
+親切	c in c ie
+親子	c in z ii
+親愛	c in ai
+親自	c in z ii
+覬	z i
+覲	z in
+覷	c yu
+覺	z iau
+覺	z yue
+覺得	z yue d er
+覽	l an
+覿	d i
+觀	g uan
+觀光	g uan g uang
+觀察	g uan ch a
+觀念	g uan n ien
+觀看	g uan k an
+觀眾	g uan zh ong
+觀賞	g uan sh ang
+觀點	g uan d ien
+角	z iau
+角度	z iau d u
+角色	z iau s er
+角色	z yue s er
+角落	z iau l uo
+觔	z in
+解	z ie
+解決	z ie z yue
+解答	z ie d a
+解說	z ie sh uo
+解釋	z ie sh ii
+觥	g ong
+觱	b i
+觴	sh ang
+觸	ch u
+言	ien
+言論	ien l un
+訂	d ing
+訂單	d ing d an
+訂購	d ing g ou
+訂閱	d ing yue
+訃	f u
+訇	h ong
+計	z i
+計劃	z i h ua
+計畫	z i h ua
+計算	z i s uan
+訊	s yun
+訊息	s yun s i
+訌	h ong
+討	t au
+討厭	t au ien
+討論	t au l un
+討論區	t au l un c yu
+訐	z ie
+訓	s yun
+訓練	s yun l ien
+訕	sh an
+訖	c i
+託	t uo
+記	z i
+記得	z i d er
+記憶	z i i
+記憶體	z i i t i
+記者	z i zh er
+記載	z i z ai
+記錄	z i l u
+訛	er
+訝	ia
+訟	s ong
+訢	s in
+訣	z yue
+訥	n er
+訪	f ang
+訪問	f ang un
+設	sh er
+設備	sh er b ei
+設定	sh er d ing
+設施	sh er sh ii
+設有	sh er iou
+設立	sh er l i
+設置	sh er zh ii
+設計	sh er z i
+設計師	sh er z i sh ii
+許	s yu
+許多	s yu d uo
+訴	s u
+訶	h er
+診	zh ern
+診所	zh ern s uo
+診斷	zh ern d uan
+註	zh u
+註冊	zh u c er
+訾	z ii
+詁	g u
+詆	d i
+詐	zh a
+詒	i
+詔	zh au
+評	p ing
+評估	p ing g u
+評價	p ing z ia
+評論	p ing l un
+詛	z u
+詞	c ii
+詠	iong
+詡	s yu
+詢	s yun
+詢問	s yun un
+詣	i
+試	sh ii
+試圖	sh ii t u
+試用	sh ii iong
+試試	sh ii sh ii
+試驗	sh ii ien
+詩	sh ii
+詫	ch a
+詬	g ou
+詭	g uei
+詮	c yuan
+詰	z ie
+話	l au
+話說	h ua sh uo
+話題	h ua t i
+該	g ai
+詳	s iang
+詳情	s iang c ing
+詳細	s iang s i
+詵	sh ern
+詹	zh an
+詼	h uei
+誅	zh u
+誇	k ua
+誇張	k ua zh ang
+誌	zh ii
+認	rh ern
+認同	rh ern t ong
+認定	rh ern d ing
+認為	rh ern uei
+認真	rh ern zh ern
+認知	rh ern zh ii
+認證	rh ern zh ng
+認識	rh ern sh ii
+誑	k uang
+誒	e
+誒	s i
+誓	sh ii
+誕	d an
+誕生	d an sh ng
+誘	iou
+誚	c iau
+語	yu
+語言	yu ien
+誠	ch ng
+誡	z ie
+誣	u
+誤	u
+誥	g au
+誦	s ong
+誨	h uei
+說	sh uo
+說出	sh uo ch u
+說到	sh uo d au
+說明	sh uo m ing
+說法	sh uo f a
+說話	sh uo h ua
+說道	sh uo d au
+誰	sh ei
+課	k er
+課程	k er ch ng
+誹	f ei
+誼	i
+誾	in
+調	d iau
+調	t iau
+調整	t iau zh ng
+調查	d iau ch a
+諂	ch an
+諄	zh un
+談	t an
+諉	uei
+請	c ing
+請問	c ing un
+請求	c ing c iou
+諍	zh ng
+諏	z ou
+諒	l iang
+論	l un
+論壇	l un t an
+論文	l un un
+諗	sh ern
+諛	yu
+諜	d ie
+諡	sh ii
+諢	h un
+諤	er
+諦	d i
+諧	s ie
+諫	z ien
+諭	yu
+諮	z ii
+諮詢	z ii s yun
+諱	h uei
+諳	an
+諴	s ien
+諶	ch ern
+諷	f ng
+諸	zh u
+諺	ien
+諼	s yuan
+諾	n uo
+謀	m ou
+謁	ie
+謂	uei
+謄	t ng
+謅	z ou
+謊	h uang
+謎	m i
+謐	m i
+謔	n yue
+謖	s u
+謗	b ang
+謙	c ien
+謚	i
+講	z iang
+講座	z iang z uo
+講話	z iang h ua
+謝	s ie
+謝謝	s ie s ie
+謠	iau
+謦	c ing
+謨	m uo
+謫	zh er
+謬	m iou
+謳	ou
+謹	z in
+謾	m an
+譁	h ua
+譆	s i
+證	zh ng
+證券	zh ng c yuan
+證實	zh ng sh ii
+證據	zh ng z yu
+證明	zh ng m ing
+證書	zh ng sh u
+譎	z yue
+譏	z i
+識	sh ii
+譙	c iau
+譚	t an
+譜	p u
+警	z ing
+警告	z ing g au
+警察	z ing ch a
+警方	z ing f ang
+譫	zh an
+譬	p i
+譯	i
+議	i
+議員	i yuan
+議題	i t i
+譴	c ien
+護	h u
+護士	h u sh ii
+護照	h u zh au
+護理	h u l i
+譽	yu
+讀	d u
+讀書	d u sh u
+讀者	d u zh er
+變	b ien
+變化	b ien h ua
+變得	b ien d er
+變成	b ien ch ng
+變更	b ien g ng
+讎	ch ou
+讒	ch an
+讓	rh ang
+讕	l an
+讖	ch ern
+讚	z an
+讜	d ang
+讞	ien
+谷	g u
+谿	s i
+豁	h uo
+豆	d ou
+豇	z iang
+豈	c i
+豉	ch ii
+豋	d ng
+豌	uan
+豎	sh u
+豐	f ng
+豐富	f ng f u
+豚	t un
+象	s iang
+象徵	s iang zh ng
+豢	h uan
+豪	h au
+豪華	h au h ua
+豫	yu
+豬	zh u
+豳	b in
+豸	zh ii
+豹	b au
+豺	ch ai
+貂	d iau
+貅	s iou
+貉	h er
+貊	m uo
+貌	m au
+貍	l i
+貓	m au
+貔	p i
+貝	b ei
+貞	zh ern
+負	f u
+負擔	f u d an
+負責	f u z er
+負責人	f u z er rh ern
+負面	f u m ien
+財	c ai
+財務	c ai u
+財團	c ai t uan
+財富	c ai f u
+財政	c ai zh ng
+財產	c ai ch an
+貢	g ong
+貢獻	g ong s ien
+貧	p in
+貨	h uo
+貨幣	h uo b i
+販	f an
+貪	t an
+貫	g uan
+責	z er
+責任	z er rh ern
+貯	zh u
+貲	z ii
+貳	err
+貴	g uei
+貶	b ien
+買	m ai
+買到	m ai d au
+買賣	m ai m ai
+貸	d ai
+貸款	d ai k uan
+費	f ei
+費用	f ei iong
+貼	t ie
+貼心	t ie s in
+貽	i
+貿	m au
+貿易	m au i
+賀	h er
+賁	b ern
+賁	b i
+賂	l u
+賃	l in
+賄	h uei
+賅	g ai
+資	z ii
+資料	z ii l iau
+資料庫	z ii l iau k u
+資本	z ii b ern
+資格	z ii g er
+資深	z ii sh ern
+資源	z ii yuan
+資產	z ii ch an
+資訊	z ii s yun
+資金	z ii z in
+賈	g u
+賈	z ia
+賊	z ei
+賑	zh ern
+賒	sh er
+賓	b in
+賓館	b in g uan
+賚	l ai
+賜	s ii
+賞	sh ang
+賠	p ei
+賠償	p ei ch ang
+賡	g ng
+賢	s ien
+賣	m ai
+賤	z ien
+賦	f u
+質	zh ii
+質感	zh ii g an
+質疑	zh ii i
+質量	zh ii l iang
+賬	zh ang
+賭	d u
+賴	l ai
+賺	zh uan
+賺錢	zh uan c ien
+購	g ou
+購物	g ou u
+購買	g ou m ai
+賽	s ai
+賽事	s ai sh ii
+賾	z er
+贄	zh ii
+贅	zh uei
+贇	yun
+贈	z ng
+贊	z an
+贊助	z an zh u
+贍	sh an
+贏	ing
+贏得	ing d er
+贓	z ang
+贖	sh u
+贗	ien
+贛	g an
+赤	ch ii
+赦	sh er
+赧	n an
+赫	h er
+赭	zh er
+走	z ou
+走出	z ou ch u
+走到	z ou d au
+走向	z ou s iang
+走路	z ou l u
+走進	z ou z in
+赳	z iou
+赴	f u
+起	c i
+起來	z in s ing
+起床	c i ch uang
+趁	ch ern
+趄	z yu
+超	ch au
+超值	ch au zh ii
+超級	ch au z i
+超越	ch au yue
+超過	ch au g uo
+越	yue
+越來越	yue l ai yue
+越南	yue n an
+趕	g an
+趕快	g an k uai
+趕緊	g an z in
+趙	zh au
+趟	t ang
+趣	c yu
+趨	c yu
+趨勢	c yu sh ii
+足	z u
+足以	z u i
+足夠	z u g ou
+足球	z u c iou
+趴	p a
+趺	f u
+趼	z ien
+趾	zh ii
+跆	t ai
+跋	b a
+跌	d ie
+跎	t uo
+跑	p au
+跑去	p au c yu
+跖	zh ii
+跗	f u
+跚	sh an
+跛	b uo
+距	z yu
+距離	z yu l i
+跟	g ern
+跟著	g ern zh er
+跡	z i
+跣	s ien
+跤	z iau
+跨	k ua
+跩	zh uai
+跪	g uei
+跫	c iong
+路	l u
+路上	l u sh ang
+路線	l u s ien
+跳	t iau
+跺	d uo
+跼	z yu
+踅	ch ii
+踅	s yue
+踉	l ang
+踏	t a
+踐	z ien
+踝	h uai
+踞	z yu
+踟	ch ii
+踡	c yuan
+踢	t i
+踩	c ai
+踫	p ng
+踮	d ien
+踰	yu
+踱	d uo
+踴	iong
+踵	zh ong
+踹	ch uai
+踽	z yu
+蹁	p ien
+蹂	rh ou
+蹄	t i
+蹇	z ien
+蹈	d au
+蹉	c uo
+蹊	s i
+蹋	t a
+蹌	c iang
+蹓	l iou
+蹙	c u
+蹚	t ang
+蹟	z i
+蹠	zh ii
+蹣	m an
+蹣	p an
+蹤	z ong
+蹦	b ng
+蹩	b ie
+蹬	d ng
+蹭	c ng
+蹲	d un
+蹴	c u
+蹶	z yue
+蹺	c iau
+蹼	p u
+躁	z au
+躂	t a
+躅	zh u
+躇	ch u
+躉	d un
+躊	ch ou
+躋	z i
+躍	yue
+躑	zh ii
+躓	zh ii
+躕	ch u
+躚	s ien
+躡	n ie
+躥	c uan
+躪	l in
+身	sh ern
+身上	sh ern sh ang
+身份	sh ern f ern
+身分	sh ern f ern
+身心	sh ern s in
+身材	sh ern c ai
+身為	sh ern uei
+身邊	sh ern b ien
+身體	sh ern t i
+躬	g ong
+躲	d uo
+躺	t ang
+軀	c yu
+車	ch er
+車子	ch er z ii
+車站	ch er zh an
+車輛	ch er l iang
+軋	ia
+軌	g uei
+軍	z yun
+軍事	z yun sh ii
+軍隊	z yun d uei
+軒	s yuan
+軔	rh ern
+軛	er
+軟	rh uan
+軟件	rh uan z ien
+軟體	rh uan t i
+軫	zh ern
+軸	zh ou
+軻	k er
+軼	i
+軾	sh ii
+較	z iau
+較為	z iau uei
+載	z ai
+輊	zh ii
+輒	zh er
+輓	uan
+輔	f u
+輔助	f u zh u
+輔導	f u d au
+輕	c ing
+輕易	c ing i
+輕輕	c ing c ing
+輕鬆	c ing s ong
+輛	l iang
+輜	z ii
+輝	h uei
+輞	uang
+輟	ch uo
+輥	g un
+輦	n ien
+輩	b ei
+輪	l un
+輯	z i
+輸	sh u
+輸入	sh u rh u
+輸出	sh u ch u
+輻	f u
+輾	n ien
+輾	zh an
+輿	yu
+轂	g u
+轄	s ia
+轅	yuan
+轆	l u
+轉	zh uan
+轉寄	zh uan z i
+轉換	zh uan h uan
+轉移	zh uan i
+轉變	zh uan b ien
+轉載	zh uan z ai
+轍	ch er
+轎	z iau
+轔	l in
+轟	h ong
+轢	l i
+辛	s in
+辛苦	s in k u
+辜	g u
+辟	b i
+辣	l a
+辣妹	l a m ei
+辦	b an
+辦公室	b an g ong sh ii
+辦法	b an f a
+辦理	b an l i
+辨	b ien
+辭	c ii
+辮	b ien
+辯	b ien
+辰	ch ern
+辱	rh u
+農	n ong
+農場	n ong ch ang
+農業	n ong ie
+農民	n ong m in
+迂	yu
+迄	c i
+迅	s yun
+迅速	s yun s u
+迎	ing
+迎接	ing z ie
+近	z in
+近年	z in n ien
+近日	z in rh ii
+近期	z in c i
+返	f an
+返回	f an h uei
+迕	u
+迢	t iau
+迤	i
+迥	z iong
+迦	z ia
+迪	d i
+迫	p uo
+迭	d ie
+述	sh u
+迴	h uei
+迴響	h uei s iang
+迷	m i
+迷人	m i rh ern
+迷你	m i n i
+迸	b ng
+迺	n ai
+迻	i
+追	zh uei
+追求	zh uei c iou
+追蹤	zh uei z ong
+退	t uei
+退休	t uei s iou
+送	s ong
+送給	s ong g ei
+逃	t au
+逅	h ou
+逆	n i
+逋	b u
+逍	s iau
+透	t ou
+透明	t ou m ing
+透過	t ou g uo
+透露	t ou l u
+逐	zh u
+逐漸	zh u z ien
+逑	c iou
+途	t u
+逕	z ing
+逖	t i
+逗	d ou
+這	zh er
+這些	zh er s ie
+這個	zh er g er
+這時	zh er sh ii
+這樣	zh er iang
+這裡	zh er l i
+這邊	zh er b ien
+通	t ong
+通常	t ong ch ang
+通知	t ong zh ii
+通訊	t ong s yun
+通過	t ong g uo
+逛	g uang
+逝	sh ii
+逞	ch ng
+速	s u
+速度	s u d u
+造	z au
+造型	z au s ing
+造成	z au ch ng
+逡	c yun
+逢	f ng
+連	l ien
+連接	l ien z ie
+連結	l ien z ie
+連線	l ien s ien
+連續	l ien s yu
+連鎖	l ien s uo
+逮	d ai
+逯	l u
+週	zh ou
+進	z in
+進一步	z in i b u
+進來	z in l ai
+進入	z in rh u
+進去	z in c yu
+進口	z in k ou
+進度	z in d u
+進步	z in b u
+進而	z in err
+進行	z in s ing
+逵	k uei
+逶	uei
+逸	i
+逼	b i
+逾	yu
+遁	d un
+遂	s uei
+遄	ch uan
+遇	yu
+遇上	yu sh ang
+遇到	yu d au
+遇見	yu z ien
+遊	iou
+遊客	iou k er
+遊戲	iou s i
+遊行	iou s ing
+運	yun
+運作	yun z uo
+運動	yun d ong
+運用	yun iong
+運行	yun s ing
+運費	yun f ei
+運輸	yun sh u
+遍	b ien
+過	g uo
+過來	g uo l ai
+過去	g uo c yu
+過年	g uo n ien
+過度	g uo d u
+過後	g uo h ou
+過敏	g uo m in
+過程	g uo ch ng
+遏	er
+遐	s ia
+遑	h uang
+遒	c iou
+道	d au
+道具	d au z yu
+道德	d au d er
+道歉	d au c ien
+道理	d au l i
+道路	d au l u
+達	d a
+達到	d a d au
+達成	d a ch ng
+違	uei
+違反	uei f an
+遘	g ou
+遙	iau
+遛	l iou
+遜	s yun
+遝	t a
+遞	d i
+遠	yuan
+遠離	yuan l i
+遢	t a
+遣	c ien
+遨	au
+適	sh ii
+適合	sh ii h er
+適應	sh ii ing
+適用	sh ii iong
+適當	sh ii d ang
+遭	z au
+遭到	z au d au
+遭遇	z au yu
+遮	zh er
+遲	ch ii
+遴	l in
+遵	z un
+遵守	z un sh ou
+遶	rh au
+遷	c ien
+選	s yuan
+選手	s yuan sh ou
+選擇	s yuan z er
+選舉	s yuan z yu
+選項	s yuan s iang
+遺	i
+遺憾	i h an
+遺產	i ch an
+遼	l iau
+遽	z yu
+避	b i
+避免	b i m ien
+邀	iau
+邀請	iau c ing
+邁	m ai
+邂	s ie
+邃	s uei
+還	h ai
+還	h uan
+還好	h ai h au
+還是	h ai sh ii
+還有	h ai iou
+還沒	h uan m ei
+還要	h uan iau
+邇	err
+邈	m iau
+邊	b ien
+邋	l a
+邏	l uo
+邏輯	l uo z i
+邐	l i
+邑	i
+邕	iong
+邗	h an
+邙	m ang
+邛	c iong
+邠	b in
+邡	f ang
+邢	s ing
+那	n a
+那些	n a s ie
+那個	n a g er
+那天	n a t ien
+那時	n a sh ii
+那樣	n a iang
+那裡	n a l i
+那麼	n a m er
+那麼	n a m uo
+邦	b ang
+邪	s ie
+邯	h an
+邰	t ai
+邱	c iou
+邳	p ei
+邵	sh au
+邸	d i
+邾	zh u
+郁	yu
+郅	zh ii
+郇	s yun
+郊	z iau
+郎	l ang
+郛	f u
+郜	g au
+郝	h au
+郟	z ia
+郡	z yun
+郢	ing
+郤	s i
+部	b u
+部份	b u f ern
+部位	b u uei
+部分	b u f ern
+部落	b u l uo
+部長	b u zh ang
+部門	b u m ern
+部隊	b u d uei
+郫	p i
+郭	g uo
+郯	t an
+郴	ch ern
+郵	iou
+郵件	iou z ien
+都	d ou
+都	d u
+都市	d u sh ii
+都會	d u h uei
+郾	ien
+鄂	er
+鄄	z yuan
+鄆	yun
+鄉	s iang
+鄐	ch u
+鄒	z ou
+鄔	u
+鄖	yun
+鄙	b i
+鄜	f u
+鄞	in
+鄢	ien
+鄣	zh ang
+鄧	d ng
+鄭	zh ng
+鄯	sh an
+鄰	l in
+鄰近	l in z in
+鄱	p uo
+鄲	d an
+鄴	ie
+鄺	g uang
+鄺	k uang
+酃	l ing
+酆	f ng
+酈	l i
+酉	iou
+酊	d ing
+酋	c iou
+酌	zh uo
+配	p ei
+配件	p ei z ien
+配備	p ei b ei
+配合	p ei h er
+配置	p ei zh ii
+酎	zh ou
+酐	g an
+酒	z iou
+酒吧	z iou b a
+酒店	z iou d ien
+酗	s yu
+酚	f ern
+酡	t uo
+酣	h an
+酥	s u
+酩	m ing
+酪	l uo
+酬	ch ou
+酮	t ong
+酯	zh ii
+酲	ch ng
+酵	s iau
+酷	k u
+酸	s uan
+醃	ien
+醅	p ei
+醇	ch un
+醉	z uei
+醋	c u
+醍	t i
+醐	h u
+醒	s ing
+醚	m i
+醛	c yuan
+醜	ch ou
+醞	yun
+醣	t ang
+醪	l au
+醫	i
+醫學	i s yue
+醫師	i sh ii
+醫生	i sh ng
+醫療	i l iau
+醫院	i yuan
+醬	z iang
+醮	z iau
+醯	s i
+醱	p uo
+醴	l i
+醺	s yun
+釀	n iang
+釁	s in
+釅	ien
+采	c ai
+釉	iou
+釋	sh ii
+釋放	sh ii f ang
+里	l i
+重	ch ong
+重	zh ong
+重大	zh ong d a
+重建	ch ong z ien
+重新	ch ong s in
+重複	ch ong f u
+重要	zh ong iau
+重視	zh ong sh ii
+重量	zh ong l iang
+重點	zh ong d ien
+野	ie
+量	l iang
+釐	l i
+金	z in
+金剛	z in g ang
+金屬	z in sh u
+金融	z in rh ong
+金錢	z in c ien
+金額	z in er
+釔	i
+釗	zh au
+釘	d ing
+釜	f u
+針	zh ern
+針對	zh ern d uei
+釣	d iau
+釦	k ou
+釧	ch uan
+釩	f an
+釵	ch ai
+釷	t u
+釹	n yu
+鈀	b a
+鈀	p a
+鈉	n a
+鈍	d un
+鈐	c ien
+鈔	ch au
+鈕	n iou
+鈞	z yun
+鈣	g ai
+鈦	t ai
+鈮	n i
+鈰	sh ii
+鈴	l ing
+鈷	g u
+鈸	b a
+鈹	p i
+鈺	yu
+鈽	b u
+鈾	iou
+鈿	d ien
+鉀	z ia
+鉅	z yu
+鉈	t a
+鉉	s uan
+鉋	b au
+鉍	b i
+鉑	b uo
+鉗	c ien
+鉚	l iou
+鉚	m au
+鉛	c ien
+鉞	yue
+鉤	g ou
+鉦	zh ng
+鉬	m u
+鉭	t an
+鉸	z iau
+鉺	err
+鉻	g er
+銀	in
+銀行	in h ang
+銃	ch ong
+銅	t ong
+銑	s ien
+銓	c yuan
+銖	zh u
+銘	m ing
+銚	d iau
+銜	s ien
+銠	l au
+銣	rh u
+銥	i
+銦	in
+銨	an
+銫	s er
+銬	k au
+銲	h an
+銳	rh uei
+銷	s iau
+銷售	s iau sh ou
+銻	t i
+銼	c uo
+鋁	l yu
+鋃	l ang
+鋅	s in
+鋇	b ei
+鋌	d ing
+鋌	t ing
+鋐	h ong
+鋒	f ng
+鋤	ch u
+鋦	z yu
+鋨	er
+鋪	p u
+鋮	ch ng
+鋯	g au
+鋰	l i
+鋸	z yu
+鋼	g ang
+鋼琴	g ang c in
+錄	l u
+錄音	l u in
+錏	ia
+錐	zh uei
+錒	a
+錕	k un
+錘	ch uei
+錙	z ii
+錚	zh ng
+錠	d ing
+錡	c i
+錢	c ien
+錦	z in
+錨	m au
+錩	ch ang
+錫	s i
+錮	g u
+錯	c uo
+錯誤	c uo u
+錯過	c uo g uo
+錳	m ng
+錶	b iau
+錸	l ai
+鍇	k ai
+鍊	l ien
+鍋	g uo
+鍍	d u
+鍔	er
+鍘	zh a
+鍚	s i
+鍛	d uan
+鍥	c ie
+鍬	c iau
+鍰	h uan
+鍵	z ien
+鍵盤	z ien p an
+鍶	s ii
+鍺	zh er
+鍼	zh ern
+鍾	zh ong
+鎂	m ei
+鎊	b ang
+鎏	l iou
+鎔	rh ong
+鎖	s uo
+鎗	c iang
+鎘	g er
+鎚	ch uei
+鎢	u
+鎦	l iou
+鎧	k ai
+鎩	sh a
+鎬	h au
+鎮	zh ern
+鎰	i
+鎳	n ie
+鎵	z ia
+鏃	z u
+鏇	s yuan
+鏈	l ien
+鏊	au
+鏍	l uo
+鏑	d i
+鏖	au
+鏗	k ng
+鏘	c iang
+鏜	t ang
+鏝	m an
+鏞	iong
+鏟	ch an
+鏡	z ing
+鏡頭	z ing t ou
+鏢	b iau
+鏤	l ou
+鏨	z an
+鏵	h ua
+鏹	c iang
+鏽	s iou
+鐃	n au
+鐐	l iau
+鐓	d un
+鐘	zh ong
+鐙	d ng
+鐫	z yuan
+鐮	l ien
+鐲	zh uo
+鐳	l ei
+鐵	t ie
+鐵路	t ie l u
+鐶	h uan
+鐸	d uo
+鐺	d ang
+鑄	zh u
+鑊	h uo
+鑌	b in
+鑑	z ien
+鑒	z ien
+鑠	sh uo
+鑣	b iau
+鑫	s in
+鑭	l an
+鑰	iau
+鑲	s iang
+鑷	n ie
+鑼	l uo
+鑽	z uan
+鑽石	z uan sh ii
+鑾	l uan
+鑿	z uo
+钁	z yue
+長	ch ang
+長大	zh ang d a
+長期	ch ang c i
+門	m ern
+門口	m ern k ou
+門票	m ern p iau
+閂	sh uan
+閃	sh an
+閆	ien
+閉	b i
+開	k ai
+開口	k ai k ou
+開啟	k ai c i
+開始	k ai sh ii
+開幕	k ai m u
+開心	k ai s in
+開放	k ai f ang
+開機	k ai z i
+開發	k ai f a
+開車	k ai ch er
+閎	h ong
+閏	rh un
+閑	s ien
+閒	s ien
+間	z ien
+閔	m in
+閘	zh a
+閞	b ien
+閡	h er
+閣	g er
+閣下	g er s ia
+閥	f a
+閨	g uei
+閩	m in
+閬	l ang
+閭	l yu
+閰	ien
+閱	yue
+閱讀	yue d u
+閶	ch ang
+閹	ien
+閻	ien
+閼	er
+閾	yu
+闃	c yu
+闆	b an
+闈	uei
+闊	k uo
+闋	c yue
+闌	l an
+闍	sh er
+闐	t ien
+闓	k ai
+闔	h er
+闕	c yue
+闖	ch uang
+關	g uan
+關係	g uan s i
+關心	g uan s in
+關懷	g uan h uai
+關於	g uan yu
+關注	g uan zh u
+關鍵	g uan z ien
+關閉	g uan b i
+闞	h an
+闞	k an
+闡	ch an
+闢	p i
+闥	t a
+阜	f u
+阡	c ien
+阪	b an
+阮	rh uan
+阱	z ing
+防	f ang
+防止	f ang zh ii
+防水	f ang sh uei
+阻	z u
+阻止	z u zh ii
+阼	z uo
+阿	a
+阿	er
+阿姨	a i
+陀	t uo
+陂	p i
+附	f u
+附近	f u z in
+陋	l ou
+陌	m uo
+陌生	m uo sh ng
+降	z iang
+降低	z iang d i
+限	s ien
+限制	s ien zh ii
+限量	s ien l iang
+陔	g ai
+陘	s ing
+陛	b i
+陝	sh an
+陟	zh ii
+陡	d ou
+院	yuan
+院長	yuan zh ang
+陣	zh ern
+陣子	zh ern z ii
+除	ch u
+除了	ch u l er
+除非	ch u f ei
+陪	p ei
+陪伴	p ei b an
+陰	in
+陲	ch uei
+陳	ch ern
+陳水扁	ch ern sh uei b ien
+陵	l ing
+陶	t au
+陷	s ien
+陷入	s ien rh u
+陸	l u
+陸續	l u s yu
+陽	iang
+陽光	iang g uang
+隄	t i
+隅	yu
+隆	l ong
+隈	uei
+隊	d uei
+隊伍	d uei u
+隋	s uei
+隍	h uang
+階	z ie
+階段	z ie d uan
+隔	g er
+隔天	g er t ien
+隕	yun
+隗	uei
+隘	ai
+隙	s i
+際	z i
+障	zh ang
+障礙	zh ang ai
+隤	t uei
+隧	s uei
+隧道	s uei d au
+隨	s uei
+隨便	s uei b ien
+隨後	s uei h ou
+隨意	s uei i
+隨時	s uei sh ii
+隨著	s uei zh er
+隨身	s uei sh ern
+險	s ien
+隰	s i
+隱	in
+隱藏	in c ang
+隴	l ong
+隸	l i
+隹	zh uei
+隻	zh ii
+隼	zh un
+雀	c yue
+雁	ien
+雄	s iong
+雅	ia
+集	z i
+集中	z i zh ong
+集合	z i h er
+集團	z i t uan
+集體	z i t i
+雇	g u
+雉	zh ii
+雋	z yuan
+雋	z yun
+雌	c ii
+雍	iong
+雎	z yu
+雒	l uo
+雕	d iau
+雖	s uei
+雖然	s uei rh an
+雙	sh uang
+雙方	sh uang f ang
+雛	ch u
+雜	z a
+雜誌	z a zh ii
+雞	z i
+離	l i
+離婚	l i h un
+離開	l i k ai
+難	n an
+難以	n an i
+難度	n an d u
+難得	n an d er
+難怪	n an g uai
+難過	n an g uo
+難道	n an d au
+雨	yu
+雩	yu
+雪	s yue
+雯	un
+雲	yun
+零	l ing
+零件	l ing z ien
+雷	l ei
+雷射	l ei sh er
+雹	b au
+電	d ien
+電信	d ien s in
+電力	d ien l i
+電動	d ien d ong
+電台	d ien t ai
+電子	d ien z ii
+電影	d ien ing
+電梯	d ien t i
+電池	d ien ch ii
+電源	d ien yuan
+電腦	d ien n au
+電視	d ien sh ii
+電視劇	d ien sh ii z yu
+電視台	d ien sh ii t ai
+電話	d ien h ua
+需	s yu
+需求	s yu c iou
+需要	s yu iau
+霄	s iau
+霆	t ing
+震	zh ern
+震撼	zh ern h an
+霈	p ei
+霉	m ei
+霍	h uo
+霎	sh a
+霏	f ei
+霑	zh an
+霓	n i
+霖	l in
+霜	sh uang
+霞	s ia
+霧	u
+霰	s ien
+露	l u
+露出	l ou ch u
+霸	b a
+霹	p i
+霽	z i
+霾	m ai
+靂	l i
+靄	ai
+靈	l ing
+靈魂	l ing h un
+靉	ai
+青	c ing
+青少年	c ing sh au n ien
+青年	c ing n ien
+青春	c ing ch un
+靖	z ing
+靚	z ing
+靛	d ien
+靜	z ing
+非	f ei
+非常	f ei ch ang
+非法	f ei f a
+非洲	f ei zh ou
+靠	k au
+靠近	k au z in
+靡	m i
+面	m ien
+面前	m ien c ien
+面對	m ien d uei
+面積	m ien z i
+面臨	m ien l in
+面試	m ien sh ii
+靦	t ien
+靨	ie
+革	g er
+革命	g er m ing
+靳	z in
+靴	s yue
+靶	b a
+靼	d a
+鞅	iang
+鞋	s ie
+鞍	an
+鞏	g ong
+鞘	c iau
+鞞	b ing
+鞠	z yu
+鞣	rh ou
+鞦	c iou
+鞭	b ien
+韁	z iang
+韃	d a
+韆	c ien
+韋	uei
+韌	rh ern
+韓	h an
+韓國	h an g uo
+韙	uei
+韜	t au
+韞	yun
+韭	z iou
+音	in
+音樂	in yue
+音樂會	in yue h uei
+韶	sh au
+韻	yun
+響	s iang
+頁	ie
+頂	d ing
+頂級	d ing z i
+頃	c ing
+項	s iang
+項目	s iang m u
+順	sh un
+順便	sh un b ien
+順利	sh un l i
+順序	sh un s yu
+頇	h an
+須	s yu
+頊	s yu
+頌	s ong
+頎	c i
+預	yu
+預定	yu d ing
+預期	yu c i
+預測	yu c er
+預算	yu s uan
+預約	yu yue
+預訂	yu d ing
+預計	yu z i
+預防	yu f ang
+頑	uan
+頒	b an
+頓	d un
+頗	p uo
+領	l ing
+領域	l ing yu
+領導	l ing d au
+領袖	l ing s iou
+頜	g er
+頡	s ie
+頡	z ie
+頤	i
+頦	h ai
+頫	f u
+頭	t ou
+頭髮	t ou f a
+頰	z ia
+頷	h an
+頸	z ing
+頹	t uei
+頻	p in
+頻道	p in d au
+顆	k er
+題	t i
+題材	t i c ai
+題目	t i m u
+額	er
+額外	er uai
+顎	er
+顏	ien
+顏色	ien s er
+顒	iong
+顓	zh uan
+顗	i
+願	yuan
+願意	yuan i
+願望	yuan uang
+顙	s ang
+顛	d ien
+類	l ei
+類似	l ei s ii
+類別	l ei b ie
+類型	l ei s ing
+顢	m an
+顥	h au
+顧	g u
+顧問	g u un
+顧客	g u k er
+顫	zh an
+顯	s ien
+顯得	s ien d er
+顯然	s ien rh an
+顯示	s ien sh ii
+顰	p in
+顱	l u
+顳	n ie
+顴	c yuan
+風	f ng
+風味	f ng uei
+風情	f ng c ing
+風景	f ng z ing
+風暴	f ng b au
+風格	f ng g er
+風水	f ng sh uei
+風險	f ng s ien
+颮	b iau
+颯	s a
+颱	t ai
+颱風	t ai f ng
+颳	g ua
+颶	z yu
+颺	iang
+颻	iau
+颼	s ou
+飄	p iau
+飆	b iau
+飛	f ei
+飛機	f ei z i
+飛行	f ei s ing
+食	sh ii
+食品	sh ii p in
+食材	sh ii c ai
+食物	sh ii u
+食用	sh ii iong
+食譜	sh ii p u
+飢	z i
+飩	t un
+飪	rh ern
+飭	ch ii
+飯	f an
+飯店	f an d ien
+飲	in
+飲料	in l iau
+飲食	in sh ii
+飴	i
+飼	s ii
+飽	b au
+飾	sh ii
+飾演	sh ii ien
+餃	z iau
+餅	b ing
+餈	c ii
+餉	s iang
+養	iang
+養生	iang sh ng
+餌	err
+餐	c an
+餐廳	c an t ing
+餐飲	c an in
+餑	b uo
+餒	n ei
+餓	er
+餘	yu
+餚	iau
+餛	h un
+餞	z ien
+餡	s ien
+館	g uan
+餫	yun
+餬	h u
+餮	t ie
+餵	uei
+餾	l iou
+餿	s ou
+饃	m uo
+饅	m an
+饈	s iou
+饉	z in
+饋	k uei
+饌	zh uan
+饒	rh au
+饕	t au
+饗	s iang
+饜	ien
+饞	ch an
+首	sh ou
+首先	sh ou s ien
+首次	sh ou c ii
+首都	sh ou d u
+首頁	sh ou ie
+馗	k uei
+馘	g uo
+香	s iang
+香港	s iang g ang
+香港人	s iang g ang rh ern
+馡	f ei
+馥	f u
+馨	s in
+馬	m a
+馬上	m a sh ang
+馬來西亞	m a l ai s i ia
+馬英九	m a ing z iou
+馭	yu
+馮	f ng
+馱	t uo
+馳	ch ii
+馴	s yun
+駁	b uo
+駐	zh u
+駑	n u
+駒	z yu
+駕	z ia
+駕駛	z ia sh ii
+駘	t ai
+駙	f u
+駛	sh ii
+駝	t uo
+駟	s ii
+駢	p ien
+駭	h ai
+駱	l uo
+駿	z yun
+騁	ch ng
+騄	l u
+騅	zh uei
+騎	c i
+騎士	c i sh ii
+騎士	z i sh ii
+騏	c i
+騖	u
+騙	p ien
+騜	h uang
+騫	c ien
+騭	zh ii
+騮	l iou
+騰	t ng
+騷	s au
+騺	zh ii
+騾	l uo
+驀	m uo
+驁	au
+驃	p iau
+驄	c ong
+驅	c yu
+驅動	c yu d ong
+驊	h ua
+驍	s iau
+驒	t uo
+驕	z iau
+驗	ien
+驗證	ien zh ng
+驚	z ing
+驚人	z ing rh ern
+驚喜	z ing s i
+驚訝	z ing ia
+驛	i
+驟	z ou
+驢	l yu
+驤	s iang
+驥	z i
+驪	l i
+骨	g u
+骯	ang
+骯	k ang
+骰	sh ai
+骰	t ou
+骷	k u
+骸	h ai
+骼	g er
+髀	b i
+髁	k er
+髂	k a
+髏	l ou
+髑	d u
+髒	z ang
+髓	s uei
+體	t i
+體內	t i n ei
+體力	t i l i
+體會	t i h uei
+體系	t i s i
+體育	t i yu
+體重	t i zh ong
+體驗	t i ien
+髕	b in
+髖	k uan
+高	g au
+高中	g au zh ong
+高度	g au d u
+高手	g au sh ou
+高潮	g au ch au
+高級	g au z i
+高興	g au s ing
+高速	g au s u
+高達	g au d a
+高鐵	g au t ie
+高雄	g au s iong
+高雄市	g au s iong sh ii
+髡	k un
+髦	m au
+髫	t iau
+髭	z ii
+髮	f a
+髯	rh an
+髻	z i
+鬃	z ong
+鬆	s ong
+鬈	c yuan
+鬍	h u
+鬘	m an
+鬚	s yu
+鬟	h uan
+鬢	b in
+鬣	l ie
+鬥	d ou
+鬧	n au
+鬨	h ong
+鬯	ch ang
+鬱	yu
+鬲	g er
+鬼	g uei
+魁	k uei
+魂	h un
+魃	b a
+魄	p uo
+魅	m ei
+魅力	m ei l i
+魆	s yu
+魈	s iau
+魍	uang
+魎	l iang
+魏	uei
+魑	ch ii
+魔	m uo
+魔法	m uo f a
+魘	ien
+魚	yu
+魟	h ong
+魠	t uo
+魨	t un
+魯	l u
+魴	f ang
+魷	iou
+鮀	t uo
+鮑	b au
+鮞	err
+鮪	uei
+鮫	z iau
+鮭	g uei
+鮮	s ien
+鮸	m ien
+鯁	g ng
+鯇	h uan
+鯇	h un
+鯉	l i
+鯊	sh a
+鯓	sh ern
+鯔	z ii
+鯖	c ing
+鯖	zh ng
+鯗	s iang
+鯛	d iau
+鯡	f ei
+鯢	n i
+鯤	k un
+鯧	ch ang
+鯨	z ing
+鯪	l ing
+鯰	n ien
+鯷	t i
+鯽	z i
+鰈	d ie
+鰍	c iou
+鰓	s ai
+鰥	g uan
+鰨	t a
+鰭	c i
+鰱	l ien
+鰲	au
+鰹	z ien
+鰻	m an
+鱈	s yue
+鱉	b ie
+鱒	z un
+鱔	sh an
+鱖	g uei
+鱗	l in
+鱘	s yun
+鱟	h ou
+鱧	l i
+鱭	z i
+鱷	er
+鱸	l u
+鱺	l i
+鳥	n iau
+鳧	f u
+鳩	z iou
+鳳	f ng
+鳴	m ing
+鳶	yuan
+鴆	zh ern
+鴇	b au
+鴉	ia
+鴒	l ing
+鴕	t uo
+鴛	yuan
+鴝	c yu
+鴞	s iau
+鴣	g u
+鴦	iang
+鴨	ia
+鴰	g ua
+鴻	h ong
+鴿	g er
+鵑	z yuan
+鵜	t i
+鵝	er
+鵠	h u
+鵡	u
+鵪	an
+鵬	p ng
+鵯	b ei
+鵰	d iau
+鵲	c yue
+鶉	ch un
+鶖	c iou
+鶘	h u
+鶚	er
+鶩	u
+鶯	ing
+鶴	h er
+鶺	z i
+鶻	g u
+鶻	h u
+鶼	z ien
+鶿	c ii
+鷂	iau
+鷓	zh er
+鷗	ou
+鷙	zh ii
+鷟	zh uo
+鷥	s ii
+鷯	l iau
+鷲	z iou
+鷳	s ien
+鷸	yu
+鷹	ing
+鷺	l u
+鸕	l u
+鸚	ing
+鸛	g uan
+鸝	l i
+鸞	l uan
+鹵	l u
+鹹	s ien
+鹼	z ien
+鹽	ien
+鹿	l u
+麂	z i
+麇	c yun
+麇	z yun
+麈	zh u
+麋	m i
+麒	c i
+麓	l u
+麗	l i
+麝	sh er
+麟	l in
+麤	c u
+麥	m ai
+麩	f u
+麴	c yu
+麵	m ien
+麵包	m ien b au
+麻	m a
+麻煩	m a f an
+麼	m er
+麼	m uo
+麾	h uei
+黃	h uang
+黃色	h uang s er
+黃金	h uang z in
+黍	sh u
+黎	l i
+黏	n ien
+黐	ch ii
+黑	h ei
+黑	h er
+黑暗	h ei an
+黑色	h ei s er
+黔	c ien
+默	m uo
+默默	m uo m uo
+黛	d ai
+黜	ch u
+黝	iou
+點	d ien
+點心	d ien s in
+黟	i
+黠	s ia
+黥	c ing
+黧	l i
+黨	d ang
+黯	an
+黴	m ei
+黷	d u
+黹	zh ii
+黻	f u
+黽	m in
+鼇	au
+鼉	t uo
+鼎	d ing
+鼐	n ai
+鼓	g u
+鼓勵	g u l i
+鼠	sh u
+鼬	iou
+鼯	u
+鼴	ien
+鼻	b i
+鼾	h an
+齁	h ou
+齊	c i
+齋	zh ai
+齎	z i
+齒	ch ii
+齜	z ii
+齟	z yu
+齡	l ing
+齣	ch u
+齦	in
+齪	ch uo
+齬	yu
+齲	c yu
+齶	er
+齷	uo
+龍	l ong
+龐	p ang
+龐大	p ang d a
+龑	ien
+龔	g ong
+龕	k an
+龜	g uei
