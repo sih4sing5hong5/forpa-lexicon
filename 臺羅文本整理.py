@@ -14,6 +14,8 @@ class 轉:
         for 檔案 in sorted(listdir(self.台文資料夾)):
             if 檔案.endswith('.txt.gz'):
                 yield from self._台語句(join(self.台文資料夾, 檔案))
+            elif 檔案.endswith('.分詞.gz'):
+                yield from self._分詞句(join(self.台文資料夾, 檔案))
 
     def _台語句(self, 檔名):
         for 一逝 in 程式腳本._讀檔案(檔名):
@@ -23,6 +25,16 @@ class 轉:
                 )
                 .轉音(臺灣閩南語羅馬字拼音相容教會羅馬字音標)
             )
+            yield 句物件
+
+    def _分詞句(self, 檔名):
+        for 一逝 in 程式腳本._讀檔案(檔名):
+            句物件 = (
+                拆文分析器.分詞句物件(一逝)
+                .轉音(臺灣閩南語羅馬字拼音相容教會羅馬字音標)
+            )
+            for 字物件 in 句物件.篩出字物件():
+                字物件.型=字物件.音
             yield 句物件
 
 
