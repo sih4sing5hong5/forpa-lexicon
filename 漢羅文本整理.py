@@ -13,6 +13,7 @@ from 臺灣言語工具.語言模型.KenLM語言模型 import KenLM語言模型
 from 臺灣言語工具.斷詞.拄好長度辭典揣詞 import 拄好長度辭典揣詞
 from 臺灣言語工具.斷詞.語言模型揀集內組 import 語言模型揀集內組
 from 臺灣言語工具.語言模型.KenLM語言模型訓練 import KenLM語言模型訓練
+from 臺灣言語工具.語言模型.安裝KenLM訓練程式 import 安裝KenLM訓練程式
 
 
 class 轉:
@@ -113,6 +114,7 @@ class 轉:
 
 
 def main():
+    安裝KenLM訓練程式().kenlm資料夾路徑()
     with open('漢佮羅lm-臺羅無標.txt', 'w') as 輸出:
         for 第幾筆, 句物件 in enumerate(轉().全部台語(), start=1):
             詞陣列 = []
