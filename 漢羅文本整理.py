@@ -49,7 +49,6 @@ class 轉:
             for 字物件 in 標好句物件.篩出字物件():
                 if 字物件.音 == 無音:
                     字物件.音 = 字物件.型
-            print(句物件, 標好句物件)
             yield 標好句物件
         yield from self.全部正規化分詞台語()
 
@@ -124,10 +123,7 @@ def main():
                 else:
                     詞陣列.append(詞物件)
             組物件 = 組(詞陣列)
-            try:
-                print(組物件.看分詞(), file=輸出)
-            except IndexError:
-                print(組物件)
+            print(組物件.看分詞(), file=輸出)
 
             if 第幾筆 % 1000 == 0:
                 print('第 {} 筆'.format(第幾筆))
