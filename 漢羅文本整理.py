@@ -17,18 +17,29 @@ from 臺灣言語工具.語言模型.KenLM語言模型訓練 import KenLM語言�
 
 class 轉:
     台文資料夾 = join(dirname(abspath(__file__)), '台語文本')
+    語言模型資料夾所在 = join(dirname(abspath(__file__)), '語言模型資料夾')
+    正規化過的分詞 = [
+        'su-lui.分詞.gz',
+        'moedict_su.分詞.gz',
+        '例句.分詞.gz',
+        '陳先生60句.分詞.gz',
+        '陳先生提供的語句.分詞.gz',
+    ]
 
     def 全部台語(self):
+        語言模型檔 = KenLM語言模型訓練().訓練(
+            self.全部正規化分詞檔案(), 暫存資料夾=self.語言模型資料夾所在, 連紲詞長度=3
+        )
+        語言模型 = KenLM語言模型(語言模型檔)
+
         全部詞 = set()
-        for 句物件 in self.全部分詞台語():
+        for 句物件 in self.全部正規化分詞台語():
             for 詞物件 in 句物件.網出詞物件():
                 全部詞.add(詞物件)
+        print(len(全部詞))
         辭典 = 型音辭典(4)
         for 詞物件 in 全部詞:
             辭典.加詞(詞物件)
-        語言模型所在 = '語言模型資料夾'
-        KenLM語言模型訓練().訓練(self.全部分詞檔案(), 暫存資料夾=語言模型所在, 連紲詞長度=3)
-        語言模型 = KenLM語言模型()
         for 句物件 in self.其他猶未整理台語():
             標好句物件 = (
                 句物件
@@ -38,25 +49,24 @@ class 轉:
             for 字物件 in 標好句物件.篩出字物件():
                 if 字物件.音 == 無音:
                     字物件.音 = 字物件.型
+            print(句物件, 標好句物件)
             yield 標好句物件
-        yield from self.全部分詞台語()
+        yield from self.全部正規化分詞台語()
 
     def 其他猶未整理台語(self):
         for 檔案 in sorted(listdir(self.台文資料夾)):
             if 檔案.endswith('.txt.gz'):
                 yield from self._txt句(join(self.台文資料夾, 檔案))
-            elif 檔案.endswith('數位典藏.分詞.gz'):
+            elif 檔案.endswith('.分詞.gz') and 檔案 not in self.正規化過的分詞:
                 yield from self._分詞混合(join(self.台文資料夾, 檔案))
 
-    def 全部分詞台語(self):
-        for 檔名 in self.全部分詞檔案():
+    def 全部正規化分詞台語(self):
+        for 檔名 in self.全部正規化分詞檔案():
             yield from self._分詞句(檔名)
 
-    def 全部分詞檔案(self):
+    def 全部正規化分詞檔案(self):
         for 檔案 in sorted(listdir(self.台文資料夾)):
-            if 檔案.endswith('數位典藏.分詞.gz'):
-                pass
-            elif 檔案.endswith('.分詞.gz'):
+            if 檔案 in self.正規化過的分詞:
                 yield join(self.台文資料夾, 檔案)
 
     def _txt句(self, 檔名):
@@ -97,13 +107,10 @@ class 轉:
 
     def _分詞句(self, 檔名):
         for 一逝 in 程式腳本._讀檔案(檔名):
-            句物件 = (
+            yield (
                 拆文分析器.分詞句物件(一逝)
                 .轉音(臺灣閩南語羅馬字拼音相容教會羅馬字音標)
             )
-            for 字物件 in 句物件.篩出字物件():
-                字物件.型 = 字物件.音
-            yield 句物件
 
 
 def main():
