@@ -14,6 +14,7 @@ from 臺灣言語工具.斷詞.拄好長度辭典揣詞 import 拄好長度辭�
 from 臺灣言語工具.斷詞.語言模型揀集內組 import 語言模型揀集內組
 from 臺灣言語工具.語言模型.KenLM語言模型訓練 import KenLM語言模型訓練
 from 臺灣言語工具.語言模型.安裝KenLM訓練程式 import 安裝KenLM訓練程式
+from tempfile import TemporaryDirectory
 
 
 class 轉:
@@ -28,16 +29,22 @@ class 轉:
     ]
 
     def 全部台語(self):
-        語言模型檔 = KenLM語言模型訓練().訓練(
-            self.全部正規化分詞檔案(), 暫存資料夾=self.語言模型資料夾所在, 連紲詞長度=3
-        )
+        全部詞 = set()
+        with TemporaryDirectory() as 暫時:
+            全部資料暫時所在 = join(暫時, '全部資料.txt')
+            with open(全部資料暫時所在, 'w') as 全部資料暫時檔案:
+                for 句物件 in self.全部正規化分詞台語():
+                    for 詞物件 in 句物件.網出詞物件():
+                        全部詞.add(詞物件)
+
+                    print(句物件.看分詞(), file=全部資料暫時檔案)
+
+            語言模型檔 = KenLM語言模型訓練().訓練(
+                [全部資料暫時所在], 暫存資料夾=self.語言模型資料夾所在, 連紲詞長度=3
+            )
+        print(len(全部詞))
         語言模型 = KenLM語言模型(語言模型檔)
 
-        全部詞 = set()
-        for 句物件 in self.全部正規化分詞台語():
-            for 詞物件 in 句物件.網出詞物件():
-                全部詞.add(詞物件)
-        print(len(全部詞))
         辭典 = 型音辭典(4)
         for 詞物件 in 全部詞:
             辭典.加詞(詞物件)
@@ -120,12 +127,14 @@ def main():
             詞陣列 = []
             for 詞物件 in 句物件.網出詞物件():
                 for 字物件 in 詞物件.篩出字物件():
-                    if 臺灣閩南語羅馬字拼音(字物件.型).音標 is None:
+                    if 臺灣閩南語羅馬字拼音(字物件.音).音標 is None:
                         break
                 else:
                     詞陣列.append(詞物件)
             組物件 = 組(詞陣列)
             print(組物件.看分詞(), file=輸出)
+            print(句物件.看分詞())
+            print(組物件.看分詞())
 
             if 第幾筆 % 1000 == 0:
                 print('第 {} 筆'.format(第幾筆))
