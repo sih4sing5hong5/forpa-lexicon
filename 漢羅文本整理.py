@@ -9,19 +9,26 @@ from 臺灣言語工具.基本物件.組 import 組
 from 用字.models import 用字表
 from 臺灣言語工具.基本物件.公用變數 import 無音
 from 臺灣言語工具.辭典.型音辭典 import 型音辭典
-from 臺灣言語工具.語言模型.語言模型 import 語言模型
 from 臺灣言語工具.語言模型.KenLM語言模型 import KenLM語言模型
 from 臺灣言語工具.斷詞.拄好長度辭典揣詞 import 拄好長度辭典揣詞
 from 臺灣言語工具.斷詞.語言模型揀集內組 import 語言模型揀集內組
-from 臺灣言語工具.音標系統.閩南語.通用拼音音標 import 通用拼音音標
+from 臺灣言語工具.語言模型.KenLM語言模型訓練 import KenLM語言模型訓練
 
 
 class 轉:
     台文資料夾 = join(dirname(abspath(__file__)), '台語文本')
 
     def 全部台語(self):
+        全部詞 = set()
+        for 句物件 in self.全部分詞台語():
+            for 詞物件 in 句物件.網出詞物件():
+                全部詞.add(詞物件)
         辭典 = 型音辭典(4)
-        語言模型 = KenLM語言模型('語言模型資料夾/語言模型.lm')
+        for 詞物件 in 全部詞:
+            辭典.加詞(詞物件)
+        語言模型所在 = '語言模型資料夾'
+        KenLM語言模型訓練().訓練(self.全部分詞檔案(), 暫存資料夾=語言模型所在, 連紲詞長度=3)
+        語言模型 = KenLM語言模型()
         for 句物件 in self.其他猶未整理台語():
             標好句物件 = (
                 句物件
@@ -38,15 +45,19 @@ class 轉:
         for 檔案 in sorted(listdir(self.台文資料夾)):
             if 檔案.endswith('.txt.gz'):
                 yield from self._txt句(join(self.台文資料夾, 檔案))
-            elif 檔案.endswith('數位典藏.分詞混合.gz'):
+            elif 檔案.endswith('數位典藏.分詞.gz'):
                 yield from self._分詞混合(join(self.台文資料夾, 檔案))
 
     def 全部分詞台語(self):
+        for 檔名 in self.全部分詞檔案():
+            yield from self._分詞句(檔名)
+
+    def 全部分詞檔案(self):
         for 檔案 in sorted(listdir(self.台文資料夾)):
-            if 檔案.endswith('數位典藏.分詞混合.gz'):
+            if 檔案.endswith('數位典藏.分詞.gz'):
                 pass
             elif 檔案.endswith('.分詞.gz'):
-                yield from self._分詞句(join(self.台文資料夾, 檔案))
+                yield join(self.台文資料夾, 檔案)
 
     def _txt句(self, 檔名):
         for 一逝 in 程式腳本._讀檔案(檔名):
