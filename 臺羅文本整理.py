@@ -1,10 +1,11 @@
 from os.path import abspath, dirname, join
+from posix import listdir
 from 臺灣言語工具.解析整理.拆文分析器 import 拆文分析器
 from 臺灣言語工具.解析整理.文章粗胚 import 文章粗胚
 from 臺灣言語工具.音標系統.閩南語.臺灣閩南語羅馬字拼音 import 臺灣閩南語羅馬字拼音
 from 臺灣言語工具.系統整合.程式腳本 import 程式腳本
-from posix import listdir
 from 臺灣言語工具.音標系統.閩南語.臺灣閩南語羅馬字拼音相容教會羅馬字音標 import 臺灣閩南語羅馬字拼音相容教會羅馬字音標
+from 臺灣言語工具.基本物件.組 import 組
 
 
 class 轉:
@@ -21,7 +22,10 @@ class 轉:
         for 一逝 in 程式腳本._讀檔案(檔名):
             句物件 = (
                 拆文分析器.建立句物件(
-                    文章粗胚.建立物件語句前處理減號(臺灣閩南語羅馬字拼音相容教會羅馬字音標, 一逝)
+                    文章粗胚.建立物件語句前處理減號(
+                        臺灣閩南語羅馬字拼音相容教會羅馬字音標,
+                        文章粗胚.數字英文中央全加分字符號(一逝)
+                    )
                 )
                 .轉音(臺灣閩南語羅馬字拼音相容教會羅馬字音標)
             )
@@ -34,40 +38,52 @@ class 轉:
                 .轉音(臺灣閩南語羅馬字拼音相容教會羅馬字音標)
             )
             for 字物件 in 句物件.篩出字物件():
-                字物件.型=字物件.音
+                字物件.型 = 字物件.音
             yield 句物件
 
 
+def main():
+    with open('臺語lm-臺羅無標.txt', 'w') as 輸出:
+        with open('臺語lm-通用無標.txt', 'w') as 通用檔案:
+            標點符號 = set()
+            臺羅 = []
+            通用 = []
+            for 第幾筆, 句物件 in enumerate(轉().全部台語(), start=1):
+                臺羅.append(句物件.看型('-', ' '))
+                try:
+                    通用.append(句物件.轉音(臺灣閩南語羅馬字拼音, '轉通用拼音').看型('-', ' '))
+                except:
+                    print(臺羅[-1])
+                for 字物件 in 句物件.篩出字物件():
+                    if 臺灣閩南語羅馬字拼音(字物件.型).音標 is None:
+                        標點符號.add(字物件.型)
+
+                詞陣列 = []
+                for 詞物件 in 句物件.網出詞物件():
+                    for 字物件 in 詞物件.篩出字物件():
+                        if 臺灣閩南語羅馬字拼音(字物件.型).音標 is None:
+                            break
+                    else:
+                        詞陣列.append(詞物件)
+                組物件 = 組(詞陣列)
+                try:
+                    print(組物件.看型('-', ' '), file=輸出)
+                    print(
+                        組物件.轉音(臺灣閩南語羅馬字拼音, '轉通用拼音')
+                        .看型('-', ' ')
+                        .replace('or', 'er'),
+                        file=通用檔案
+                    )
+                except IndexError:
+                    print(組物件)
+
+                if 第幾筆 % 1000 == 0:
+                    print('第 {} 筆'.format(第幾筆))
+
+            程式腳本._陣列寫入檔案('臺語lm-臺羅.txt', 臺羅)
+            程式腳本._陣列寫入檔案('臺語lm-通用.txt', 通用)
+            程式腳本._陣列寫入檔案('臺語lm-標點符號.txt', 標點符號)
+
+
 if __name__ == '__main__':
-    標點符號 = set()
-    臺羅 = []
-    通用 = []
-    for 第幾筆, 句物件 in enumerate(轉().全部台語(), start=1):
-        臺羅.append(句物件.看型('-', ' '))
-        try:
-            通用.append(句物件.轉音(臺灣閩南語羅馬字拼音, '轉通用拼音').看型('-', ' '))
-        except:
-            print(臺羅[-1])
-        for 字物件 in 句物件.篩出字物件():
-            if 臺灣閩南語羅馬字拼音(字物件.型).音標 is None:
-                標點符號.add(字物件.型)
-        if 第幾筆 % 1000 == 0:
-            print('第 {} 筆'.format(第幾筆))
-
-    程式腳本._陣列寫入檔案('臺語lm-臺羅.txt', 臺羅)
-    程式腳本._陣列寫入檔案('臺語lm-通用.txt', 通用)
-    程式腳本._陣列寫入檔案('臺語lm-標點符號.txt', 標點符號)
-
-#         資料 = []
-#         for 字物件 in 通用.篩出字物件():
-#             音標 = 通用拼音音標(字物件.型)
-#             資料.append(音標.聲)
-#             資料.append(音標.韻)
-#         全部.append('{}    {}'.format(華語.strip(), ' '.join(資料)))
-#     for 英語 in 程式腳本._讀檔案(join('其他lexicon', '英語lexicon.txt')):
-#         if not 英語.startswith('*'):
-#             全部.append(英語)
-#     全部.extend(程式腳本._讀檔案(join('其他lexicon', '華語lexicon.txt')))
-#     with open('lexicon.txt', 'w') as lexicon:
-#         for 一逝 in sorted(set(全部)):
-#             print(一逝, file=lexicon)
+    main()
