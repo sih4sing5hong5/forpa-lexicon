@@ -23,6 +23,7 @@ class 轉:
     正規化過的分詞 = [
         'su-lui.分詞.gz',
         'moedict_su.分詞.gz',
+        'napheng.分詞.gz',
         '例句.分詞.gz',
         '陳先生60句.分詞.gz',
         '陳先生提供的語句.分詞.gz',
