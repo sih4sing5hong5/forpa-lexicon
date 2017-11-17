@@ -102,3 +102,6 @@ ENV/
 
 *.txt
 *.lm
+/.project
+/.pydevproject
+/.settings
