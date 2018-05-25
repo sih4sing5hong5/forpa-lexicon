@@ -2,7 +2,6 @@ from os.path import abspath, dirname, join
 from posix import listdir
 from 臺灣言語工具.解析整理.拆文分析器 import 拆文分析器
 from 臺灣言語工具.解析整理.文章粗胚 import 文章粗胚
-from 臺灣言語工具.音標系統.閩南語.臺灣閩南語羅馬字拼音 import 臺灣閩南語羅馬字拼音
 from 臺灣言語工具.系統整合.程式腳本 import 程式腳本
 from 臺灣言語工具.音標系統.閩南語.臺灣閩南語羅馬字拼音相容教會羅馬字音標 import 臺灣閩南語羅馬字拼音相容教會羅馬字音標
 from 臺灣言語工具.基本物件.組 import 組
@@ -127,11 +126,7 @@ def main():
         for 第幾筆, 句物件 in enumerate(轉().全部台語(), start=1):
             詞陣列 = []
             for 詞物件 in 句物件.網出詞物件():
-                for 字物件 in 詞物件.篩出字物件():
-                    if 臺灣閩南語羅馬字拼音(字物件.音).音標 is None:
-                        break
-                else:
-                    詞陣列.append(詞物件)
+                詞陣列.append(詞物件)
             組物件 = 組(詞陣列)
             print(組物件.看分詞(), file=輸出)
             print(句物件.看分詞())
