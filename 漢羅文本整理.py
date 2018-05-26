@@ -1,5 +1,6 @@
 from os.path import abspath, dirname, join
 from posix import listdir
+from tempfile import TemporaryDirectory
 from 臺灣言語工具.解析整理.拆文分析器 import 拆文分析器
 from 臺灣言語工具.解析整理.文章粗胚 import 文章粗胚
 from 臺灣言語工具.系統整合.程式腳本 import 程式腳本
@@ -13,7 +14,7 @@ from 臺灣言語工具.斷詞.拄好長度辭典揣詞 import 拄好長度辭�
 from 臺灣言語工具.斷詞.語言模型揀集內組 import 語言模型揀集內組
 from 臺灣言語工具.語言模型.KenLM語言模型訓練 import KenLM語言模型訓練
 from 臺灣言語工具.語言模型.安裝KenLM訓練程式 import 安裝KenLM訓練程式
-from tempfile import TemporaryDirectory
+from 臺灣言語工具.解析整理.解析錯誤 import 解析錯誤
 
 
 class 轉:
@@ -62,9 +63,10 @@ class 轉:
 
     def 其他猶未整理台語(self):
         for 檔案 in sorted(listdir(self.台文資料夾)):
-            if 檔案.endswith('.txt.gz'):
-                yield from self._txt句(join(self.台文資料夾, 檔案))
-            elif 檔案.endswith('.分詞.gz') and 檔案 not in self.正規化過的分詞:
+            if (
+                檔案.endswith('.txt.gz') or
+                (檔案.endswith('.分詞.gz') and 檔案 not in self.正規化過的分詞)
+            ):
                 yield from self._分詞混合(join(self.台文資料夾, 檔案))
 
     def 全部正規化分詞台語(self):
@@ -76,26 +78,13 @@ class 轉:
             if 檔案 in self.正規化過的分詞:
                 yield join(self.台文資料夾, 檔案)
 
-    def _txt句(self, 檔名):
-        for 一逝 in 程式腳本._讀檔案(檔名):
-            句物件 = (
-                拆文分析器.建立句物件(
-                    文章粗胚.建立物件語句前處理減號(
-                        臺灣閩南語羅馬字拼音相容教會羅馬字音標,
-                        文章粗胚.數字英文中央全加分字符號(一逝)
-                    )
-                )
-                .轉音(臺灣閩南語羅馬字拼音相容教會羅馬字音標)
-            )
-            yield 句物件
-
     def _分詞混合(self, 檔名):
         for 一逝 in 程式腳本._讀檔案(檔名):
-            yield self._提出一句(一逝)
+            yield from self._提出一句(一逝)
 
     def _提出一句(self, 一逝):
         if '｜' not in 一逝:
-            return (
+            yield (
                 拆文分析器.建立句物件(
                     文章粗胚.建立物件語句前處理減號(
                         臺灣閩南語羅馬字拼音相容教會羅馬字音標,
@@ -105,12 +94,16 @@ class 轉:
                 .轉音(臺灣閩南語羅馬字拼音相容教會羅馬字音標)
             )
 
-        句物件 = 拆文分析器.分詞句物件(一逝)
-        for 字物件 in 句物件.篩出字物件():
-            if not 用字表.有這个字無(字物件) and 字物件.音 != 無音:
-                字物件.型 = 字物件.音
-                字物件.音 = 無音
-        return 句物件
+        try:
+            句物件 = 拆文分析器.分詞句物件(一逝)
+        except 解析錯誤:
+            pass
+        else:
+            for 字物件 in 句物件.篩出字物件():
+                if not 用字表.有這个字無(字物件) and 字物件.音 != 無音:
+                    字物件.型 = 字物件.音
+                    字物件.音 = 無音
+            yield 句物件
 
     def _分詞句(self, 檔名):
         for 一逝 in 程式腳本._讀檔案(檔名):
